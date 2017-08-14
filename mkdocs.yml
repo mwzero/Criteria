@@ -1,0 +1,8 @@
+theme: readthedocs
+site_name: Criteria
+pages:
+    - Home: index.md
+    - Appendix: 
+        - Compile Criteria: 'appendix/compiling.md'
+        - Compile External Dependencies: 'appendix/compiling_external_dependencies.md'
+        - Code::Blocls: 'appendix/codeblocks.md'
