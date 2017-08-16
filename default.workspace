@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_workspace_file>
+	<Workspace title="Workspace">
+		<Project filename="src/Criteria.WorkflowEngine/WorkflowEngine.cbp" />
+		<Project filename="src/Criteria.Libraries.bOS/Libraries.bOS.cbp" />
+		<Project filename="src/Criteria.Tools.Executor/Tools.Executor.cbp" />
+		<Project filename="src/SandBox/SandBox/SandBox.cbp" />
+	</Workspace>
+</CodeBlocks_workspace_file>

@@ -1,0 +1,2858 @@
+# depslib dependency file v1.0
+1405262844 source:c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\actions\applicationfunctionaction.cpp
+	"CommonDefines.h"
+	"ApplicationFunctionAction.h"
+
+1489770836 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\commondefines.h
+	"bOS/bOS.h"
+	"bOS/bOSStringUtils.h"
+	"bOS/bOSXMLHelper.h"
+	"bOS/bOSXMLNode.h"
+	"bOS/bOSMutex.h"
+	"bOS/bOSThread.h"
+	"bOS/bOSDateTime.h"
+	"EngineException.h"
+	"bOS/Tracer.h"
+
+1489690338 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\include\criteria\bos\bos.h
+	"bOSTypes.h"
+	"bOSWin32.h"
+	"bOSSolaris.h"
+	"bOSHp.h"
+	"bOSUx.h"
+
+1405262839 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\include\criteria\bos\bostypes.h
+
+1489771968 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\include\criteria\bos\boswin32.h
+	<process.h>
+	<windows.h>
+	<commctrl.h>
+	<shlobj.h>
+	<vector>
+	<queue>
+	<stack>
+	<list>
+	<map>
+	<fstream>
+	<iostream>
+	<strstream>
+	<assert.h>
+	<time.h>
+	<stdio.h>
+	<errno.h>
+	<stdlib.h>
+	<sys/timeb.h>
+	<algorithm>
+	<typeinfo>
+	<winsock2.h>
+	<string>
+	<streambuf>
+	<ostream>
+	<stdexcept>
+	<sstream>
+
+1486905344 c:\cygwin\usr\include\process.h
+
+1486905344 c:\cygwin\usr\include\assert.h
+	"_ansi.h"
+
+1486905344 c:\cygwin\usr\include\_ansi.h
+	<newlib.h>
+	<sys/config.h>
+
+1486905344 c:\cygwin\usr\include\newlib.h
+	<_newlib_version.h>
+
+1486905344 c:\cygwin\usr\include\_newlib_version.h
+
+1486905344 c:\cygwin\usr\include\sys\config.h
+	<machine/ieeefp.h>
+	<sys/features.h>
+	<cygwin/config.h>
+
+1486905344 c:\cygwin\usr\include\machine\ieeefp.h
+
+1486905344 c:\cygwin\usr\include\sys\features.h
+	<_newlib_version.h>
+
+1486905345 c:\cygwin\usr\include\cygwin\config.h
+	"../tlsoffsets64.h"
+	"../tlsoffsets.h"
+
+1486905344 c:\cygwin\usr\include\time.h
+	"_ansi.h"
+	<sys/cdefs.h>
+	<sys/reent.h>
+	<stddef.h>
+	<machine/time.h>
+	<sys/types.h>
+	<sys/timespec.h>
+	<sys/_locale.h>
+	<sys/features.h>
+	<cygwin/time.h>
+	<signal.h>
+
+1486905344 c:\cygwin\usr\include\sys\cdefs.h
+	<machine/_default_types.h>
+	<sys/features.h>
+	<stddef.h>
+
+1486905344 c:\cygwin\usr\include\machine\_default_types.h
+	<sys/features.h>
+	<limits.h>
+
+1486905344 c:\cygwin\usr\include\limits.h
+	<features.h>
+	<bits/wordsize.h>
+
+1486905344 c:\cygwin\usr\include\features.h
+	<sys/cdefs.h>
+	<sys/features.h>
+
+1486905345 c:\cygwin\usr\include\bits\wordsize.h
+
+1486905344 c:\cygwin\usr\include\sys\reent.h
+	<_ansi.h>
+	<stddef.h>
+	<sys/_types.h>
+	<sys/types.h>
+	<sys/custom_file.h>
+	<assert.h>
+
+1486905344 c:\cygwin\usr\include\sys\_types.h
+	<newlib.h>
+	<sys/config.h>
+	<machine/_types.h>
+	<sys/lock.h>
+	<stddef.h>
+
+1486905345 c:\cygwin\usr\include\machine\_types.h
+	<machine/_default_types.h>
+
+1486905345 c:\cygwin\usr\include\sys\lock.h
+
+1486905344 c:\cygwin\usr\include\sys\types.h
+	<_ansi.h>
+	<sys/cdefs.h>
+	<machine/_types.h>
+	<stddef.h>
+	<sys/_types.h>
+	<sys/_stdint.h>
+	<machine/endian.h>
+	<sys/select.h>
+	<sys/features.h>
+	<sys/_pthreadtypes.h>
+	<machine/types.h>
+
+1486905344 c:\cygwin\usr\include\sys\_stdint.h
+	<machine/_default_types.h>
+
+1486905344 c:\cygwin\usr\include\machine\endian.h
+	<sys/cdefs.h>
+	<sys/_types.h>
+	<machine/_endian.h>
+
+1486905345 c:\cygwin\usr\include\machine\_endian.h
+	<_ansi.h>
+	<bits/endian.h>
+
+1486905345 c:\cygwin\usr\include\bits\endian.h
+
+1486905344 c:\cygwin\usr\include\sys\select.h
+	<sys/cdefs.h>
+	<sys/_sigset.h>
+	<sys/_timeval.h>
+	<sys/timespec.h>
+
+1486905344 c:\cygwin\usr\include\sys\_sigset.h
+
+1486905344 c:\cygwin\usr\include\sys\_timeval.h
+	<sys/_types.h>
+
+1486905344 c:\cygwin\usr\include\sys\timespec.h
+	<sys/cdefs.h>
+	<sys/_timespec.h>
+
+1486905344 c:\cygwin\usr\include\sys\_timespec.h
+	<sys/_types.h>
+
+1486905345 c:\cygwin\usr\include\sys\_pthreadtypes.h
+
+1486905345 c:\cygwin\usr\include\machine\types.h
+	<endian.h>
+	<bits/wordsize.h>
+	<sys/_timespec.h>
+	<sys/sysmacros.h>
+
+1486905344 c:\cygwin\usr\include\endian.h
+	<sys/config.h>
+	<machine/endian.h>
+	<bits/byteswap.h>
+
+1486905345 c:\cygwin\usr\include\bits\byteswap.h
+
+1486905345 c:\cygwin\usr\include\sys\sysmacros.h
+	<sys/types.h>
+
+1486905344 c:\cygwin\usr\include\sys\custom_file.h
+
+1486905344 c:\cygwin\usr\include\machine\time.h
+	<sys/_timespec.h>
+
+1486905344 c:\cygwin\usr\include\sys\_locale.h
+	<newlib.h>
+	<sys/config.h>
+
+1486905345 c:\cygwin\usr\include\cygwin\time.h
+
+1486905344 c:\cygwin\usr\include\signal.h
+	"_ansi.h"
+	<sys/cdefs.h>
+	<sys/signal.h>
+
+1486905344 c:\cygwin\usr\include\sys\signal.h
+	"_ansi.h"
+	<sys/cdefs.h>
+	<sys/features.h>
+	<sys/types.h>
+	<sys/_sigset.h>
+	<sys/_timespec.h>
+	<cygwin/signal.h>
+	<sys/ucontext.h>
+	<signal.h>
+
+1486905345 c:\cygwin\usr\include\cygwin\signal.h
+	<bits/wordsize.h>
+
+1486905345 c:\cygwin\usr\include\sys\ucontext.h
+	<signal.h>
+
+1486905344 c:\cygwin\usr\include\stdio.h
+	"_ansi.h"
+	<sys/cdefs.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdarg.h>
+	<sys/reent.h>
+	<sys/types.h>
+	<sys/stdio.h>
+
+1486905345 c:\cygwin\usr\include\sys\stdio.h
+	<sys/cdefs.h>
+	<sys/lock.h>
+
+1486905344 c:\cygwin\usr\include\errno.h
+	<sys/errno.h>
+
+1486905344 c:\cygwin\usr\include\sys\errno.h
+	<sys/reent.h>
+
+1486905344 c:\cygwin\usr\include\stdlib.h
+	<machine/ieeefp.h>
+	"_ansi.h"
+	<stddef.h>
+	<sys/reent.h>
+	<sys/cdefs.h>
+	<machine/stdlib.h>
+	<alloca.h>
+	<cygwin/stdlib.h>
+	<sys/_locale.h>
+
+1486905345 c:\cygwin\usr\include\machine\stdlib.h
+
+1486905344 c:\cygwin\usr\include\alloca.h
+	"_ansi.h"
+	<sys/reent.h>
+
+1486905345 c:\cygwin\usr\include\cygwin\stdlib.h
+	<sys/cdefs.h>
+	<cygwin/wait.h>
+
+1486905345 c:\cygwin\usr\include\cygwin\wait.h
+
+1486905344 c:\cygwin\usr\include\sys\timeb.h
+	<_ansi.h>
+	<sys/_types.h>
+
+1489690333 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\include\criteria\bos\bossolaris.h
+	<sys/types.h>
+	<sys/socket.h>
+	<errno.h>
+	<netinet/in.h>
+	<unistd.h>
+	<netdb.h>
+	<fcntl.h>
+	<sys/ioctl.h>
+	<sys/filio.h>
+	<stropts.h>
+	<arpa/inet.h>
+	<string>
+	<streambuf>
+	<ostream>
+	<stdexcept>
+	<sstream>
+
+1486905345 c:\cygwin\usr\include\sys\socket.h
+	<features.h>
+	<cygwin/socket.h>
+	<sys/time.h>
+
+1486905345 c:\cygwin\usr\include\cygwin\socket.h
+	<sys/types.h>
+	<asm/socket.h>
+	<cygwin/sockios.h>
+	<sys/uio.h>
+
+1486905344 c:\cygwin\usr\include\asm\socket.h
+	<cygwin/if.h>
+
+1486905345 c:\cygwin\usr\include\cygwin\if.h
+	<sys/types.h>
+	<cygwin/socket.h>
+
+1486905345 c:\cygwin\usr\include\cygwin\sockios.h
+
+1486905345 c:\cygwin\usr\include\sys\uio.h
+	<stddef.h>
+	<sys/types.h>
+	<sys/cdefs.h>
+
+1486905344 c:\cygwin\usr\include\sys\time.h
+	<_ansi.h>
+	<sys/cdefs.h>
+	<sys/_timeval.h>
+	<sys/types.h>
+	<sys/timespec.h>
+	<sys/select.h>
+	<time.h>
+	<machine/_time.h>
+
+1486905344 c:\cygwin\usr\include\machine\_time.h
+
+1486905345 c:\cygwin\usr\include\netinet\in.h
+	<cygwin/in.h>
+
+1486905345 c:\cygwin\usr\include\cygwin\in.h
+	<cygwin/socket.h>
+	<asm/byteorder.h>
+	<cygwin/in6.h>
+
+1486905344 c:\cygwin\usr\include\asm\byteorder.h
+	<stdint.h>
+	<machine/endian.h>
+
+1486905344 c:\cygwin\usr\include\stdint.h
+	<machine/_default_types.h>
+	<sys/_intsup.h>
+	<sys/_stdint.h>
+
+1486905344 c:\cygwin\usr\include\sys\_intsup.h
+	<sys/features.h>
+	<limits.h>
+
+1486905345 c:\cygwin\usr\include\cygwin\in6.h
+
+1486905344 c:\cygwin\usr\include\unistd.h
+	<sys/unistd.h>
+
+1486905344 c:\cygwin\usr\include\sys\unistd.h
+	<_ansi.h>
+	<sys/cdefs.h>
+	<sys/types.h>
+	<sys/_types.h>
+	<stddef.h>
+	<getopt.h>
+	<sys/features.h>
+
+1486905344 c:\cygwin\usr\include\getopt.h
+
+1486905344 c:\cygwin\usr\include\netdb.h
+	<inttypes.h>
+	<sys/socket.h>
+	<netinet/in.h>
+
+1486905344 c:\cygwin\usr\include\inttypes.h
+	<newlib.h>
+	<sys/config.h>
+	<sys/_intsup.h>
+	<stdint.h>
+	<stddef.h>
+
+1486905344 c:\cygwin\usr\include\fcntl.h
+	<sys/fcntl.h>
+
+1486905344 c:\cygwin\usr\include\sys\fcntl.h
+	<sys/_default_fcntl.h>
+
+1486905344 c:\cygwin\usr\include\sys\_default_fcntl.h
+	<_ansi.h>
+	<sys/cdefs.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<sys/time.h>
+
+1486905344 c:\cygwin\usr\include\sys\stat.h
+	<_ansi.h>
+	<time.h>
+	<sys/cdefs.h>
+	<sys/types.h>
+	<sys/_timespec.h>
+	<cygwin/stat.h>
+
+1486905345 c:\cygwin\usr\include\cygwin\stat.h
+
+1486905345 c:\cygwin\usr\include\sys\ioctl.h
+	<sys/cdefs.h>
+	<sys/termios.h>
+
+1486905345 c:\cygwin\usr\include\sys\termios.h
+	<sys/types.h>
+
+1486905344 c:\cygwin\usr\include\arpa\inet.h
+	<netinet/in.h>
+
+1405262839 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\include\criteria\bos\boshp.h
+	<sys/types.h>
+	<sys/socket.h>
+	<errno.h>
+	<netinet/in.h>
+	<unistd.h>
+	<netdb.h>
+	<fcntl.h>
+	<sys/ioctl.h>
+	<sys/filio.h>
+	<stropts.h>
+	<arpa/inet.h>
+
+1489762906 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\include\criteria\bos\bosstring.h
+	"bOS.h"
+	<string>
+
+1489769991 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\include\criteria\bos\bosstringutils.h
+	"bOS.h"
+
+1483539305 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\include\criteria\bos\bosxmlhelper.h
+
+1489770383 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\include\criteria\bos\bosxmlnode.h
+	"bOS.h"
+	"bOSXMLAttribute.h"
+	"bOSCollection.h"
+
+1489770383 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\include\criteria\bos\bosxmlattribute.h
+	"bOS.h"
+	"bOSCollectionEntry.h"
+
+1489689429 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\include\criteria\bos\boscollectionentry.h
+	"bOS.h"
+
+1489743844 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\include\criteria\bos\boscollection.h
+	"bOS.h"
+	"bOSCollectionEntry.h"
+	"bOSMutex.h"
+	"bOSSmartLocker.h"
+
+1489769902 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\include\criteria\bos\bosmutex.h
+	"bOS.h"
+	"bOSSmartLocker.h"
+
+1405262839 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\include\criteria\bos\bossmartlocker.h
+	"bOS.h"
+	"bOSNullArgumentException.h"
+
+1489769902 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\include\criteria\bos\bosnullargumentexception.h
+	"bOS.h"
+	"bOSException.h"
+
+1489769831 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\include\criteria\bos\bosexception.h
+	"bOS.h"
+
+1405262839 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\include\criteria\bos\bosthread.h
+	"bOS.h"
+	"bOSRunnable.h"
+
+1405262839 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\include\criteria\bos\bosrunnable.h
+	"bOS.h"
+
+1489769977 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\include\criteria\bos\bosdatetime.h
+	"bOS.h"
+	"bOSDate.h"
+	"bOSTime.h"
+
+1489770383 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\include\criteria\bos\bosdate.h
+	"bOS.h"
+
+1489769804 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\include\criteria\bos\bostime.h
+	"bOS.h"
+
+1405262849 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\engine\engineexception.h
+	"CriteriaCommonDefines.h"
+
+1489771354 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\criteriacommondefines.h
+	"string.h"
+	<string>
+
+1405262839 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\include\criteria\bos\tracer.h
+	"CodeTracer.h"
+	"CodeItem.h"
+
+1489769902 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\include\criteria\bos\codetracer.h
+	<strstream>
+	<sstream>
+	<iostream>
+	<map>
+	<map>
+	<sstream>
+	<sys/time.h>
+	"bOS.h"
+	"bOSStringBuffer.h"
+	"bOSMutex.h"
+
+1489769590 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\include\criteria\bos\bosstringbuffer.h
+	"bOS.h"
+
+1489769822 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\include\criteria\bos\codeitem.h
+	"bOS.h"
+	"bOSStringBuffer.h"
+	"bOSTimer.h"
+
+1405262842 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\include\criteria\bos\bostimer.h
+	"bOS.h"
+	"bOSTime.h"
+
+1405262844 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\actions\applicationfunctionaction.h
+	"BaseAction.h"
+	"ApplicationFunction.h"
+
+1405262844 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\actions\baseaction.h
+	"Idioma/Evaluator.h"
+	"Idioma/Expression.h"
+	"Idioma/ItemInterface.h"
+	"Idioma/ScriptException.h"
+	"Idioma/Function.h"
+	"Idioma/FreeText.h"
+	"Idioma/Keyword.h"
+	"DataModel/WorkflowProcess.h"
+	"DataModel/Activity.h"
+
+1405262851 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\idioma\evaluator.h
+	"CriteriaCommonDefines.h"
+	"ItemInterface.h"
+	"RetrieveParameter.h"
+
+1405262851 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\idioma\iteminterface.h
+	"CriteriaCommonDefines.h"
+
+1405262851 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\idioma\retrieveparameter.h
+	"CriteriaCommonDefines.h"
+
+1405262851 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\idioma\expression.h
+	"CriteriaCommonDefines.h"
+	"ItemInterface.h"
+	"RetrieveParameter.h"
+	"Parameter.h"
+
+1405262851 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\idioma\parameter.h
+	"CriteriaCommonDefines.h"
+	"ItemInterface.h"
+
+1405262851 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\idioma\scriptexception.h
+	"CriteriaCommonDefines.h"
+
+1405262851 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\idioma\function.h
+	"CriteriaCommonDefines.h"
+	"ItemInterface.h"
+	"Parameter.h"
+
+1405262851 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\idioma\freetext.h
+	"CriteriaCommonDefines.h"
+	"ItemInterface.h"
+
+1405262851 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\idioma\keyword.h
+	"CriteriaCommonDefines.h"
+	"ItemInterface.h"
+
+1489770888 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\database\datamodel\workflowprocess.h
+	"bOS/bOS.h"
+	"bOS/bOSStringUtils.h"
+	"bOS/bOSXMLNode.h"
+	"bOS/bOSXMLFile.h"
+	"bOS/bOSStringUtils.h"
+	"CriteriaCommonDefines.h"
+	"bOS/bOSResultSetRecord.h"
+	"bOS/bOSResultSetField.h"
+	"bOS/bOSSQLTable.h"
+	"bOS/bOSDateTime.h"
+	"Attributes.h"
+	"Transitions.h"
+	"Messages.h"
+	"Activities.h"
+	"Reports.h"
+	"ProcessComponent.h"
+
+1489770383 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\include\criteria\bos\bosxmlfile.h
+	"bOSXMLObject.h"
+
+1489770383 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\include\criteria\bos\bosxmlobject.h
+	"bOS.h"
+	"bOSFile.h"
+	"bOSXMLNode.h"
+
+1489769716 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\include\criteria\bos\bosfile.h
+	"bOS.h"
+
+1489769411 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\include\criteria\bos\bosresultsetrecord.h
+	"bOS.h"
+	"bOSResultSetField.h"
+
+1489770383 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\include\criteria\bos\bosresultsetfield.h
+	"bOS.h"
+	"bOSStringBuffer.h"
+
+1489770383 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\include\criteria\bos\bossqltable.h
+	"bOS.h"
+	"bOSSqlCommand.h"
+	"bOSSqlCommands.h"
+
+1489770383 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\include\criteria\bos\bossqlcommand.h
+	"bOS.h"
+	"bOSResultSetField.h"
+	"bOSResultSetRecord.h"
+
+1489769421 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\include\criteria\bos\bossqlcommands.h
+	"bOS.h"
+	"bOSSQLCommand.h"
+
+1489770860 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\database\datamodel\attributes.h
+	"bOS/bOS.h"
+	"bOS/bOSStringUtils.h"
+	"bOS/bOSXMLNode.h"
+	"bOS/bOSXMLObjectSet.h"
+	"CriteriaCommonDefines.h"
+	"bOS/bOSResultSetRecord.h"
+	"bOS/bOSResultSetField.h"
+	"bOS/bOSSQLTable.h"
+	"ActivityComponent.h"
+	"Attribute.h"
+
+1405262843 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\include\criteria\bos\bosxmlobjectset.h
+	"bOS.h"
+	"bOSFile.h"
+	"bOSXMLObject.h"
+	"bOSCollection.h"
+
+1405262846 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\database\datamodel\activitycomponent.h
+	"CriteriaCommonDefines.h"
+	"bOS/bOS.h"
+	"bOS/bOSXMLNode.h"
+	"bOS/bOSResultSetRecord.h"
+	"bOS/bOSResultSetField.h"
+	"ProcessComponent.h"
+
+1405262848 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\database\datamodel\processcomponent.h
+	"CriteriaCommonDefines.h"
+	"bOS/bOS.h"
+	"bOS/bOSXMLNode.h"
+	"bOS/bOSResultSetRecord.h"
+	"bOS/bOSResultSetField.h"
+
+1489770856 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\database\datamodel\attribute.h
+	"bOS/bOS.h"
+	"bOS/bOSStringUtils.h"
+	"bOS/bOSXMLNode.h"
+	"bOS/bOSXMLObject.h"
+	"bOS/bOSStringUtils.h"
+	"CriteriaCommonDefines.h"
+	"bOS/bOSResultSetRecord.h"
+	"bOS/bOSResultSetField.h"
+	"bOS/bOSSQLTable.h"
+	"ActivityComponent.h"
+	"bOS/bOSCollectionEntry.h"
+
+1405262849 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\database\datamodel\transitions.h
+	"bOS/bOS.h"
+	"bOS/bOSXMLNode.h"
+	"bOS/bOSXMLAttribute.h"
+	"bOS/bOSXMLObjectSet.h"
+	"Transition.h"
+
+1405262848 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\database\datamodel\transition.h
+	"bOS/bOS.h"
+	"bOS/bOSXMLObject.h"
+	"CriteriaCommonDefines.h"
+
+1405262848 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\database\datamodel\messages.h
+	"bOS/bOS.h"
+	"bOS/bOSXMLNode.h"
+	"bOS/bOSXMLAttribute.h"
+	"bOS/bOSXMLObjectSet.h"
+	"bOS/bOSResultSetRecord.h"
+	"bOS/bOSResultSetField.h"
+	"bOS/bOSSQLTable.h"
+	"ProcessComponent.h"
+	"Message.h"
+
+1405262848 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\database\datamodel\message.h
+	"bOS/bOS.h"
+	"bOS/bOSXMLObject.h"
+	"bOS/bOSSQLTable.h"
+	"bOS/bOSResultSetRecord.h"
+	"bOS/bOSResultSetField.h"
+	"ProcessComponent.h"
+	"CriteriaCommonDefines.h"
+	"ExtendedAttributes.h"
+
+1405262847 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\database\datamodel\extendedattributes.h
+	"bOS/bOS.h"
+	"bOS/bOSXMLObjectSet.h"
+	"CriteriaCommonDefines.h"
+	"ExtendedAttribute.h"
+
+1405262847 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\database\datamodel\extendedattribute.h
+	"bOS/bOS.h"
+	"bOS/bOSCollectionEntry.h"
+	"bOS/bOSXMLObject.h"
+	"bOS/bOSXMLNode.h"
+	"CriteriaCommonDefines.h"
+
+1489770846 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\database\datamodel\activities.h
+	"bOS/bOS.h"
+	"bOS/bOSStringUtils.h"
+	"bOS/bOSXMLNode.h"
+	"bOS/bOSXMLObjectSet.h"
+	"CriteriaCommonDefines.h"
+	"bOS/bOSResultSetRecord.h"
+	"bOS/bOSResultSetField.h"
+	"bOS/bOSSQLTable.h"
+	"ActivityComponent.h"
+	"Activity.h"
+
+1489770850 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\database\datamodel\activity.h
+	"bOS/bOS.h"
+	"bOS/bOSStringUtils.h"
+	"bOS/bOSXMLNode.h"
+	"bOS/bOSXMLObject.h"
+	"bOS/bOSStringUtils.h"
+	"CriteriaCommonDefines.h"
+	"bOS/bOSResultSetRecord.h"
+	"bOS/bOSResultSetField.h"
+	"bOS/bOSSQLTable.h"
+	"ActivityComponent.h"
+	"bOS/bOSCollectionEntry.h"
+	"Attributes.h"
+	"Reports.h"
+	"Behaviour.h"
+	"Logs.h"
+	"Grants.h"
+
+1489770882 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\database\datamodel\reports.h
+	"bOS/bOSStringUtils.h"
+	"bOS/bOSXMLNode.h"
+	"bOS/bOSXMLObjectSet.h"
+	"CriteriaCommonDefines.h"
+	"bOS/bOSResultSetRecord.h"
+	"bOS/bOSResultSetField.h"
+	"bOS/bOSSQLTable.h"
+	"ProcessComponent.h"
+	"Report.h"
+
+1489770878 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\database\datamodel\report.h
+	"bOS/bOS.h"
+	"bOS/bOSStringUtils.h"
+	"bOS/bOSXMLNode.h"
+	"bOS/bOSXMLObject.h"
+	"bOS/bOSStringUtils.h"
+	"bOS/bOSSQLTable.h"
+	"bOS/bOSResultSetRecord.h"
+	"bOS/bOSResultSetField.h"
+	"ProcessComponent.h"
+	"CriteriaCommonDefines.h"
+	"bOS/bOSCollectionEntry.h"
+
+1405262846 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\database\datamodel\behaviour.h
+	"bOS/bOS.h"
+	"bOS/bOSXMLNode.h"
+	"bOS/bOSXMLAttribute.h"
+	"bOS/bOSXMLObjectSet.h"
+	"BehaviourStart.h"
+	"BehaviourFinish.h"
+	"BehaviourExecution.h"
+	"CriteriaCommonDefines.h"
+
+1405262847 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\database\datamodel\behaviourstart.h
+	"bOS/bOS.h"
+	"CriteriaCommonDefines.h"
+	"BehaviourBase.h"
+
+1405262847 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\database\datamodel\behaviourbase.h
+	"bOS/bOS.h"
+	"bOS/bOSXMLObject.h"
+	"CriteriaCommonDefines.h"
+	"Report.h"
+
+1405262847 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\database\datamodel\behaviourfinish.h
+	"bOS/bOS.h"
+	"CriteriaCommonDefines.h"
+	"BehaviourBase.h"
+
+1405262847 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\database\datamodel\behaviourexecution.h
+	"bOS/bOS.h"
+	"CriteriaCommonDefines.h"
+	"BehaviourBase.h"
+	"Script.h"
+
+1405262848 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\database\datamodel\script.h
+	"bOS/bOS.h"
+	"bOS/bOSXMLObject.h"
+	"CriteriaCommonDefines.h"
+
+1405262848 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\database\datamodel\logs.h
+	"bOS/bOSXMLNode.h"
+	"bOS/bOSXMLAttribute.h"
+	"bOS/bOSXMLObjectSet.h"
+	"CriteriaCommonDefines.h"
+	"Log.h"
+
+1405262848 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\database\datamodel\log.h
+	"bOS/bOSXMLNode.h"
+	"bOS/bOSXMLAttribute.h"
+	"bOS/bOSXMLObjectSet.h"
+	"CriteriaCommonDefines.h"
+	"Status.h"
+
+1405262848 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\database\datamodel\status.h
+	"bOS/bOS.h"
+	"bOS/bOSXMLObject.h"
+	"CriteriaCommonDefines.h"
+
+1405262848 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\database\datamodel\grants.h
+	"bOS/bOS.h"
+	"bOS/bOSXMLNode.h"
+	"bOS/bOSXMLAttribute.h"
+	"bOS/bOSXMLObjectSet.h"
+	"CriteriaCommonDefines.h"
+
+1489770910 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\application\datamodel\applicationfunction.h
+	"CriteriaCommonDefines.h"
+	"CommonDefines.h"
+	"bOS/bOS.h"
+	"bOS/bOSStringUtils.h"
+	"bOS/bOSXMLNode.h"
+	"bOS/bOSXMLObject.h"
+	"bOS/bOSStringUtils.h"
+	"FormalParameters.h"
+	"ApplicationFunctionResult.h"
+	"bOS/bOSCollectionEntry.h"
+
+1489770903 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\application\datamodel\commondefines.h
+	"bOS/bOS.h"
+	"bOS/bOSStringUtils.h"
+	"bOS/Tracer.h"
+	"EngineException.h"
+
+1489770874 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\database\datamodel\formalparameters.h
+	"bOS/bOS.h"
+	"bOS/bOSStringUtils.h"
+	"bOS/bOSXMLNode.h"
+	"bOS/bOSXMLObjectSet.h"
+	"CriteriaCommonDefines.h"
+	"FormalParameter.h"
+
+1489770870 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\database\datamodel\formalparameter.h
+	"bOS/bOS.h"
+	"bOS/bOSStringUtils.h"
+	"bOS/bOSXMLNode.h"
+	"bOS/bOSXMLObject.h"
+	"bOS/bOSStringUtils.h"
+	"CriteriaCommonDefines.h"
+	"bOS/bOSCollectionEntry.h"
+
+1405262846 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\application\datamodel\applicationfunctionresult.h
+	"CriteriaCommonDefines.h"
+	"CommonDefines.h"
+	"bOS/bOS.h"
+	"bOS/bOSXMLNode.h"
+	"bOS/bOSXMLAttribute.h"
+	"bOS/bOSXMLObject.h"
+	"FormalParameters.h"
+
+1405262844 source:c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\actions\applicationfunctionactionattach.cpp
+	"CommonDefines.h"
+	"ApplicationFunctionActionAttach.h"
+	"ApplicationManager.h"
+	"ApplicationException.h"
+
+1405262844 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\actions\applicationfunctionactionattach.h
+	"ApplicationFunctionAction.h"
+
+1405262845 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\application\applicationmanager.h
+	"CriteriaCommonDefines.h"
+	"CommonDefines.h"
+	"ApplicationFunction.h"
+	"ApplicationFunctionResult.h"
+
+1405262845 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\application\applicationexception.h
+	"CriteriaCommonDefines.h"
+	"CommonDefines.h"
+	"bOS/bOS.h"
+	"bOS/bOSException.h"
+
+1405262844 source:c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\actions\baseaction.cpp
+	"CommonDefines.h"
+	"Idioma/ScriptException.h"
+	"DataBase/DataBaseHelper.h"
+	"DataBase/DBException.h"
+	"BaseAction.h"
+
+1489771105 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\database\databasehelper.h
+	"CriteriaCommonDefines.h"
+	"User.h"
+	"Users.h"
+	"Role.h"
+	"Roles.h"
+	"DataTypes.h"
+	"Services.h"
+	"WorkflowProcess.h"
+	"Applications.h"
+	"bOS/bOSFileSystem.h"
+	"bOS/bOSSQLConnectionManager.h"
+	"ProcessesHandler.h"
+	"Event.h"
+	"OccurredEvent.h"
+	"WaitingActivity.h"
+	"WaitingActivities.h"
+
+1405262849 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\database\datamodel\user.h
+	"bOS/bOS.h"
+	"bOS/bOSCollectionEntry.h"
+	"bOS/bOSXMLNode.h"
+	"bOS/bOSXMLAttribute.h"
+	"bOS/bOSXMLObject.h"
+	"bOS/bOSResultSetRecord.h"
+	"bOS/bOSResultSetField.h"
+	"bOS/bOSSQLTable.h"
+	"CriteriaCommonDefines.h"
+
+1483616396 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\database\datamodel\users.h
+	"bOS/bOS.h"
+	"bOS/bOSXMLNode.h"
+	"bOS/bOSXMLAttribute.h"
+	"bOS/bOSXMLObjectSet.h"
+	"CriteriaCommonDefines.h"
+	"User.h"
+
+1405262848 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\database\datamodel\role.h
+	"bOS/bOSXMLNode.h"
+	"bOS/bOSXMLAttribute.h"
+	"bOS/bOSXMLObject.h"
+	"bOS/bOSResultSetRecord.h"
+	"bOS/bOSResultSetField.h"
+	"bOS/bOSSQLTable.h"
+	"bOS/bOSCollectionEntry.h"
+	"CriteriaCommonDefines.h"
+	"Users.h"
+
+1483616246 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\database\datamodel\roles.h
+	"bOS/bOS.h"
+	"bOS/bOSXMLNode.h"
+	"bOS/bOSXMLAttribute.h"
+	"bOS/bOSXMLObjectSet.h"
+	"CriteriaCommonDefines.h"
+	"Role.h"
+
+1483616475 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\database\datamodel\datatypes.h
+	"bOS/bOS.h"
+	"bOS/bOSXMLNode.h"
+	"bOS/bOSXMLAttribute.h"
+	"bOS/bOSXMLObjectSet.h"
+	"CriteriaCommonDefines.h"
+	"DataType.h"
+
+1405262847 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\database\datamodel\datatype.h
+	"bOS/bOS.h"
+	"bOS/bOSCollectionEntry.h"
+	"bOS/bOSXMLNode.h"
+	"bOS/bOSXMLAttribute.h"
+	"bOS/bOSXMLObject.h"
+	"DataTypeValues.h"
+	"bOS/bOSResultSetRecord.h"
+	"bOS/bOSResultSetField.h"
+	"bOS/bOSSQLTable.h"
+	"CriteriaCommonDefines.h"
+
+1405262847 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\database\datamodel\datatypevalues.h
+	"bOS/bOS.h"
+	"bOS/bOSXMLNode.h"
+	"bOS/bOSXMLAttribute.h"
+	"bOS/bOSXMLObjectSet.h"
+	"CriteriaCommonDefines.h"
+	"DataTypeValue.h"
+
+1405262847 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\database\datamodel\datatypevalue.h
+	"bOS/bOS.h"
+	"bOS/bOSXMLNode.h"
+	"bOS/bOSXMLAttribute.h"
+	"bOS/bOSXMLObject.h"
+	"bOS/bOSCollectionEntry.h"
+	"CriteriaCommonDefines.h"
+
+1483616750 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\database\datamodel\services.h
+	"bOS/bOS.h"
+	"bOS/bOSXMLNode.h"
+	"bOS/bOSXMLAttribute.h"
+	"bOS/bOSXMLObjectSet.h"
+	"CriteriaCommonDefines.h"
+	"Service.h"
+
+1405262848 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\database\datamodel\service.h
+	"bOS/bOS.h"
+	"bOS/bOSCollectionEntry.h"
+	"bOS/bOSXMLNode.h"
+	"bOS/bOSXMLAttribute.h"
+	"bOS/bOSXMLObject.h"
+	"bOS/bOSResultSetRecord.h"
+	"bOS/bOSResultSetField.h"
+	"bOS/bOSSQLTable.h"
+	"CriteriaCommonDefines.h"
+	"Roles.h"
+	"Users.h"
+	"ExtendedAttributes.h"
+
+1489770991 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\application\datamodel\applications.h
+	"CriteriaCommonDefines.h"
+	"CommonDefines.h"
+	"bOS/bOS.h"
+	"bOS/bOSStringUtils.h"
+	"bOS/bOSXMLNode.h"
+	"bOS/bOSXMLObjectSet.h"
+	"Application.h"
+
+1489771000 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\application\datamodel\application.h
+	"CriteriaCommonDefines.h"
+	"CommonDefines.h"
+	"bOS/bOS.h"
+	"bOS/bOSStringUtils.h"
+	"bOS/bOSXMLNode.h"
+	"bOS/bOSXMLObject.h"
+	"bOS/bOSStringUtils.h"
+	"ExtendedAttributes.h"
+	"ApplicationFunctions.h"
+	"bOS/bOSCollectionEntry.h"
+
+1489771022 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\application\datamodel\applicationfunctions.h
+	"CriteriaCommonDefines.h"
+	"CommonDefines.h"
+	"bOS/bOS.h"
+	"bOS/bOSStringUtils.h"
+	"bOS/bOSXMLNode.h"
+	"bOS/bOSXMLObjectSet.h"
+	"ApplicationFunction.h"
+
+1489769771 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\include\criteria\bos\bosfilesystem.h
+	"bOS.h"
+	"bOSStringBuffer.h"
+
+1405262840 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\include\criteria\bos\bossqlconnectionmanager.h
+	"bOS.h"
+	"bOSMutex.h"
+	"bOSSQLConnection.h"
+	"bOSSQLConnectionPool.h"
+	"bOSSQLConnectionData.h"
+
+1489769425 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\include\criteria\bos\bossqlconnection.h
+	"bOS.h"
+	"bOSSQLCommands.h"
+
+1405262840 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\include\criteria\bos\bossqlconnectionpool.h
+	"bOS.h"
+	"bOSMutex.h"
+	"bOSSQLConnection.h"
+	"bOSSQLException.h"
+
+1489770383 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\include\criteria\bos\bossqlexception.h
+	"bOS.h"
+	"bOSException.h"
+
+1405262840 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\include\criteria\bos\bossqlconnectiondata.h
+	"bOS.h"
+
+1449358200 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\database\processeshandler.h
+	"bOS/bOS.h"
+	"bOS/bOSMutex.h"
+	"bOS/bOSDateTime.h"
+	"WorkflowProcess.h"
+
+1405262850 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\externalevent\datamodel\event.h
+	"bOS/bOSXMLNode.h"
+	"bOS/bOSXMLObject.h"
+	"CriteriaCommonDefines.h"
+	"FormalParameters.h"
+	"EventActions.h"
+	"EventPolicies.h"
+	"bOS/bOSCollectionEntry.h"
+
+1489771066 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\externalevent\datamodel\eventactions.h
+	"bOS/bOS.h"
+	"bOS/bOSStringUtils.h"
+	"bOS/bOSXMLNode.h"
+	"bOS/bOSXMLObjectSet.h"
+	"CriteriaCommonDefines.h"
+	"ScenarioEventAction.h"
+
+1405262851 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\externalevent\datamodel\scenarioeventaction.h
+	"bOS/bOS.h"
+	"bOS/bOSCollectionEntry.h"
+	"bOS/bOSXMLObject.h"
+	"bOS/bOSXMLNode.h"
+	"CriteriaCommonDefines.h"
+
+1405262850 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\externalevent\datamodel\eventpolicies.h
+	"bOS/bOSXMLNode.h"
+	"bOS/bOSXMLObject.h"
+	"CriteriaCommonDefines.h"
+	"EventConsumerPolicy.h"
+	"EventInvocationPolicy.h"
+
+1405262850 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\externalevent\datamodel\eventconsumerpolicy.h
+	"bOS/bOSXMLNode.h"
+	"bOS/bOSXMLObject.h"
+	"CriteriaCommonDefines.h"
+
+1405262850 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\externalevent\datamodel\eventinvocationpolicy.h
+	"bOS/bOS.h"
+	"bOS/bOSXMLObject.h"
+	"bOS/bOSXMLNode.h"
+	"CriteriaCommonDefines.h"
+
+1405262851 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\externalevent\datamodel\occurredevent.h
+	"bOS/bOSXMLNode.h"
+	"bOS/bOSXMLObject.h"
+	"CriteriaCommonDefines.h"
+	"EventSource.h"
+	"ManagedEventElement.h"
+	"Event.h"
+
+1405262851 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\externalevent\datamodel\eventsource.h
+	"bOS/bOSXMLNode.h"
+	"bOS/bOSXMLObject.h"
+	"bOS/bOSDateTime.h"
+	"CriteriaCommonDefines.h"
+
+1405262851 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\externalevent\datamodel\managedeventelement.h
+	"bOS/bOSXMLNode.h"
+	"bOS/bOSXMLObject.h"
+	"bOS/bOSDateTime.h"
+	"CriteriaCommonDefines.h"
+
+1405262851 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\externalevent\datamodel\waitingactivity.h
+	"bOS/bOSXMLNode.h"
+	"bOS/bOSXMLObject.h"
+	"bOS/bOSDateTime.h"
+	"CriteriaCommonDefines.h"
+	"ManagedEventElement.h"
+
+1405262851 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\externalevent\datamodel\waitingactivities.h
+	"bOS/bOSXMLNode.h"
+	"bOS/bOSXMLObjectSet.h"
+	"CriteriaCommonDefines.h"
+	"WaitingActivity.h"
+
+1405262846 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\database\dbexception.h
+	"CriteriaCommonDefines.h"
+	"bOS/bOS.h"
+	"bOS/bOSException.h"
+
+1405262844 source:c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\actions\conditionaction.cpp
+	"CommonDefines.h"
+	"ConditionAction.h"
+
+1405262844 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\actions\conditionaction.h
+	"BaseAction.h"
+
+1405262844 source:c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\actions\consumeeventaction.cpp
+	"CommonDefines.h"
+	"EventsManager.h"
+	"DataBaseHelper.h"
+	"DBException.h"
+	"ConsumeEventAction.h"
+
+1489771105 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\externalevent\eventsmanager.h
+	"CriteriaCommonDefines.h"
+	"bOS/bOS.h"
+
+1405262844 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\actions\consumeeventaction.h
+	"EventAction.h"
+
+1405262844 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\actions\eventaction.h
+	"BaseAction.h"
+	"Event.h"
+	"OccurredEvent.h"
+	"WaitingEvent.h"
+
+1405262851 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\externalevent\datamodel\waitingevent.h
+	"bOS/bOSXMLNode.h"
+	"bOS/bOSXMLObject.h"
+	"CriteriaCommonDefines.h"
+	"WaitingActivities.h"
+	"Event.h"
+
+1405262844 source:c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\actions\evalexpressionaction.cpp
+	"CommonDefines.h"
+	"EvalExpressionAction.h"
+
+1405262844 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\actions\evalexpressionaction.h
+	"ConditionAction.h"
+	"EvalRetrieveParameter.h"
+
+1405262844 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\actions\evalretrieveparameter.h
+	"Idioma/RetrieveParameter.h"
+
+1405262844 source:c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\actions\evalretrieveparameter.cpp
+	"CommonDefines.h"
+	"BaseAction.h"
+	"EvalRetrieveParameter.h"
+
+1405262844 source:c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\actions\eventaction.cpp
+	"CommonDefines.h"
+	"EventAction.h"
+
+1405262844 source:c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\actions\iterationaction.cpp
+	"CommonDefines.h"
+	"IterationAction.h"
+
+1405262844 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\actions\iterationaction.h
+	"BaseAction.h"
+
+1405262844 source:c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\actions\iterationcounteraction.cpp
+	"CommonDefines.h"
+	"IterationCounterAction.h"
+
+1405262844 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\actions\iterationcounteraction.h
+	"IterationAction.h"
+
+1405262844 source:c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\actions\iterationexpressionaction.cpp
+	"CommonDefines.h"
+	"Idioma/Condition.h"
+	"IterationExpressionAction.h"
+	"EvalRetrieveParameter.h"
+
+1405262851 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\idioma\condition.h
+	"CriteriaCommonDefines.h"
+	"ItemInterface.h"
+	"RetrieveParameter.h"
+
+1405262844 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\actions\iterationexpressionaction.h
+	"IterationAction.h"
+
+1405262844 source:c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\actions\makeeventaction.cpp
+	"CommonDefines.h"
+	"EventsManager.h"
+	"DataBaseHelper.h"
+	"DBException.h"
+	"MakeEventAction.h"
+
+1405262844 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\actions\makeeventaction.h
+	"EventAction.h"
+
+1405262845 source:c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\actions\primitiveaction.cpp
+	"CommonDefines.h"
+	"PrimitiveAction.h"
+
+1405262845 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\actions\primitiveaction.h
+	"BaseAction.h"
+	"bOS/bOSProcess.h"
+
+1489770060 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\include\criteria\bos\bosprocess.h
+	"bOS.h"
+
+1405262845 source:c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\actions\primitiveactionattach.cpp
+	"CommonDefines.h"
+	"PrimitiveActionAttach.h"
+	"bOS/bOS.h"
+	"bOS/bOSRuntimeException.h"
+	"bOS/bOSProcess.h"
+
+1405262845 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\actions\primitiveactionattach.h
+	"PrimitiveAction.h"
+
+1489770247 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\include\criteria\bos\bosruntimeexception.h
+	"bOS.h"
+	"bOSException.h"
+
+1405262845 source:c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\actions\primitiveactiondetach.cpp
+	"CommonDefines.h"
+	"PrimitiveActionDetach.h"
+	"bOS/bOS.h"
+	"bOS/bOSRuntimeException.h"
+
+1405262845 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\actions\primitiveactiondetach.h
+	"BaseAction.h"
+	"PrimitiveAction.h"
+
+1405262845 source:c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\actions\processaction.cpp
+	"CommonDefines.h"
+	"ProcessAction.h"
+	"EngineException.h"
+	"WorkflowException.h"
+	"WorkflowManager.h"
+
+1405262845 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\actions\processaction.h
+	"BaseAction.h"
+
+1405262849 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\engine\workflowexception.h
+	"bOS/bOS.h"
+	"bOS/bOSException.h"
+
+1405262849 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\engine\workflowmanager.h
+	"IWorkflow.h"
+
+1405262849 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\engine\iworkflow.h
+
+1405262845 source:c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\actions\processactionattach.cpp
+	"CommonDefines.h"
+	"ProcessActionAttach.h"
+	"Workflow.h"
+	"WorkflowException.h"
+	"WorkFlowThread.h"
+	"DataBase/DataBaseHelper.h"
+	"DataBase/DBException.h"
+
+1405262845 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\actions\processactionattach.h
+	"ProcessAction.h"
+
+1405262849 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\engine\workflow.h
+	"WorkflowManager.h"
+	"EventMaker.h"
+	"EngineException.h"
+	"DataModel/WorkflowProcess.h"
+	"DataModel/Transition.h"
+	"DataModel/Activity.h"
+	"DataModel/FormalParameters.h"
+	"DataModel/FormalParameter.h"
+	"bOS/bOSMutex.h"
+	"bOS/bOSSemaphore.h"
+	"bOS/bOSSmartLocker.h"
+
+1483614528 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\events\eventmaker.h
+	"EventListener.h"
+
+1405262850 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\events\eventlistener.h
+	"BaseEvent.h"
+
+1405262849 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\events\baseevent.h
+
+1489770155 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\include\criteria\bos\bossemaphore.h
+	"bOS.h"
+
+1488910283 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\engine\workflowthread.h
+	"WorkflowManager.h"
+	"IWorkflow.h"
+
+1405262845 source:c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\actions\subflowexitaction.cpp
+	"CommonDefines.h"
+	"SubFlowExitAction.h"
+	"EngineException.h"
+	"Workflow.h"
+	"WorkflowException.h"
+	"WorkFlowThread.h"
+	"WorkflowManager.h"
+
+1405262845 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\actions\subflowexitaction.h
+	"BaseAction.h"
+
+1405262845 source:c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\actions\xmlaction.cpp
+	"CommonDefines.h"
+	"XMLAction.h"
+
+1405262845 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\actions\xmlaction.h
+	"BaseAction.h"
+
+1405262845 source:c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\actions\xmlactionxmlfile.cpp
+	"CommonDefines.h"
+	"XMLActionXMLFile.h"
+	"bOS/bOS.h"
+	"bOS/bOSFileSystem.h"
+	"bOS/bOSFileSystemException.h"
+	"bOS/bOSXSLTManager.h"
+	"bOS/bOSFileSystem.h"
+
+1405262845 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\actions\xmlactionxmlfile.h
+	"XMLAction.h"
+
+1489770301 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\include\criteria\bos\bosfilesystemexception.h
+	"bOS.h"
+	"bOSException.h"
+
+1489770383 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\include\criteria\bos\bosxsltmanager.h
+	"bOS.h"
+
+1405262845 source:c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\actions\xmlactionxslt.cpp
+	"CommonDefines.h"
+	"XMLActionXSLT.h"
+	"bOS/bOS.h"
+	"bOS/bOSXSLTManager.h"
+	"bOS/bOSFileSystem.h"
+
+1405262845 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\actions\xmlactionxslt.h
+	"XMLAction.h"
+
+1483613939 source:c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\application\application.cpp
+	"CommonDefines.h"
+	"Application.h"
+	"bOS/Tracer.h"
+
+1405262845 source:c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\application\applicationexception.cpp
+	"ApplicationException.h"
+	"bOS/Tracer.h"
+
+1483613939 source:c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\application\applicationfunction.cpp
+	"CommonDefines.h"
+	"ApplicationFunction.h"
+	"Application.h"
+	"bOS/Tracer.h"
+
+1483613939 source:c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\application\applicationfunctionresult.cpp
+	"CommonDefines.h"
+	"ApplicationFunctionResult.h"
+	"bOS/Tracer.h"
+
+1483612007 source:c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\application\applicationfunctions.cpp
+	"CommonDefines.h"
+	"ApplicationFunctions.h"
+	"bOS/bOSCollectionEntry.h"
+	"bOS/Tracer.h"
+
+1405262845 source:c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\application\applicationmanager.cpp
+	"ApplicationManager.h"
+	"ApplicationException.h"
+	"FunctionExecution.h"
+	"SocketFunctionExecution.h"
+	"LibraryFunctionExecution.h"
+	"ProcessFunctionExecution.h"
+	"ScriptFunctionExecution.h"
+	"Applications.h"
+	"Application.h"
+	"ApplicationFunction.h"
+	"DataBaseHelper.h"
+	"DBException.h"
+	"bOS/Tracer.h"
+
+1405262845 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\application\functionexecution.h
+	"CriteriaCommonDefines.h"
+	"CommonDefines.h"
+	"Application.h"
+	"ApplicationFunction.h"
+	"ApplicationFunctionResult.h"
+	"bOS/bOS.h"
+	"bOS/bOSStringBuffer.h"
+
+1405262845 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\application\socketfunctionexecution.h
+	"CriteriaCommonDefines.h"
+	"CommonDefines.h"
+	"ApplicationFunction.h"
+	"ApplicationFunctionResult.h"
+	"FunctionExecution.h"
+
+1405262845 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\application\libraryfunctionexecution.h
+	"CriteriaCommonDefines.h"
+	"CommonDefines.h"
+	"ApplicationFunction.h"
+	"ApplicationFunctionResult.h"
+	"FunctionExecution.h"
+
+1405262845 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\application\processfunctionexecution.h
+	"CriteriaCommonDefines.h"
+	"CommonDefines.h"
+	"ApplicationFunction.h"
+	"ApplicationFunctionResult.h"
+	"FunctionExecution.h"
+
+1405262845 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\application\scriptfunctionexecution.h
+	"CriteriaCommonDefines.h"
+	"CommonDefines.h"
+	"ApplicationFunction.h"
+	"ApplicationFunctionResult.h"
+	"FunctionExecution.h"
+
+1483616512 source:c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\application\applications.cpp
+	"CommonDefines.h"
+	"Applications.h"
+	"bOS/bOSCollectionEntry.h"
+	"bOS/Tracer.h"
+
+1405262845 source:c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\application\functionexecution.cpp
+	"FunctionExecution.h"
+	"Applications.h"
+	"Application.h"
+	"ApplicationFunction.h"
+
+1405262845 source:c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\application\libraryfunctionexecution.cpp
+	"LibraryFunctionExecution.h"
+	"ApplicationException.h"
+	"Applications.h"
+	"Application.h"
+	"ApplicationFunction.h"
+	"bOS/Tracer.h"
+
+1405262845 source:c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\application\processfunctionexecution.cpp
+	"ProcessFunctionExecution.h"
+	"ApplicationException.h"
+	"Applications.h"
+	"Application.h"
+	"ApplicationFunction.h"
+	"bOS/bOSProcess.h"
+	"bOS/bOSRuntimeException.h"
+	"bOS/Tracer.h"
+
+1405262845 source:c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\application\scriptfunctionexecution.cpp
+	"ScriptFunctionExecution.h"
+	"ApplicationException.h"
+	"Applications.h"
+	"Application.h"
+	"ApplicationFunction.h"
+	"bOS/Tracer.h"
+
+1405262845 source:c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\application\socketfunctionexecution.cpp
+	"SocketFunctionExecution.h"
+	"ApplicationException.h"
+	"Applications.h"
+	"Application.h"
+	"ApplicationFunction.h"
+	"bOS/bOS.h"
+	"bOS/bOSSockets.h"
+	"bOS/bOSSocketException.h"
+	"bOS/Tracer.h"
+
+1405262840 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\include\criteria\bos\bossockets.h
+	"bOS.h"
+
+1405262840 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\include\criteria\bos\bossocketexception.h
+	"bOS.h"
+	"bOSException.h"
+
+1427965726 source:c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\application\sqlapplicationdatamodeldefines.cpp
+	"Application.h"
+	"ApplicationFunction.h"
+	"ApplicationFunctionResult.h"
+	"ApplicationFunctions.h"
+	"Applications.h"
+
+1427965726 source:c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\application\xmlapplicationdatamodeldefines.cpp
+	"Application.h"
+	"ApplicationFunction.h"
+	"ApplicationFunctionResult.h"
+	"ApplicationFunctions.h"
+	"Applications.h"
+
+1451298216 source:c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\commondefines.cpp
+	"CommonDefines.h"
+
+1489771105 source:c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\database\databasehelper.cpp
+	"DataBaseHelper.h"
+	"bOS/bOSSystem.h"
+	"bOS/bOSXMLHelper.h"
+	"bOS/bOSXMLException.h"
+	"bOS/bOSFileSystemException.h"
+	"DBException.h"
+	"DataModel/DataBase.h"
+	"DataModel/Connections.h"
+	"DataModel/Connection.h"
+	"DataModel/mySQLConnection.h"
+	"DataModel/ODBCConnection.h"
+	"DataModel/SQLiteConnection.h"
+	"DataModel/FileSystemConnection.h"
+	"DataBaseTemplate.h"
+	"bOS/bOSSQlException.h"
+	"bOS/bOSSQLConnectionData.h"
+	"bOS/bOSmySQLConnectionData.h"
+	"bOS/bOSSQLiteConnectionData.h"
+	"bOS/bOSUniqueID.h"
+	"DataBaseTemplate.h"
+	"FileSystemDataBase.h"
+
+1489770003 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\include\criteria\bos\bossystem.h
+	"bOS.h"
+
+1489770383 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\include\criteria\bos\bosxmlexception.h
+	"bOSException.h"
+
+1405262847 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\database\datamodel\database.h
+	"bOS/bOS.h"
+	"bOS/bOSXMLFile.h"
+	"CriteriaCommonDefines.h"
+	"Connections.h"
+
+1405262847 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\database\datamodel\connections.h
+	"bOS/bOS.h"
+	"bOS/bOSXMLNode.h"
+	"bOS/bOSXMLAttribute.h"
+	"bOS/bOSXMLObjectSet.h"
+	"CriteriaCommonDefines.h"
+	"Connection.h"
+
+1458317361 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\database\datamodel\connection.h
+	"bOS/bOS.h"
+	"bOS/bOSXMLNode.h"
+	"bOS/bOSXMLAttribute.h"
+	"bOS/bOSXMLObject.h"
+	"bOS/bOSCollectionEntry.h"
+	"PoolManager.h"
+	"DataBaseObjectManager.h"
+	"DataBaseObject.h"
+	"CriteriaCommonDefines.h"
+
+1405262848 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\database\datamodel\poolmanager.h
+	"bOS/bOS.h"
+	"bOS/bOSXMLNode.h"
+	"bOS/bOSXMLObject.h"
+	"CriteriaCommonDefines.h"
+
+1405262847 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\database\datamodel\databaseobjectmanager.h
+	"bOS/bOS.h"
+	"bOS/bOSXMLNode.h"
+	"bOS/bOSXMLObjectSet.h"
+	"CriteriaCommonDefines.h"
+
+1458317436 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\database\datamodel\databaseobject.h
+	"bOS/bOS.h"
+	"bOS/bOSXMLNode.h"
+	"bOS/bOSXMLAttribute.h"
+	"bOS/bOSXMLObject.h"
+	"bOS/bOSCollectionEntry.h"
+	"CriteriaCommonDefines.h"
+
+1489766337 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\database\datamodel\mysqlconnection.h
+	"bOS/bOS.h"
+	"bOS/bOSXMLNode.h"
+	"bOS/bOSXMLAttribute.h"
+	"bOS/bOSXMLObject.h"
+	"Connection.h"
+	"CriteriaCommonDefines.h"
+
+1405262848 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\database\datamodel\odbcconnection.h
+	"bOS/bOS.h"
+	"bOS/bOSXMLNode.h"
+	"bOS/bOSXMLAttribute.h"
+	"bOS/bOSXMLObject.h"
+	"Connection.h"
+	"CriteriaCommonDefines.h"
+
+1405262848 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\database\datamodel\sqliteconnection.h
+	"bOS/bOS.h"
+	"bOS/bOSXMLNode.h"
+	"bOS/bOSXMLAttribute.h"
+	"bOS/bOSXMLObject.h"
+	"Connection.h"
+	"CriteriaCommonDefines.h"
+
+1458317337 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\database\datamodel\filesystemconnection.h
+	"bOS/bOS.h"
+	"bOS/bOSXMLNode.h"
+	"bOS/bOSXMLAttribute.h"
+	"bOS/bOSXMLObject.h"
+	"Connection.h"
+	"CriteriaCommonDefines.h"
+
+1489771105 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\database\databasetemplate.h
+	"CommonDefines.h"
+	"bOS/bOSSQLConnectionManager.h"
+	"bOS/bOSSQLConnection.h"
+	"bOS/bOSSQLConnectionData.h"
+	"bOS/bOSSQLTable.h"
+	"bOS/bOSSQLCommand.h"
+	"bOS/bOSFileSystem.h"
+	"PoolManager.h"
+	"FileSystemConnection.h"
+	"WorkflowProcess.h"
+	"Activities.h"
+	"Activity.h"
+	"User.h"
+	"Users.h"
+	"Role.h"
+	"Roles.h"
+	"DataTypes.h"
+	"Services.h"
+	"Applications.h"
+	"Connection.h"
+
+1489770841 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\database\commondefines.h
+	"bOS/bOS.h"
+	"bOS/bOSStringUtils.h"
+	"bOS/bOSStringBuffer.h"
+	"bOS/Tracer.h"
+
+1489770619 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\include\criteria\bos\bosmysqlconnectiondata.h
+	"bOS.h"
+	"bOSSQLConnectionData.h"
+
+1489770383 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\include\criteria\bos\bossqliteconnectiondata.h
+	"bOS.h"
+	"bOSSQLConnectionData.h"
+
+1489770383 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\include\criteria\bos\bosuniqueid.h
+	"bOS.h"
+	"bOSDateTime.h"
+
+1489771105 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\database\filesystemdatabase.h
+	"CommonDefines.h"
+	"FileSystemConnection.h"
+	"User.h"
+	"Users.h"
+	"Role.h"
+	"Roles.h"
+	"DataTypes.h"
+	"Applications.h"
+	"WorkflowProcessInstanceRepository.h"
+	"Applications.h"
+	"DataBaseTemplate.h"
+
+1405262846 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\database\workflowprocessinstancerepository.h
+	"bOS/bOS.h"
+	"bOS/bOSXMLDirectory.h"
+
+1489770383 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\include\criteria\bos\bosxmldirectory.h
+	"bOS.h"
+	"bOSMutex.h"
+	"bOSXMLFile.h"
+	"bOSFileSystem.h"
+
+1489771105 source:c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\database\databasetemplate.cpp
+	"DataBaseTemplate.h"
+	"bOS/bOSCOllectionEntry.h"
+	"bOS/bOSSQLSmartConnection.h"
+	"bOS/bOSResultSet.h"
+	"DataModel/Grant.h"
+	"DataBaseHelper.h"
+	"DBException.h"
+
+1405262841 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\include\criteria\bos\bossqlsmartconnection.h
+	"bOS.h"
+
+1489769391 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\include\criteria\bos\bosresultset.h
+	"bOS.h"
+	"bOSResultSetMetaData.h"
+	"bOSResultSetRecord.h"
+	"bOSResultSetField.h"
+
+1489769405 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\include\criteria\bos\bosresultsetmetadata.h
+	"bOS.h"
+	"bOSResultSetColumn.h"
+
+1489769396 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\include\criteria\bos\bosresultsetcolumn.h
+	"bOS.h"
+
+1405262848 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\database\datamodel\grant.h
+	"bOS/bOS.h"
+	"bOS/bOSXMLObject.h"
+	"CriteriaCommonDefines.h"
+	"Roles.h"
+	"Users.h"
+
+1489760489 source:c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\database\datamodel\activities.cpp
+	"CommonDefines.h"
+	"Activities.h"
+	"bOS/bOSCollectionEntry.h"
+
+1489770865 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\database\datamodel\commondefines.h
+	"bOS/bOS.h"
+	"bOS/bOSStringUtils.h"
+	"bOS/bOSStringBuffer.h"
+	"bOS/Tracer.h"
+
+1488888145 source:c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\database\datamodel\activity.cpp
+	"CommonDefines.h"
+	"bOS/bOSDateTime.h"
+	"Activity.h"
+	"bOS/bOSXMLException.h"
+
+1405262846 source:c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\database\datamodel\activitycomponent.cpp
+	"CommonDefines.h"
+	"ActivityComponent.h"
+
+1405262846 source:c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\database\datamodel\attribute.cpp
+	"CommonDefines.h"
+	"Attribute.h"
+
+1489761140 source:c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\database\datamodel\attributes.cpp
+	"CommonDefines.h"
+	"Attributes.h"
+	"bOS/bOSCollectionEntry.h"
+
+1405262847 source:c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\database\datamodel\behaviour.cpp
+	"CommonDefines.h"
+	"Behaviour.h"
+	"BehaviourBase.h"
+	"BehaviourStart.h"
+	"BehaviourFinish.h"
+	"BehaviourExecution.h"
+	"bOS/bOSCollectionEntry.h"
+
+1405262846 source:c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\database\datamodel\behaviourbase.cpp
+	"CommonDefines.h"
+	"BehaviourBase.h"
+
+1405262847 source:c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\database\datamodel\behaviourexecution.cpp
+	"CommonDefines.h"
+	"BehaviourExecution.h"
+
+1405262847 source:c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\database\datamodel\behaviourfinish.cpp
+	"CommonDefines.h"
+	"BehaviourFinish.h"
+
+1405262847 source:c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\database\datamodel\behaviourstart.cpp
+	"CommonDefines.h"
+	"BehaviourStart.h"
+
+1458485032 source:c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\database\datamodel\connection.cpp
+	"CommonDefines.h"
+	"Connection.h"
+
+1405262847 source:c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\database\datamodel\connections.cpp
+	"CommonDefines.h"
+	"Connections.h"
+	"SQLiteConnection.h"
+	"mySQLConnection.h"
+	"ODBCConnection.h"
+	"FileSystemConnection.h"
+
+1405262847 source:c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\database\datamodel\database.cpp
+	"CommonDefines.h"
+	"DataBase.h"
+
+1458240194 source:c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\database\datamodel\databaseobject.cpp
+	"CommonDefines.h"
+	"DataBaseObject.h"
+	"bOS/bOSSystem.h"
+
+1405262847 source:c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\database\datamodel\databaseobjectmanager.cpp
+	"CommonDefines.h"
+	"DataBaseObjectManager.h"
+	"DataBaseObject.h"
+
+1483616072 source:c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\database\datamodel\datatype.cpp
+	"CommonDefines.h"
+	"DataType.h"
+
+1483616473 source:c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\database\datamodel\datatypes.cpp
+	"CommonDefines.h"
+	"DataTypes.h"
+	"bOS/bOSCollectionEntry.h"
+
+1405262847 source:c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\database\datamodel\datatypevalue.cpp
+	"CommonDefines.h"
+	"DataTypeValue.h"
+
+1405262847 source:c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\database\datamodel\datatypevalues.cpp
+	"CommonDefines.h"
+	"DataTypeValues.h"
+	"bOS/bOSCollectionEntry.h"
+
+1405262847 source:c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\database\datamodel\extendedattribute.cpp
+	"CommonDefines.h"
+	"ExtendedAttribute.h"
+
+1405262847 source:c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\database\datamodel\extendedattributes.cpp
+	"CommonDefines.h"
+	"ExtendedAttributes.h"
+
+1405262847 source:c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\database\datamodel\filesystemconnection.cpp
+	"CommonDefines.h"
+	"FileSystemConnection.h"
+
+1405262847 source:c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\database\datamodel\formalparameter.cpp
+	"CommonDefines.h"
+	"FormalParameter.h"
+	"bOS/Tracer.h"
+
+1405262847 source:c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\database\datamodel\formalparametes.cpp
+	"CommonDefines.h"
+	"FormalParameters.h"
+	"bOS/bOSCollectionEntry.h"
+	"bOS/Tracer.h"
+
+1405262848 source:c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\database\datamodel\grant.cpp
+	"CommonDefines.h"
+	"Grant.h"
+
+1405262848 source:c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\database\datamodel\grants.cpp
+	"CommonDefines.h"
+	"Grants.h"
+	"Grant.h"
+	"bOS/bOSCollectionEntry.h"
+
+1405262848 source:c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\database\datamodel\log.cpp
+	"CommonDefines.h"
+	"Log.h"
+	"bOS/bOSCollectionEntry.h"
+
+1405262848 source:c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\database\datamodel\logs.cpp
+	"CommonDefines.h"
+	"Logs.h"
+	"bOS/bOSCollectionEntry.h"
+
+1483616133 source:c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\database\datamodel\message.cpp
+	"CommonDefines.h"
+	"Message.h"
+	"bOS/bOSXMLException.h"
+	"bOS/Tracer.h"
+
+1489762445 source:c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\database\datamodel\messages.cpp
+	"CommonDefines.h"
+	"Messages.h"
+	"bOS/bOSCollectionEntry.h"
+
+1405262848 source:c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\database\datamodel\mysqlconnection.cpp
+	"CommonDefines.h"
+	"mySQLConnection.h"
+
+1405262848 source:c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\database\datamodel\odbcconnection.cpp
+	"CommonDefines.h"
+	"ODBCConnection.h"
+
+1405262848 source:c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\database\datamodel\poolmanager.cpp
+	"CommonDefines.h"
+	"PoolManager.h"
+
+1405262848 source:c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\database\datamodel\processcomponent.cpp
+	"CommonDefines.h"
+	"ProcessComponent.h"
+	"bOS/bOSUniqueID.h"
+
+1405262848 source:c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\database\datamodel\report.cpp
+	"CommonDefines.h"
+	"Report.h"
+	"bOS/bOSXMLException.h"
+
+1489762492 source:c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\database\datamodel\reports.cpp
+	"CommonDefines.h"
+	"Reports.h"
+	"bOS/bOSCollectionEntry.h"
+
+1483616154 source:c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\database\datamodel\role.cpp
+	"CommonDefines.h"
+	"Role.h"
+
+1483616348 source:c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\database\datamodel\roles.cpp
+	"CommonDefines.h"
+	"Roles.h"
+	"bOS/bOSCollectionEntry.h"
+
+1405262848 source:c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\database\datamodel\script.cpp
+	"CommonDefines.h"
+	"Script.h"
+
+1483616177 source:c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\database\datamodel\service.cpp
+	"CommonDefines.h"
+	"Service.h"
+
+1483616759 source:c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\database\datamodel\services.cpp
+	"CommonDefines.h"
+	"Services.h"
+	"bOS/bOSCollectionEntry.h"
+
+1405262848 source:c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\database\datamodel\sqldatabasedefines.cpp
+	"ExtendedAttributes.h"
+	"ExtendedAttribute.h"
+	"Grants.h"
+	"Grant.h"
+	"Attribute.h"
+	"Attributes.h"
+	"Activities.h"
+	"Activity.h"
+	"ActivityComponent.h"
+	"ProcessComponent.h"
+	"Behaviour.h"
+	"BehaviourBase.h"
+	"BehaviourExecution.h"
+	"BehaviourFinish.h"
+	"BehaviourStart.h"
+	"Script.h"
+	"Log.h"
+	"Logs.h"
+	"Status.h"
+	"Report.h"
+	"Reports.h"
+	"Transition.h"
+	"Transitions.h"
+	"Message.h"
+	"Messages.h"
+	"WorkflowProcess.h"
+	"Role.h"
+	"Roles.h"
+	"User.h"
+	"Users.h"
+	"Service.h"
+	"Services.h"
+	"Connection.h"
+	"Connections.h"
+	"DataBase.h"
+	"FileSystemConnection.h"
+	"mySQLConnection.h"
+	"ODBCConnection.h"
+	"PoolManager.h"
+	"DataType.h"
+	"DataTypes.h"
+	"DataTypeValue.h"
+	"DataTypeValues.h"
+
+1405262848 source:c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\database\datamodel\sqliteconnection.cpp
+	"CommonDefines.h"
+	"SQLiteConnection.h"
+	"bOS/bOSSystem.h"
+
+1405262848 source:c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\database\datamodel\status.cpp
+	"CommonDefines.h"
+	"Status.h"
+
+1405262848 source:c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\database\datamodel\transition.cpp
+	"CommonDefines.h"
+	"Transition.h"
+
+1405262849 source:c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\database\datamodel\transitions.cpp
+	"CommonDefines.h"
+	"Transitions.h"
+	"bOS/bOSCollectionEntry.h"
+
+1405262849 source:c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\database\datamodel\user.cpp
+	"CommonDefines.h"
+	"User.h"
+
+1483616415 source:c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\database\datamodel\users.cpp
+	"CommonDefines.h"
+	"Users.h"
+	"bOS/bOSCollectionEntry.h"
+
+1483616042 source:c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\database\datamodel\workflowprocess.cpp
+	"CommonDefines.h"
+	"WorkflowProcess.h"
+	"bOS/bOSDateTime.h"
+
+1488883750 source:c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\database\datamodel\xmldatamodeldefines.cpp
+	"bOS/bOS.h"
+	"ExtendedAttributes.h"
+	"ExtendedAttribute.h"
+	"Grants.h"
+	"Grant.h"
+	"Formalparameters.h"
+	"Formalparameter.h"
+	"Attribute.h"
+	"Attributes.h"
+	"Activities.h"
+	"Activity.h"
+	"ActivityComponent.h"
+	"ProcessComponent.h"
+	"Behaviour.h"
+	"BehaviourBase.h"
+	"BehaviourExecution.h"
+	"BehaviourFinish.h"
+	"BehaviourStart.h"
+	"Script.h"
+	"Log.h"
+	"Logs.h"
+	"Status.h"
+	"Report.h"
+	"Reports.h"
+	"Transition.h"
+	"Transitions.h"
+	"Message.h"
+	"Messages.h"
+	"WorkflowProcess.h"
+	"Role.h"
+	"Roles.h"
+	"User.h"
+	"Users.h"
+	"Service.h"
+	"Services.h"
+	"Connection.h"
+	"Connections.h"
+	"DataBase.h"
+	"FileSystemConnection.h"
+	"mySQLConnection.h"
+	"ODBCConnection.h"
+	"SQLiteConnection.h"
+	"PoolManager.h"
+	"DataBaseObjectManager.h"
+	"DataBaseObject.h"
+	"DataType.h"
+	"DataTypes.h"
+	"DataTypeValue.h"
+	"DataTypeValues.h"
+
+1489771105 source:c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\database\filesystemdatabase.cpp
+	"FileSystemDataBase.h"
+	"bOS/bOSXMLException.h"
+	"DBException.h"
+	"bOS/bOSXMLHelper.h"
+	"bOS/bOSFileSystem.h"
+	"bOS/bOSFileSystemException.h"
+	"WorkflowProcess.h"
+	"Grants.h"
+	"Grant.h"
+
+1405262846 source:c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\database\processeshandler.cpp
+	"CommonDefines.h"
+	"ProcessesHandler.h"
+
+1405262846 source:c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\database\workflowprocessinstancerepository.cpp
+	"WorkflowProcessInstanceRepository.h"
+
+1488910255 source:c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\engine\engine.cpp
+	"CommonDefines.h"
+	"Engine.h"
+	"Workflow.h"
+	"WorkflowException.h"
+	"WorkflowManager.h"
+	"EventsManagerThread.h"
+	"DataBaseHelper.h"
+	"DBException.h"
+	"ApplicationManager.h"
+	"ApplicationException.h"
+	"EventsManager.h"
+	"bOS/bOS.h"
+	"bOS/bOSXMLHelper.h"
+
+1405262849 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\engine\engine.h
+	"CriteriaCommonDefines.h"
+	"WorkflowListener.h"
+	"EventMaker.h"
+	"EngineException.h"
+	"WorkflowManager.h"
+
+1405262850 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\events\workflowlistener.h
+	"EventListener.h"
+
+1405262849 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\engine\eventsmanagerthread.h
+	"bOS/bOS.h"
+	"bOS/bOSThread.h"
+
+1405262849 source:c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\engine\eventsmanagerthread.cpp
+	"CommonDefines.h"
+	"EventsManager.h"
+	"EventsManagerThread.h"
+	"OccurredEvent.h"
+	"DataBaseHelper.h"
+	"DBException.h"
+	"Workflow.h"
+	"WorkflowException.h"
+	"bOS/Tracer.h"
+
+1427965726 source:c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\engine\idatatype.cpp
+	"IDataType.h"
+
+1405262849 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\engine\datatype\idatatype.h
+	"CommonDefines.h"
+	"DataModel/DataType.h"
+
+1405262849 source:c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\engine\iworkflow.cpp
+	"CommonDefines.h"
+	"IWorkflow.h"
+
+1427965726 source:c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\engine\naturaltype.cpp
+	"NaturalType.h"
+
+1405262849 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\engine\datatype\naturaltype.h
+	"IDataType.h"
+
+1451295972 source:c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\engine\workflow.cpp
+	"CommonDefines.h"
+	"Workflow.h"
+	"WorkFlowThread.h"
+	"WorkflowException.h"
+	"WorkflowReport.h"
+	"DataBaseHelper.h"
+	"DBException.h"
+	"IDataType.h"
+	"NaturalType.h"
+	"WorkflowProcess.h"
+	"BehaviourExecution.h"
+	"Transition.h"
+	"Activity.h"
+	"Attribute.h"
+	"DataTypes.h"
+	"DataType.h"
+	"BaseTask.h"
+	"ProcessTask.h"
+	"SubFlowExitTask.h"
+	"PrimitiveTask.h"
+	"LoopTask.h"
+	"ConditionTask.h"
+	"ApplicationFunctionTask.h"
+	"XMLTask.h"
+	"EventTask.h"
+	"StartedWorkflowEvent.h"
+	"RestartedWorkflowEvent.h"
+	"EndWorkflowEvent.h"
+	"ErrorWorkflowEvent.h"
+	"ManualWorkflowEvent.h"
+	"OccurredEvent.h"
+	"EventsManager.h"
+
+1405262849 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\engine\workflowreport.h
+	"DataModel/WorkflowProcess.h"
+	"DataModel/Activity.h"
+	"DataModel/Report.h"
+
+1405262852 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\tasks\basetask.h
+	"DataModel/WorkflowProcess.h"
+	"DataModel/Activity.h"
+	"DataModel/Attributes.h"
+	"DataModel/Behaviour.h"
+	"DataModel/Script.h"
+	"BaseAction.h"
+
+1405262852 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\tasks\processtask.h
+	"BaseTask.h"
+
+1405262852 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\tasks\subflowexittask.h
+	"BaseTask.h"
+
+1405262852 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\tasks\primitivetask.h
+	"BaseTask.h"
+
+1405262852 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\tasks\looptask.h
+	"BaseTask.h"
+
+1405262852 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\tasks\conditiontask.h
+	"BaseTask.h"
+
+1405262852 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\tasks\applicationfunctiontask.h
+	"BaseTask.h"
+
+1405262852 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\tasks\xmltask.h
+	"BaseTask.h"
+
+1405262852 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\tasks\eventtask.h
+	"BaseTask.h"
+	"DataModel/FormalParameters.h"
+
+1405262850 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\events\startedworkflowevent.h
+	"BaseWorkflowEvent.h"
+
+1405262849 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\events\baseworkflowevent.h
+	"BaseEvent.h"
+
+1405262850 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\events\restartedworkflowevent.h
+	"BaseWorkflowEvent.h"
+
+1405262850 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\events\endworkflowevent.h
+	"BaseWorkflowEvent.h"
+
+1405262850 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\events\errorworkflowevent.h
+	"BaseWorkflowEvent.h"
+
+1405262850 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\events\manualworkflowevent.h
+	"BaseWorkflowEvent.h"
+
+1405262849 source:c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\engine\workflowmanager.cpp
+	"CommonDefines.h"
+	"WorkflowManager.h"
+	"WorkflowException.h"
+	"WorkFlowThread.h"
+	"bOS/bOSRuntimeException.h"
+	"bOS/bOSSynchronizationException.h"
+	"bOS/bOSUniqueID.h"
+
+1489770113 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\include\criteria\bos\bossynchronizationexception.h
+	"bOS.h"
+	"bOSException.h"
+
+1405262849 source:c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\engine\workflowreport.cpp
+	"CommonDefines.h"
+	"WorkflowReport.h"
+	"bOS/bOS.h"
+	"bOS/bOSDateTime.h"
+
+1405262849 source:c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\engine\workflowthread.cpp
+	"CommonDefines.h"
+	"WorkFlowThread.h"
+
+1405262849 source:c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\events\baseevent.cpp
+	"CommonDefines.h"
+	"BaseEvent.h"
+
+1405262849 source:c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\events\baseprocessevent.cpp
+	"CommonDefines.h"
+	"BaseProcessEvent.h"
+
+1405262849 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\events\baseprocessevent.h
+	"BaseEvent.h"
+	"DataModel/WorkflowProcess.h"
+
+1405262849 source:c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\events\baseworkflowevent.cpp
+	"CommonDefines.h"
+	"Workflow.h"
+	"BaseWorkflowEvent.h"
+
+1405262849 source:c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\events\createdprocessevent.cpp
+	"CommonDefines.h"
+	"CreatedProcessEvent.h"
+
+1405262849 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\events\createdprocessevent.h
+	"BaseProcessEvent.h"
+
+1405262849 source:c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\events\creatingprocessevent.cpp
+	"CommonDefines.h"
+	"CreatingProcessEvent.h"
+
+1405262849 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\events\creatingprocessevent.h
+	"BaseProcessEvent.h"
+
+1405262849 source:c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\events\endworkflowevent.cpp
+	"CommonDefines.h"
+	"EndWorkflowEvent.h"
+
+1405262850 source:c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\events\errorworkflowevent.cpp
+	"CommonDefines.h"
+	"ErrorWorkflowEvent.h"
+
+1405262850 source:c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\events\eventlistener.cpp
+	"CommonDefines.h"
+	"EventListener.h"
+
+1483614566 source:c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\events\eventmaker.cpp
+	"CommonDefines.h"
+	"EventMaker.h"
+
+1405262850 source:c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\events\manualworkflowevent.cpp
+	"CommonDefines.h"
+	"ManualWorkflowEvent.h"
+
+1405262850 source:c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\events\restartedworkflowevent.cpp
+	"CommonDefines.h"
+	"RestartedWorkflowEvent.h"
+
+1405262850 source:c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\events\startedworkflowevent.cpp
+	"CommonDefines.h"
+	"StartedWorkflowEvent.h"
+
+1405262850 source:c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\events\startingworkflowevent.cpp
+	"CommonDefines.h"
+	"StartingWorkflowEvent.h"
+
+1405262850 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\events\startingworkflowevent.h
+	"BaseWorkflowEvent.h"
+
+1488887136 source:c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\events\workflowlistener.cpp
+	"CommonDefines.h"
+	"WorkflowListener.h"
+	"BaseEvent.h"
+	"StartedWorkflowEvent.h"
+	"RestartedWorkflowEvent.h"
+	"ManualWorkflowEvent.h"
+	"ErrorWorkflowEvent.h"
+	"EndWorkflowEvent.h"
+	"bOS/bOS.h"
+	"bOS/bOSStringUtils.h"
+
+1483613939 source:c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\externalevent\event.cpp
+	"CommonDefines.h"
+	"Event.h"
+	"bOS/Tracer.h"
+
+1405262850 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\externalevent\commondefines.h
+
+1483613939 source:c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\externalevent\eventactions.cpp
+	"CommonDefines.h"
+	"EventActions.h"
+	"bOS/bOSCollectionEntry.h"
+	"bOS/Tracer.h"
+
+1483613939 source:c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\externalevent\eventconsumerpolicy.cpp
+	"CommonDefines.h"
+	"EventConsumerPolicy.h"
+	"bOS/Tracer.h"
+
+1483613939 source:c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\externalevent\eventcontext.cpp
+	"CommonDefines.h"
+	"EventContext.h"
+	"bOS/Tracer.h"
+
+1405262850 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\externalevent\datamodel\eventcontext.h
+	"bOS/bOSXMLNode.h"
+	"bOS/bOSXMLObjectSet.h"
+	"CriteriaCommonDefines.h"
+	"Events.h"
+	"bOS/bOSCollectionEntry.h"
+
+1405262850 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\externalevent\datamodel\events.h
+	"bOS/bOSXMLNode.h"
+	"bOS/bOSXMLObjectSet.h"
+	"CriteriaCommonDefines.h"
+	"Event.h"
+	"WaitingEvent.h"
+	"OccurredEvent.h"
+
+1483613939 source:c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\externalevent\eventinvocationpolicy.cpp
+	"CommonDefines.h"
+	"EventInvocationPolicy.h"
+	"bOS/Tracer.h"
+
+1483613939 source:c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\externalevent\eventpolicies.cpp
+	"CommonDefines.h"
+	"EventPolicies.h"
+	"bOS/Tracer.h"
+
+1483613939 source:c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\externalevent\events.cpp
+	"CommonDefines.h"
+	"Events.h"
+	"bOS/Tracer.h"
+
+1483613939 source:c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\externalevent\eventsdefinition.cpp
+	"CommonDefines.h"
+	"EventsDefinition.h"
+	"EventContext.h"
+	"bOS/Tracer.h"
+
+1405262851 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\externalevent\datamodel\eventsdefinition.h
+	"bOS/bOSXMLNode.h"
+	"bOS/bOSXMLObjectSet.h"
+	"CriteriaCommonDefines.h"
+	"Event.h"
+
+1405262850 source:c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\externalevent\eventsmanager.cpp
+	"CommonDefines.h"
+	"EventsManager.h"
+	"DataBaseHelper.h"
+	"DBException.h"
+	"DataModel/Activity.h"
+	"Event.h"
+	"OccurredEvent.h"
+	"WaitingActivity.h"
+	"bOS/Tracer.h"
+
+1483613939 source:c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\externalevent\eventsource.cpp
+	"CommonDefines.h"
+	"EventSource.h"
+	"bOS/Tracer.h"
+
+1483613939 source:c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\externalevent\managedeventelement.cpp
+	"CommonDefines.h"
+	"ManagedEventElement.h"
+	"bOS/Tracer.h"
+
+1483613939 source:c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\externalevent\occurredevent.cpp
+	"CommonDefines.h"
+	"OccurredEvent.h"
+	"bOS/Tracer.h"
+
+1483613939 source:c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\externalevent\scenarioeventaction.cpp
+	"ScenarioEventAction.h"
+	"bOS/Tracer.h"
+
+1483613939 source:c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\externalevent\waitingactivities.cpp
+	"CommonDefines.h"
+	"WaitingActivities.h"
+	"bOS/Tracer.h"
+
+1483613939 source:c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\externalevent\waitingactivity.cpp
+	"CommonDefines.h"
+	"WaitingActivity.h"
+	"bOS/Tracer.h"
+
+1483613939 source:c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\externalevent\waitingevent.cpp
+	"CommonDefines.h"
+	"WaitingEvent.h"
+	"bOS/Tracer.h"
+
+1427965726 source:c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\externalevent\xmleventdatamodeldefines.cpp
+	"Event.h"
+	"ScenarioEventAction.h"
+	"EventActions.h"
+	"EventConsumerPolicy.h"
+	"EventContext.h"
+	"EventInvocationPolicy.h"
+	"EventPolicies.h"
+	"Events.h"
+	"EventsDefinition.h"
+	"ManagedEventElement.h"
+	"WaitingEvent.h"
+	"OccurredEvent.h"
+
+1405262851 source:c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\idioma\condition.cpp
+	"CommonDefines.h"
+	"Condition.h"
+	"bOS/Tracer.h"
+
+1405262851 source:c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\idioma\evaluator.cpp
+	"CommonDefines.h"
+	"Evaluator.h"
+	"Expression.h"
+	"FreeText.h"
+	"Function.h"
+	"Keyword.h"
+	"Condition.h"
+	"ScriptException.h"
+	"bOS/Tracer.h"
+
+1405262851 source:c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\idioma\expression.cpp
+	"CommonDefines.h"
+	"Expression.h"
+	"Condition.h"
+	"bOS/Tracer.h"
+
+1405262851 source:c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\idioma\freetext.cpp
+	"CommonDefines.h"
+	"FreeText.h"
+	"bOS/Tracer.h"
+
+1405262851 source:c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\idioma\function.cpp
+	"CommonDefines.h"
+	"Function.h"
+	"bOS/Tracer.h"
+
+1405262851 source:c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\idioma\iteminterface.cpp
+	"CommonDefines.h"
+	"ItemInterface.h"
+	"bOS/Tracer.h"
+
+1405262851 source:c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\idioma\keyword.cpp
+	"CommonDefines.h"
+	"Keyword.h"
+	"bOS/Tracer.h"
+
+1405262851 source:c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\idioma\parameter.cpp
+	"CommonDefines.h"
+	"Parameter.h"
+	"bOS/Tracer.h"
+
+1405262851 source:c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\tasks\applicationfunctiontask.cpp
+	"CommonDefines.h"
+	"ApplicationFunctionTask.h"
+	"ApplicationFunctionAction.h"
+	"ApplicationFunctionActionAttach.h"
+
+1488909791 source:c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\tasks\basetask.cpp
+	"CommonDefines.h"
+	"BaseTask.h"
+	"BaseAction.h"
+	"DataBase/DBException.h"
+	"DataBase/DataBaseHelper.h"
+	"DataModel/Report.h"
+	"DataModel/Reports.h"
+	"bOS/Tracer.h"
+
+1405262852 source:c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\tasks\begintask.cpp
+	"CommonDefines.h"
+	"BeginTask.h"
+
+1405262852 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\tasks\begintask.h
+	"BaseTask.h"
+
+1405262852 source:c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\tasks\conditiontask.cpp
+	"CommonDefines.h"
+	"ConditionTask.h"
+	"EvalExpressionAction.h"
+
+1405262852 source:c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\tasks\eventtask.cpp
+	"CommonDefines.h"
+	"EventTask.h"
+	"EventAction.h"
+	"MakeEventAction.h"
+	"ConsumeEventAction.h"
+
+1405262852 source:c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\tasks\looptask.cpp
+	"CommonDefines.h"
+	"LoopTask.h"
+	"IterationAction.h"
+	"IterationCounterAction.h"
+	"IterationExpressionAction.h"
+
+1405262852 source:c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\tasks\primitivetask.cpp
+	"CommonDefines.h"
+	"PrimitiveTask.h"
+	"PrimitiveAction.h"
+	"PrimitiveActionAttach.h"
+	"PrimitiveActionDetach.h"
+
+1405262852 source:c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\tasks\processtask.cpp
+	"CommonDefines.h"
+	"ProcessTask.h"
+	"ProcessAction.h"
+	"ProcessActionAttach.h"
+
+1405262852 source:c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\tasks\subflowexittask.cpp
+	"CommonDefines.h"
+	"SubFlowExitTask.h"
+	"SubFlowExitAction.h"
+
+1405262852 source:c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\tasks\xmltask.cpp
+	"CommonDefines.h"
+	"XMLTask.h"
+	"XMLAction.h"
+	"XMLActionXSLT.h"
+	"XMLActionXMLFile.h"
+
+1405262852 source:c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\wapi\logger.cpp
+	"CommonDefines.h"
+	"WAPI.h"
+	"WAPIError.h"
+	"bOS/Tracer.h"
+
+1405262852 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\wapi\wapi.h
+	"CriteriaCommonDefines.h"
+
+1405262853 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\wapi\wapierror.h
+
+1405262852 source:c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\wapi\wapi.cpp
+	"CommonDefines.h"
+	"WAPI.h"
+	"WAPIError.h"
+	"DataBaseHelper.h"
+	"DBException.h"
+	"Engine.h"
+	"EngineException.h"
+	"bOS/bOSXMLHelper.h"
+	"bOS/bOS.h"
+	"bOS/bOSSystem.h"
+	"bOS/Tracer.h"
+
+1405262852 source:c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\wapi\wapiactivity.cpp
+	"CommonDefines.h"
+	"WAPIActivity.h"
+	"WAPIError.h"
+	"bOS/bOS.h"
+	"bOS/bOSStringUtils.h"
+	"bOS/bOSStringBuffer.h"
+	"DataBaseHelper.h"
+	"DBException.h"
+	"Activity.h"
+	"Grants.h"
+	"Grant.h"
+
+1405262852 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\wapi\wapiactivity.h
+	"CriteriaCommonDefines.h"
+
+1405262852 source:c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\wapi\wapiapplication.cpp
+	"CommonDefines.h"
+	"WAPIApplication.h"
+	"WAPIError.h"
+	"bOS/bOS.h"
+	"bOS/bOSStringUtils.h"
+	"bOS/bOSStringBuffer.h"
+	"DataBaseHelper.h"
+	"DBException.h"
+	"ExtendedAttributes.h"
+	"ExtendedAttribute.h"
+	"Applications.h"
+	"Application.h"
+	"Engine.h"
+
+1405262852 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\wapi\wapiapplication.h
+	"CriteriaCommonDefines.h"
+
+1405262853 source:c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\wapi\wapidatabase.cpp
+	"CommonDefines.h"
+	"WAPIDataBase.h"
+	"WAPIError.h"
+	"bOS/bOS.h"
+	"bOS/bOSStringUtils.h"
+	"bOS/bOSStringBuffer.h"
+	"DataBaseHelper.h"
+	"DBException.h"
+
+1405262853 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\wapi\wapidatabase.h
+	"CriteriaCommonDefines.h"
+
+1405262853 source:c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\wapi\wapidatatype.cpp
+	"CommonDefines.h"
+	"WAPIDataType.h"
+	"bOS/bOSStringUtils.h"
+	"DataBaseHelper.h"
+	"DBException.h"
+	"DataTypes.h"
+	"WAPIError.h"
+
+1405262853 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\wapi\wapidatatype.h
+	"CriteriaCommonDefines.h"
+
+1489771105 source:c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\wapi\wapiprocess.cpp
+	"CommonDefines.h"
+	"WAPIProcess.h"
+	"bOS/bOSStringUtils.h"
+	"DataBaseHelper.h"
+	"DBException.h"
+	"WorkflowProcess.h"
+	"Engine.h"
+	"EngineException.h"
+	"DataTypes.h"
+	"DataType.h"
+	"bOS/bOSCollectionEntry.h"
+	"WAPIError.h"
+
+1405262853 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\wapi\wapiprocess.h
+	"CriteriaCommonDefines.h"
+
+1405262853 source:c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\wapi\wapireport.cpp
+	"CommonDefines.h"
+	"WAPIReport.h"
+	"WAPIError.h"
+	"bOS/bOS.h"
+	"bOS/bOSStringUtils.h"
+	"bOS/bOSStringBuffer.h"
+	"DataBaseHelper.h"
+	"DBException.h"
+	"Report.h"
+	"Reports.h"
+
+1405262853 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\wapi\wapireport.h
+	"CriteriaCommonDefines.h"
+
+1488909839 source:c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\wapi\wapirole.cpp
+	"CommonDefines.h"
+	"WAPIRole.h"
+	"bOS/bOSStringUtils.h"
+	"DataBaseHelper.h"
+	"DBException.h"
+	"Roles.h"
+	"Role.h"
+	"Users.h"
+	"User.h"
+	"WAPIError.h"
+
+1405262853 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\wapi\wapirole.h
+	"CriteriaCommonDefines.h"
+
+1405262853 source:c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\wapi\wapiservice.cpp
+	"CommonDefines.h"
+	"WAPIService.h"
+	"bOS/bOSStringUtils.h"
+	"DataBaseHelper.h"
+	"DBException.h"
+	"Roles.h"
+	"Role.h"
+	"Users.h"
+	"User.h"
+	"Services.h"
+	"Service.h"
+	"WAPIError.h"
+
+1405262853 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\wapi\wapiservice.h
+	"CriteriaCommonDefines.h"
+
+1405262853 source:c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\wapi\wapiuser.cpp
+	"CommonDefines.h"
+	"WAPIUser.h"
+	"WAPIRole.h"
+	"bOS/bOSStringUtils.h"
+	"DataBaseHelper.h"
+	"DBException.h"
+	"Roles.h"
+	"Role.h"
+	"Users.h"
+	"User.h"
+	"WAPIError.h"
+
+1405262853 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\wapi\wapiuser.h
+	"CriteriaCommonDefines.h"
+
+1405262853 source:c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\wapi\wapiworkflow.cpp
+	"CommonDefines.h"
+	"WAPIWorkflow.h"
+	"bOS/bOS.h"
+	"bOS/bOSStringUtils.h"
+	"bOS/bOSStringBuffer.h"
+	"bOS/bOSFilesystem.h"
+	"bOS/bOSXMLNode.h"
+	"DataBaseHelper.h"
+	"DBException.h"
+	"WorkflowProcess.h"
+	"Engine.h"
+	"WAPIError.h"
+
+1405262853 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\wapi\wapiworkflow.h
+	"CriteriaCommonDefines.h"
+
+1405262853 source:c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\wapi\wapiworkitem.cpp
+	"CommonDefines.h"
+	"WAPIWorkItem.h"
+	"WAPIError.h"
+	"bOS/bOS.h"
+	"bOS/bOSStringUtils.h"
+	"bOS/bOSStringBuffer.h"
+	"DataBaseHelper.h"
+	"DBException.h"
+	"Engine.h"
+	"EngineException.h"
+	"Activity.h"
+	"Grants.h"
+	"Grant.h"
+
+1405262853 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.workflowengine\wapi\wapiworkitem.h
+	"CriteriaCommonDefines.h"
+
+1489748927 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\include\criteria\bos\bosux.h
+	<unistd.h>
+	<stdio.h>
+	<stdlib.h>
+	<pthread.h>
+	<fcntl.h>
+	<sys/stat.h>
+	<semaphore.h>
+	<dlfcn.h>
+	<string>
+	<vector>
+	<queue>
+	<stack>
+	<list>
+	<map>
+	<fstream>
+	<iostream>
+	<strstream>
+	<assert.h>
+	<time.h>
+	<errno.h>
+	<sys/timeb.h>
+	<algorithm>
+	<typeinfo>
+	<sys/wait.h>
+	<sys/time.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<netdb.h>
+	<fcntl.h>
+	<sys/ioctl.h>
+	<arpa/inet.h>
+	<cstring>
+	<cstdarg>
+	<streambuf>
+	<ostream>
+	<stdexcept>
+	<sstream>
+
+1486905344 c:\cygwin\usr\include\pthread.h
+	<sys/types.h>
+	<signal.h>
+	<sched.h>
+	<time.h>
+
+1486905344 c:\cygwin\usr\include\sched.h
+	<sys/types.h>
+	<sys/sched.h>
+
+1486905344 c:\cygwin\usr\include\sys\sched.h
+	<sys/_timespec.h>
+
+1486905344 c:\cygwin\usr\include\semaphore.h
+	<sys/types.h>
+
+1486905344 c:\cygwin\usr\include\dlfcn.h
+
+1486905345 c:\cygwin\usr\include\sys\wait.h
+	<sys/types.h>
+	<sys/resource.h>
+	<cygwin/wait.h>
+
+1486905345 c:\cygwin\usr\include\sys\resource.h
+	<sys/time.h>
+
+1486905344 c:\cygwin\usr\include\string.h
+	"_ansi.h"
+	<sys/reent.h>
+	<sys/cdefs.h>
+	<sys/features.h>
+	<stddef.h>
+	<sys/_locale.h>
+	<string.h>
+	<sys/string.h>
+
+1486905344 c:\cygwin\usr\include\sys\string.h
+

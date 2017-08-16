@@ -1,0 +1,1090 @@
+# depslib dependency file v1.0
+1483616395 source:c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.tools\criteria.tools.executor\src\main.cpp
+	"bOS/bOSString.h"
+	"bOS/bOSStringBuffer.h"
+	"bOS/Tracer.h"
+	"bOS/bOSTimer.h"
+	"Criteria/WAPI.h"
+	"Criteria/WAPIActivity.h"
+	"Criteria/WAPIWorkItem.h"
+	"Criteria/WAPIProcess.h"
+	"Criteria/Activity.h"
+
+1489762906 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\include\criteria\bos\bosstring.h
+	"bOS.h"
+	<string>
+
+1489690338 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\include\criteria\bos\bos.h
+	"bOSTypes.h"
+	"bOSWin32.h"
+	"bOSSolaris.h"
+	"bOSHp.h"
+	"bOSUx.h"
+
+1405262839 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\include\criteria\bos\bostypes.h
+
+1489771968 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\include\criteria\bos\boswin32.h
+	<process.h>
+	<windows.h>
+	<commctrl.h>
+	<shlobj.h>
+	<vector>
+	<queue>
+	<stack>
+	<list>
+	<map>
+	<fstream>
+	<iostream>
+	<strstream>
+	<assert.h>
+	<time.h>
+	<stdio.h>
+	<errno.h>
+	<stdlib.h>
+	<sys/timeb.h>
+	<algorithm>
+	<typeinfo>
+	<winsock2.h>
+	<string>
+	<streambuf>
+	<ostream>
+	<stdexcept>
+	<sstream>
+
+1489690333 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\include\criteria\bos\bossolaris.h
+	<sys/types.h>
+	<sys/socket.h>
+	<errno.h>
+	<netinet/in.h>
+	<unistd.h>
+	<netdb.h>
+	<fcntl.h>
+	<sys/ioctl.h>
+	<sys/filio.h>
+	<stropts.h>
+	<arpa/inet.h>
+	<string>
+	<streambuf>
+	<ostream>
+	<stdexcept>
+	<sstream>
+
+1405262839 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\include\criteria\bos\boshp.h
+	<sys/types.h>
+	<sys/socket.h>
+	<errno.h>
+	<netinet/in.h>
+	<unistd.h>
+	<netdb.h>
+	<fcntl.h>
+	<sys/ioctl.h>
+	<sys/filio.h>
+	<stropts.h>
+	<arpa/inet.h>
+
+1489769590 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\include\criteria\bos\bosstringbuffer.h
+	"bOS.h"
+
+1405262839 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\include\criteria\bos\tracer.h
+	"CodeTracer.h"
+	"CodeItem.h"
+
+1489769902 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\include\criteria\bos\codetracer.h
+	<strstream>
+	<sstream>
+	<iostream>
+	<map>
+	<map>
+	<sstream>
+	<sys/time.h>
+	"bOS.h"
+	"bOSStringBuffer.h"
+	"bOSMutex.h"
+
+1489769902 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\include\criteria\bos\bosmutex.h
+	"bOS.h"
+	"bOSSmartLocker.h"
+
+1405262839 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\include\criteria\bos\bossmartlocker.h
+	"bOS.h"
+	"bOSNullArgumentException.h"
+
+1489769902 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\include\criteria\bos\bosnullargumentexception.h
+	"bOS.h"
+	"bOSException.h"
+
+1489769831 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\include\criteria\bos\bosexception.h
+	"bOS.h"
+
+1489769822 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\include\criteria\bos\codeitem.h
+	"bOS.h"
+	"bOSStringBuffer.h"
+	"bOSTimer.h"
+
+1405262842 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\include\criteria\bos\bostimer.h
+	"bOS.h"
+	"bOSTime.h"
+
+1489769804 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\include\criteria\bos\bostime.h
+	"bOS.h"
+
+1489772002 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\include\criteria\criteria\wapi.h
+	"CriteriaCommonDefines.h"
+
+1489771354 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\include\criteria\criteria\criteriacommondefines.h
+	"string.h"
+	<string>
+
+1405262852 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\include\criteria\criteria\wapiactivity.h
+	"CriteriaCommonDefines.h"
+
+1405262853 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\include\criteria\criteria\wapiworkitem.h
+	"CriteriaCommonDefines.h"
+
+1405262853 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\include\criteria\criteria\wapiprocess.h
+	"CriteriaCommonDefines.h"
+
+1489770850 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\include\criteria\criteria\activity.h
+	"bOS/bOS.h"
+	"bOS/bOSStringUtils.h"
+	"bOS/bOSXMLNode.h"
+	"bOS/bOSXMLObject.h"
+	"bOS/bOSStringUtils.h"
+	"CriteriaCommonDefines.h"
+	"bOS/bOSResultSetRecord.h"
+	"bOS/bOSResultSetField.h"
+	"bOS/bOSSQLTable.h"
+	"ActivityComponent.h"
+	"bOS/bOSCollectionEntry.h"
+	"Attributes.h"
+	"Reports.h"
+	"Behaviour.h"
+	"Logs.h"
+	"Grants.h"
+
+1489769991 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\include\criteria\bos\bosstringutils.h
+	"bOS.h"
+
+1489770383 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\include\criteria\bos\bosxmlnode.h
+	"bOS.h"
+	"bOSXMLAttribute.h"
+	"bOSCollection.h"
+
+1489770383 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\include\criteria\bos\bosxmlattribute.h
+	"bOS.h"
+	"bOSCollectionEntry.h"
+
+1489689429 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\include\criteria\bos\boscollectionentry.h
+	"bOS.h"
+
+1489743844 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\include\criteria\bos\boscollection.h
+	"bOS.h"
+	"bOSCollectionEntry.h"
+	"bOSMutex.h"
+	"bOSSmartLocker.h"
+
+1489770383 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\include\criteria\bos\bosxmlobject.h
+	"bOS.h"
+	"bOSFile.h"
+	"bOSXMLNode.h"
+
+1489769716 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\include\criteria\bos\bosfile.h
+	"bOS.h"
+
+1489769411 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\include\criteria\bos\bosresultsetrecord.h
+	"bOS.h"
+	"bOSResultSetField.h"
+
+1489770383 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\include\criteria\bos\bosresultsetfield.h
+	"bOS.h"
+	"bOSStringBuffer.h"
+
+1489770383 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\include\criteria\bos\bossqltable.h
+	"bOS.h"
+	"bOSSqlCommand.h"
+	"bOSSqlCommands.h"
+
+1489770383 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\include\criteria\bos\bossqlcommand.h
+	"bOS.h"
+	"bOSResultSetField.h"
+	"bOSResultSetRecord.h"
+
+1489769421 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\include\criteria\bos\bossqlcommands.h
+	"bOS.h"
+	"bOSSQLCommand.h"
+
+1405262846 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\include\criteria\criteria\activitycomponent.h
+	"CriteriaCommonDefines.h"
+	"bOS/bOS.h"
+	"bOS/bOSXMLNode.h"
+	"bOS/bOSResultSetRecord.h"
+	"bOS/bOSResultSetField.h"
+	"ProcessComponent.h"
+
+1405262848 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\include\criteria\criteria\processcomponent.h
+	"CriteriaCommonDefines.h"
+	"bOS/bOS.h"
+	"bOS/bOSXMLNode.h"
+	"bOS/bOSResultSetRecord.h"
+	"bOS/bOSResultSetField.h"
+
+1489770860 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\include\criteria\criteria\attributes.h
+	"bOS/bOS.h"
+	"bOS/bOSStringUtils.h"
+	"bOS/bOSXMLNode.h"
+	"bOS/bOSXMLObjectSet.h"
+	"CriteriaCommonDefines.h"
+	"bOS/bOSResultSetRecord.h"
+	"bOS/bOSResultSetField.h"
+	"bOS/bOSSQLTable.h"
+	"ActivityComponent.h"
+	"Attribute.h"
+
+1405262843 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\include\criteria\bos\bosxmlobjectset.h
+	"bOS.h"
+	"bOSFile.h"
+	"bOSXMLObject.h"
+	"bOSCollection.h"
+
+1489770856 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\include\criteria\criteria\attribute.h
+	"bOS/bOS.h"
+	"bOS/bOSStringUtils.h"
+	"bOS/bOSXMLNode.h"
+	"bOS/bOSXMLObject.h"
+	"bOS/bOSStringUtils.h"
+	"CriteriaCommonDefines.h"
+	"bOS/bOSResultSetRecord.h"
+	"bOS/bOSResultSetField.h"
+	"bOS/bOSSQLTable.h"
+	"ActivityComponent.h"
+	"bOS/bOSCollectionEntry.h"
+
+1489770882 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\include\criteria\criteria\reports.h
+	"bOS/bOSStringUtils.h"
+	"bOS/bOSXMLNode.h"
+	"bOS/bOSXMLObjectSet.h"
+	"CriteriaCommonDefines.h"
+	"bOS/bOSResultSetRecord.h"
+	"bOS/bOSResultSetField.h"
+	"bOS/bOSSQLTable.h"
+	"ProcessComponent.h"
+	"Report.h"
+
+1489770878 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\include\criteria\criteria\report.h
+	"bOS/bOS.h"
+	"bOS/bOSStringUtils.h"
+	"bOS/bOSXMLNode.h"
+	"bOS/bOSXMLObject.h"
+	"bOS/bOSStringUtils.h"
+	"bOS/bOSSQLTable.h"
+	"bOS/bOSResultSetRecord.h"
+	"bOS/bOSResultSetField.h"
+	"ProcessComponent.h"
+	"CriteriaCommonDefines.h"
+	"bOS/bOSCollectionEntry.h"
+
+1405262846 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\include\criteria\criteria\behaviour.h
+	"bOS/bOS.h"
+	"bOS/bOSXMLNode.h"
+	"bOS/bOSXMLAttribute.h"
+	"bOS/bOSXMLObjectSet.h"
+	"BehaviourStart.h"
+	"BehaviourFinish.h"
+	"BehaviourExecution.h"
+	"CriteriaCommonDefines.h"
+
+1405262847 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\include\criteria\criteria\behaviourstart.h
+	"bOS/bOS.h"
+	"CriteriaCommonDefines.h"
+	"BehaviourBase.h"
+
+1405262847 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\include\criteria\criteria\behaviourbase.h
+	"bOS/bOS.h"
+	"bOS/bOSXMLObject.h"
+	"CriteriaCommonDefines.h"
+	"Report.h"
+
+1405262847 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\include\criteria\criteria\behaviourfinish.h
+	"bOS/bOS.h"
+	"CriteriaCommonDefines.h"
+	"BehaviourBase.h"
+
+1405262847 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\include\criteria\criteria\behaviourexecution.h
+	"bOS/bOS.h"
+	"CriteriaCommonDefines.h"
+	"BehaviourBase.h"
+	"Script.h"
+
+1405262848 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\include\criteria\criteria\script.h
+	"bOS/bOS.h"
+	"bOS/bOSXMLObject.h"
+	"CriteriaCommonDefines.h"
+
+1405262848 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\include\criteria\criteria\logs.h
+	"bOS/bOSXMLNode.h"
+	"bOS/bOSXMLAttribute.h"
+	"bOS/bOSXMLObjectSet.h"
+	"CriteriaCommonDefines.h"
+	"Log.h"
+
+1405262848 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\include\criteria\criteria\log.h
+	"bOS/bOSXMLNode.h"
+	"bOS/bOSXMLAttribute.h"
+	"bOS/bOSXMLObjectSet.h"
+	"CriteriaCommonDefines.h"
+	"Status.h"
+
+1405262848 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\include\criteria\criteria\status.h
+	"bOS/bOS.h"
+	"bOS/bOSXMLObject.h"
+	"CriteriaCommonDefines.h"
+
+1405262848 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\include\criteria\criteria\grants.h
+	"bOS/bOS.h"
+	"bOS/bOSXMLNode.h"
+	"bOS/bOSXMLAttribute.h"
+	"bOS/bOSXMLObjectSet.h"
+	"CriteriaCommonDefines.h"
+
+1489771954 source:c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.tools.executor\src\fastcgi.cpp
+	<iostream>
+	"fcgio.h"
+	"fcgi_config.h"
+	<regex>
+	"json.h"
+	"bOS/bOSStringBuffer.h"
+	"bOS/Tracer.h"
+	"bOS/bOSTimer.h"
+	"Criteria/WAPI.h"
+	"Criteria/WAPIActivity.h"
+	"Criteria/WAPIWorkItem.h"
+	"Criteria/WAPIProcess.h"
+	"Criteria/WAPIWorkflow.h"
+	"Criteria/Activity.h"
+
+1014642971 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\include\fcgi\fcgio.h
+	<iostream>
+	"fcgiapp.h"
+
+1056237404 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\include\fcgi\fcgiapp.h
+	<stdarg.h>
+	<varargs.h>
+
+1448733005 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\include\jsoncpp\json.h
+	<cpptl/config.h>
+	"config.h"
+	"forwards.h"
+	"forwards.h"
+	<string>
+	<vector>
+	<exception>
+	<map>
+	<cpptl/smallmap.h>
+	<cpptl/forwards.h>
+	"features.h"
+	"value.h"
+	<deque>
+	<iosfwd>
+	<stack>
+	<string>
+	<istream>
+	"value.h"
+	<vector>
+	<string>
+	<ostream>
+	<stdlib.h>
+	<sstream>
+	"config.h"
+
+1446185809 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\include\jsoncpp\autolink.h
+	"config.h"
+	<cpptl/cpptl_autolink.h>
+	"autolink.h"
+
+1446185809 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\include\jsoncpp\config.h
+	<cpptl/config.h>
+
+1448735137 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\include\jsoncpp\value.h
+	"forwards.h"
+	<string>
+	<vector>
+	<exception>
+	<map>
+	<cpptl/smallmap.h>
+	<cpptl/forwards.h>
+
+1446185809 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\include\jsoncpp\forwards.h
+	"config.h"
+
+1448735144 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\include\jsoncpp\reader.h
+	"features.h"
+	"value.h"
+	<deque>
+	<iosfwd>
+	<stack>
+	<string>
+	<istream>
+
+1446185809 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\include\jsoncpp\features.h
+	"forwards.h"
+
+1448735137 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\include\jsoncpp\writer.h
+	"value.h"
+	<vector>
+	<string>
+	<ostream>
+
+1405262853 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\include\criteria\criteria\wapiworkflow.h
+	"CriteriaCommonDefines.h"
+
+1489772020 source:c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.tools.executor\src\main.cpp
+	"bOS/bOSStringBuffer.h"
+	"bOS/Tracer.h"
+	"bOS/bOSTimer.h"
+	"Criteria/WAPI.h"
+	"Criteria/WAPIActivity.h"
+	"Criteria/WAPIWorkItem.h"
+	"Criteria/WAPIProcess.h"
+	"Criteria/Activity.h"
+
+1488988490 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.tools.executor\src\json.h
+	<cpptl/config.h>
+	"config.h"
+	"forwards.h"
+	"forwards.h"
+	<string>
+	<vector>
+	<exception>
+	<map>
+	<cpptl/smallmap.h>
+	<cpptl/forwards.h>
+	"features.h"
+	"value.h"
+	<deque>
+	<iosfwd>
+	<stack>
+	<string>
+	<istream>
+	"value.h"
+	<vector>
+	<string>
+	<ostream>
+	<stdlib.h>
+	<sstream>
+	"config.h"
+
+1489502547 source:c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.tools.executor\src\jsoncpp.cpp
+	"json/json.h"
+	<clocale>
+	<json/assertions.h>
+	<json/reader.h>
+	<json/value.h>
+	"json_tool.h"
+	<utility>
+	<cstdio>
+	<cassert>
+	<cstring>
+	<istream>
+	<sstream>
+	<memory>
+	<set>
+	<limits>
+	<json/assertions.h>
+	<json/value.h>
+	<json/writer.h>
+	<math.h>
+	<sstream>
+	<utility>
+	<cstring>
+	<cassert>
+	<cpptl/conststring.h>
+	<cstddef>
+	<algorithm>
+	"json_valueiterator.inl"
+	<json/writer.h>
+	"json_tool.h"
+	<iomanip>
+	<memory>
+	<sstream>
+	<utility>
+	<set>
+	<cassert>
+	<cstring>
+	<cstdio>
+	<float.h>
+	<ieeefp.h>
+	<math.h>
+	<math.h>
+	<cmath>
+	<float.h>
+
+999302970 source:c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.tools.executor\src\fcgi_stdio.c
+	<errno.h>
+	<stdarg.h>
+	<stdlib.h>
+	<string.h>
+	"fcgi_config.h"
+	<unistd.h>
+	"fcgiapp.h"
+	"fcgios.h"
+	"fcgimisc.h"
+	"fcgi_stdio.h"
+	<stdio.h>
+
+1014599420 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\include\fcgi\fcgi_config.h
+
+1056237404 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\include\fcgi\fcgios.h
+	<windows.h>
+	<winsock2.h>
+	"fcgi_config.h"
+	<sys/time.h>
+	<sys/types.h>
+
+992870747 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\include\fcgi\fcgimisc.h
+
+993212475 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\include\fcgi\fcgi_stdio.h
+	<stdio.h>
+	<sys/types.h>
+	"fcgiapp.h"
+
+1056237403 source:c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.tools.executor\src\fcgiapp.c
+	<assert.h>
+	<errno.h>
+	<fcntl.h>
+	<math.h>
+	<memory.h>
+	<stdarg.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<sys/types.h>
+	"fcgi_config.h"
+	<sys/socket.h>
+	<sys/time.h>
+	<unistd.h>
+	<limits.h>
+	"fcgimisc.h"
+	"fastcgi.h"
+	"fcgios.h"
+	"fcgiapp.h"
+
+874420592 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\include\fcgi\fastcgi.h
+
+1488973450 source:c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.tools.executor\src\fcgio.cpp
+	<limits.h>
+	"fcgio.h"
+	<stdio.h>
+
+1488988388 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.tools.executor\src\json\json.h
+	<stddef.h>
+	<string>
+	<stdint.h>
+	<cpptl/config.h>
+	"version.h"
+	"allocator.h"
+	"config.h"
+	"forwards.h"
+	"forwards.h"
+	<string>
+	<vector>
+	<exception>
+	<map>
+	<cpptl/smallmap.h>
+	<cpptl/forwards.h>
+	"features.h"
+	"value.h"
+	<deque>
+	<iosfwd>
+	<stack>
+	<string>
+	<istream>
+	"value.h"
+	<vector>
+	<string>
+	<ostream>
+	<stdlib.h>
+	<sstream>
+	"config.h"
+
+1014642971 c:\cygwin\usr\src\fcgi-2.4.0-3.src\fcgi-2.4.0\include\fcgio.h
+	<iostream>
+	"fcgiapp.h"
+
+1006377011 c:\cygwin\usr\src\fcgi-2.4.0-3.src\fcgi-2.4.0\include\fcgiapp.h
+	<stdarg.h>
+	<varargs.h>
+
+999302970 source:c:\cygwin\usr\src\fcgi-2.4.0-3.src\fcgi-2.4.0\libfcgi\fcgi_stdio.c
+	<errno.h>
+	<stdarg.h>
+	<stdlib.h>
+	<string.h>
+	"fcgi_config.h"
+	<unistd.h>
+	"fcgiapp.h"
+	"fcgios.h"
+	"fcgimisc.h"
+	"fcgi_stdio.h"
+	<stdio.h>
+
+1008903333 c:\cygwin\usr\src\fcgi-2.4.0-3.src\fcgi-2.4.0\include\fcgios.h
+	<windows.h>
+	<winsock2.h>
+	"fcgi_config.h"
+	<sys/time.h>
+	<sys/types.h>
+
+992870747 c:\cygwin\usr\src\fcgi-2.4.0-3.src\fcgi-2.4.0\include\fcgimisc.h
+
+993212475 c:\cygwin\usr\src\fcgi-2.4.0-3.src\fcgi-2.4.0\include\fcgi_stdio.h
+	<stdio.h>
+	<sys/types.h>
+	"fcgiapp.h"
+
+1489176816 c:\cygwin\usr\src\fcgi-2.4.0-3.src\fcgi-2.4.0\fcgi_config.h
+
+1486905344 c:\cygwin\usr\include\errno.h
+	<sys/errno.h>
+
+1486905344 c:\cygwin\usr\include\sys\errno.h
+	<sys/reent.h>
+
+1486905344 c:\cygwin\usr\include\sys\reent.h
+	<_ansi.h>
+	<stddef.h>
+	<sys/_types.h>
+	<sys/types.h>
+	<sys/custom_file.h>
+	<assert.h>
+
+1486905344 c:\cygwin\usr\include\_ansi.h
+	<newlib.h>
+	<sys/config.h>
+
+1486905344 c:\cygwin\usr\include\newlib.h
+	<_newlib_version.h>
+
+1486905344 c:\cygwin\usr\include\_newlib_version.h
+
+1486905344 c:\cygwin\usr\include\sys\config.h
+	<machine/ieeefp.h>
+	<sys/features.h>
+	<cygwin/config.h>
+
+1486905344 c:\cygwin\usr\include\machine\ieeefp.h
+
+1486905344 c:\cygwin\usr\include\sys\features.h
+	<_newlib_version.h>
+
+1486905345 c:\cygwin\usr\include\cygwin\config.h
+	"../tlsoffsets64.h"
+	"../tlsoffsets.h"
+
+1486905344 c:\cygwin\usr\include\sys\_types.h
+	<newlib.h>
+	<sys/config.h>
+	<machine/_types.h>
+	<sys/lock.h>
+	<stddef.h>
+
+1486905345 c:\cygwin\usr\include\machine\_types.h
+	<machine/_default_types.h>
+
+1486905344 c:\cygwin\usr\include\machine\_default_types.h
+	<sys/features.h>
+	<limits.h>
+
+1486905344 c:\cygwin\usr\include\limits.h
+	<features.h>
+	<bits/wordsize.h>
+
+1486905344 c:\cygwin\usr\include\features.h
+	<sys/cdefs.h>
+	<sys/features.h>
+
+1486905344 c:\cygwin\usr\include\sys\cdefs.h
+	<machine/_default_types.h>
+	<sys/features.h>
+	<stddef.h>
+
+1486905345 c:\cygwin\usr\include\bits\wordsize.h
+
+1486905345 c:\cygwin\usr\include\sys\lock.h
+
+1486905344 c:\cygwin\usr\include\sys\types.h
+	<_ansi.h>
+	<sys/cdefs.h>
+	<machine/_types.h>
+	<stddef.h>
+	<sys/_types.h>
+	<sys/_stdint.h>
+	<machine/endian.h>
+	<sys/select.h>
+	<sys/features.h>
+	<sys/_pthreadtypes.h>
+	<machine/types.h>
+
+1486905344 c:\cygwin\usr\include\sys\_stdint.h
+	<machine/_default_types.h>
+
+1486905344 c:\cygwin\usr\include\machine\endian.h
+	<sys/cdefs.h>
+	<sys/_types.h>
+	<machine/_endian.h>
+
+1486905345 c:\cygwin\usr\include\machine\_endian.h
+	<_ansi.h>
+	<bits/endian.h>
+
+1486905345 c:\cygwin\usr\include\bits\endian.h
+
+1486905344 c:\cygwin\usr\include\sys\select.h
+	<sys/cdefs.h>
+	<sys/_sigset.h>
+	<sys/_timeval.h>
+	<sys/timespec.h>
+
+1486905344 c:\cygwin\usr\include\sys\_sigset.h
+
+1486905344 c:\cygwin\usr\include\sys\_timeval.h
+	<sys/_types.h>
+
+1486905344 c:\cygwin\usr\include\sys\timespec.h
+	<sys/cdefs.h>
+	<sys/_timespec.h>
+
+1486905344 c:\cygwin\usr\include\sys\_timespec.h
+	<sys/_types.h>
+
+1486905345 c:\cygwin\usr\include\sys\_pthreadtypes.h
+
+1486905345 c:\cygwin\usr\include\machine\types.h
+	<endian.h>
+	<bits/wordsize.h>
+	<sys/_timespec.h>
+	<sys/sysmacros.h>
+
+1486905344 c:\cygwin\usr\include\endian.h
+	<sys/config.h>
+	<machine/endian.h>
+	<bits/byteswap.h>
+
+1486905345 c:\cygwin\usr\include\bits\byteswap.h
+
+1486905345 c:\cygwin\usr\include\sys\sysmacros.h
+	<sys/types.h>
+
+1486905344 c:\cygwin\usr\include\sys\custom_file.h
+
+1486905344 c:\cygwin\usr\include\assert.h
+	"_ansi.h"
+
+1486905344 c:\cygwin\usr\include\stdlib.h
+	<machine/ieeefp.h>
+	"_ansi.h"
+	<stddef.h>
+	<sys/reent.h>
+	<sys/cdefs.h>
+	<machine/stdlib.h>
+	<alloca.h>
+	<cygwin/stdlib.h>
+	<sys/_locale.h>
+
+1486905345 c:\cygwin\usr\include\machine\stdlib.h
+
+1486905344 c:\cygwin\usr\include\alloca.h
+	"_ansi.h"
+	<sys/reent.h>
+
+1486905345 c:\cygwin\usr\include\cygwin\stdlib.h
+	<sys/cdefs.h>
+	<cygwin/wait.h>
+
+1486905345 c:\cygwin\usr\include\cygwin\wait.h
+
+1486905344 c:\cygwin\usr\include\sys\_locale.h
+	<newlib.h>
+	<sys/config.h>
+
+1486905344 c:\cygwin\usr\include\string.h
+	"_ansi.h"
+	<sys/reent.h>
+	<sys/cdefs.h>
+	<sys/features.h>
+	<stddef.h>
+	<sys/_locale.h>
+	<string.h>
+	<sys/string.h>
+
+1486905344 c:\cygwin\usr\include\sys\string.h
+
+1486905344 c:\cygwin\usr\include\unistd.h
+	<sys/unistd.h>
+
+1486905344 c:\cygwin\usr\include\sys\unistd.h
+	<_ansi.h>
+	<sys/cdefs.h>
+	<sys/types.h>
+	<sys/_types.h>
+	<stddef.h>
+	<getopt.h>
+	<sys/features.h>
+
+1486905344 c:\cygwin\usr\include\getopt.h
+
+1486905344 c:\cygwin\usr\include\stdio.h
+	"_ansi.h"
+	<sys/cdefs.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdarg.h>
+	<sys/reent.h>
+	<sys/types.h>
+	<sys/stdio.h>
+
+1486905345 c:\cygwin\usr\include\sys\stdio.h
+	<sys/cdefs.h>
+	<sys/lock.h>
+
+1486905344 c:\cygwin\usr\include\sys\time.h
+	<_ansi.h>
+	<sys/cdefs.h>
+	<sys/_timeval.h>
+	<sys/types.h>
+	<sys/timespec.h>
+	<sys/select.h>
+	<time.h>
+	<machine/_time.h>
+
+1486905344 c:\cygwin\usr\include\time.h
+	"_ansi.h"
+	<sys/cdefs.h>
+	<sys/reent.h>
+	<stddef.h>
+	<machine/time.h>
+	<sys/types.h>
+	<sys/timespec.h>
+	<sys/_locale.h>
+	<sys/features.h>
+	<cygwin/time.h>
+	<signal.h>
+
+1486905344 c:\cygwin\usr\include\machine\time.h
+	<sys/_timespec.h>
+
+1486905345 c:\cygwin\usr\include\cygwin\time.h
+
+1486905344 c:\cygwin\usr\include\signal.h
+	"_ansi.h"
+	<sys/cdefs.h>
+	<sys/signal.h>
+
+1486905344 c:\cygwin\usr\include\sys\signal.h
+	"_ansi.h"
+	<sys/cdefs.h>
+	<sys/features.h>
+	<sys/types.h>
+	<sys/_sigset.h>
+	<sys/_timespec.h>
+	<cygwin/signal.h>
+	<sys/ucontext.h>
+	<signal.h>
+
+1486905345 c:\cygwin\usr\include\cygwin\signal.h
+	<bits/wordsize.h>
+
+1486905345 c:\cygwin\usr\include\sys\ucontext.h
+	<signal.h>
+
+1486905344 c:\cygwin\usr\include\machine\_time.h
+
+1014599420 c:\cygwin\usr\src\fcgi-2.4.0-3.src\fcgi-2.4.0\include\fcgi_config.h
+
+1486905344 c:\cygwin\usr\include\process.h
+
+1486905344 c:\cygwin\usr\include\sys\timeb.h
+	<_ansi.h>
+	<sys/_types.h>
+
+1486905345 c:\cygwin\usr\include\sys\socket.h
+	<features.h>
+	<cygwin/socket.h>
+	<sys/time.h>
+
+1486905345 c:\cygwin\usr\include\cygwin\socket.h
+	<sys/types.h>
+	<asm/socket.h>
+	<cygwin/sockios.h>
+	<sys/uio.h>
+
+1486905344 c:\cygwin\usr\include\asm\socket.h
+	<cygwin/if.h>
+
+1486905345 c:\cygwin\usr\include\cygwin\if.h
+	<sys/types.h>
+	<cygwin/socket.h>
+
+1486905345 c:\cygwin\usr\include\cygwin\sockios.h
+
+1486905345 c:\cygwin\usr\include\sys\uio.h
+	<stddef.h>
+	<sys/types.h>
+	<sys/cdefs.h>
+
+1486905345 c:\cygwin\usr\include\netinet\in.h
+	<cygwin/in.h>
+
+1486905345 c:\cygwin\usr\include\cygwin\in.h
+	<cygwin/socket.h>
+	<asm/byteorder.h>
+	<cygwin/in6.h>
+
+1486905344 c:\cygwin\usr\include\asm\byteorder.h
+	<stdint.h>
+	<machine/endian.h>
+
+1486905344 c:\cygwin\usr\include\stdint.h
+	<machine/_default_types.h>
+	<sys/_intsup.h>
+	<sys/_stdint.h>
+
+1486905344 c:\cygwin\usr\include\sys\_intsup.h
+	<sys/features.h>
+	<limits.h>
+
+1486905345 c:\cygwin\usr\include\cygwin\in6.h
+
+1486905344 c:\cygwin\usr\include\netdb.h
+	<inttypes.h>
+	<sys/socket.h>
+	<netinet/in.h>
+
+1486905344 c:\cygwin\usr\include\inttypes.h
+	<newlib.h>
+	<sys/config.h>
+	<sys/_intsup.h>
+	<stdint.h>
+	<stddef.h>
+
+1486905344 c:\cygwin\usr\include\fcntl.h
+	<sys/fcntl.h>
+
+1486905344 c:\cygwin\usr\include\sys\fcntl.h
+	<sys/_default_fcntl.h>
+
+1486905344 c:\cygwin\usr\include\sys\_default_fcntl.h
+	<_ansi.h>
+	<sys/cdefs.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<sys/time.h>
+
+1486905344 c:\cygwin\usr\include\sys\stat.h
+	<_ansi.h>
+	<time.h>
+	<sys/cdefs.h>
+	<sys/types.h>
+	<sys/_timespec.h>
+	<cygwin/stat.h>
+
+1486905345 c:\cygwin\usr\include\cygwin\stat.h
+
+1486905345 c:\cygwin\usr\include\sys\ioctl.h
+	<sys/cdefs.h>
+	<sys/termios.h>
+
+1486905345 c:\cygwin\usr\include\sys\termios.h
+	<sys/types.h>
+
+1486905344 c:\cygwin\usr\include\arpa\inet.h
+	<netinet/in.h>
+
+1486905344 c:\cygwin\usr\include\math.h
+	<sys/reent.h>
+	<sys/cdefs.h>
+	<machine/ieeefp.h>
+	"_ansi.h"
+	<machine/fastmath.h>
+
+1486905344 c:\cygwin\usr\include\machine\fastmath.h
+
+1486905344 c:\cygwin\usr\include\ieeefp.h
+	"_ansi.h"
+	<machine/ieeefp.h>
+	<float.h>
+
+1424272346 c:\cygwin\usr\include\fcgio.h
+	<iostream>
+	"fcgiapp.h"
+
+1424272346 c:\cygwin\usr\include\fcgiapp.h
+	<stdarg.h>
+	<varargs.h>
+
+1424272346 c:\cygwin\usr\include\fcgi_config.h
+
+1489748927 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\include\criteria\bos\bosux.h
+	<unistd.h>
+	<stdio.h>
+	<stdlib.h>
+	<pthread.h>
+	<fcntl.h>
+	<sys/stat.h>
+	<semaphore.h>
+	<dlfcn.h>
+	<string>
+	<vector>
+	<queue>
+	<stack>
+	<list>
+	<map>
+	<fstream>
+	<iostream>
+	<strstream>
+	<assert.h>
+	<time.h>
+	<errno.h>
+	<sys/timeb.h>
+	<algorithm>
+	<typeinfo>
+	<sys/wait.h>
+	<sys/time.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<netdb.h>
+	<fcntl.h>
+	<sys/ioctl.h>
+	<arpa/inet.h>
+	<cstring>
+	<cstdarg>
+	<streambuf>
+	<ostream>
+	<stdexcept>
+	<sstream>
+
+1486905344 c:\cygwin\usr\include\pthread.h
+	<sys/types.h>
+	<signal.h>
+	<sched.h>
+	<time.h>
+
+1486905344 c:\cygwin\usr\include\sched.h
+	<sys/types.h>
+	<sys/sched.h>
+
+1486905344 c:\cygwin\usr\include\sys\sched.h
+	<sys/_timespec.h>
+
+1486905344 c:\cygwin\usr\include\semaphore.h
+	<sys/types.h>
+
+1486905344 c:\cygwin\usr\include\dlfcn.h
+
+1486905345 c:\cygwin\usr\include\sys\wait.h
+	<sys/types.h>
+	<sys/resource.h>
+	<cygwin/wait.h>
+
+1486905345 c:\cygwin\usr\include\sys\resource.h
+	<sys/time.h>
+

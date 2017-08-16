@@ -1,0 +1,2959 @@
+# depslib dependency file v1.0
+1405259239 source:c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.libraries.bos\bos.cpp
+	"bOS.h"
+
+1489686738 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.libraries.bos\bos.h
+	"bOSTypes.h"
+	"bOSWin32.h"
+	"bOSSolaris.h"
+	"bOSHp.h"
+	"bOSUx.h"
+
+1405259239 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.libraries.bos\core\bostypes.h
+
+1489770828 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.libraries.bos\boswin32.h
+	<process.h>
+	<windows.h>
+	<commctrl.h>
+	<shlobj.h>
+	<string>
+	<vector>
+	<queue>
+	<stack>
+	<list>
+	<map>
+	<fstream>
+	<iostream>
+	<strstream>
+	<assert.h>
+	<time.h>
+	<stdio.h>
+	<errno.h>
+	<stdlib.h>
+	<sys/timeb.h>
+	<algorithm>
+	<typeinfo>
+	<winsock2.h>
+	<string>
+	<streambuf>
+	<ostream>
+	<stdexcept>
+	<sstream>
+
+1489829682 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.libraries.bos\string
+
+1489686733 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.libraries.bos\bossolaris.h
+	<sys/types.h>
+	<sys/socket.h>
+	<errno.h>
+	<netinet/in.h>
+	<unistd.h>
+	<netdb.h>
+	<fcntl.h>
+	<sys/ioctl.h>
+	<sys/filio.h>
+	<stropts.h>
+	<arpa/inet.h>
+	<string>
+	<streambuf>
+	<ostream>
+	<stdexcept>
+	<sstream>
+
+1405259239 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.libraries.bos\boshp.h
+	<sys/types.h>
+	<sys/socket.h>
+	<errno.h>
+	<netinet/in.h>
+	<unistd.h>
+	<netdb.h>
+	<fcntl.h>
+	<sys/ioctl.h>
+	<sys/filio.h>
+	<stropts.h>
+	<arpa/inet.h>
+
+1489766302 source:c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.libraries.bos\codemanager\codeitem.cpp
+	"CommonDefines.h"
+	"bOS.h"
+	"bOSStringBuffer.h"
+	"bOSFileSystem.h"
+	"CodeItem.h"
+	"CodeTracer.h"
+
+1488886259 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.libraries.bos\commondefines.h
+
+1489765990 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.libraries.bos\string\bosstringbuffer.h
+	"bOS.h"
+
+1489762906 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.libraries.bos\string\bosstring.h
+	"bOS.h"
+	<string>
+
+1489766171 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.libraries.bos\io\bosfilesystem.h
+	"bOS.h"
+	"bOSStringBuffer.h"
+
+1489766222 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.libraries.bos\codemanager\codeitem.h
+	"bOS.h"
+	"bOSStringBuffer.h"
+	"bOSTimer.h"
+
+1405259242 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.libraries.bos\utils\bostimer.h
+	"bOS.h"
+	"bOSTime.h"
+
+1489766204 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.libraries.bos\utils\bostime.h
+	"bOS.h"
+
+1489766302 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.libraries.bos\codemanager\codetracer.h
+	<strstream>
+	<sstream>
+	<iostream>
+	<map>
+	<map>
+	<sstream>
+	<sys/time.h>
+	"bOS.h"
+	"bOSStringBuffer.h"
+	"bOSMutex.h"
+
+1489766302 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.libraries.bos\core\bosmutex.h
+	"bOS.h"
+	"bOSSmartLocker.h"
+
+1405259239 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.libraries.bos\core\bossmartlocker.h
+	"bOS.h"
+	"bOSNullArgumentException.h"
+
+1489766302 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.libraries.bos\exception\bosnullargumentexception.h
+	"bOS.h"
+	"bOSException.h"
+
+1489766231 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.libraries.bos\exception\bosexception.h
+	"bOS.h"
+
+1489766783 source:c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.libraries.bos\codemanager\codetracer.cpp
+	"CommonDefines.h"
+	"bOSMutex.h"
+	"bOSFileSystem.h"
+	"bOSDateTime.h"
+	"bOSDate.h"
+	"bOSTime.h"
+	"bOSStringUtils.h"
+	"bOSSystem.h"
+	"bOSThread.h"
+	"bOSProcess.h"
+	"CodeTracer.h"
+	"CodeItem.h"
+
+1489766377 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.libraries.bos\utils\bosdatetime.h
+	"bOS.h"
+	"bOSDate.h"
+	"bOSTime.h"
+
+1489766783 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.libraries.bos\utils\bosdate.h
+	"bOS.h"
+
+1489766391 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.libraries.bos\string\bosstringutils.h
+	"bOS.h"
+
+1489766403 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.libraries.bos\system\bossystem.h
+	"bOS.h"
+
+1405259239 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.libraries.bos\core\bosthread.h
+	"bOS.h"
+	"bOSRunnable.h"
+
+1405259239 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.libraries.bos\core\bosrunnable.h
+	"bOS.h"
+
+1489766460 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.libraries.bos\system\bosprocess.h
+	"bOS.h"
+
+1405259239 source:c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.libraries.bos\codemanager\tracer.cpp
+	"Tracer.h"
+
+1405259239 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.libraries.bos\codemanager\tracer.h
+	"CodeTracer.h"
+	"CodeItem.h"
+
+1489765731 source:c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.libraries.bos\collections\boscollection.cpp
+	"CommonDefines.h"
+	"bOS.h"
+	"bOSCollection.h"
+
+1489740244 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.libraries.bos\collections\boscollection.h
+	"bOS.h"
+	"bOSCollectionEntry.h"
+	"bOSMutex.h"
+	"bOSSmartLocker.h"
+
+1489685829 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.libraries.bos\collections\boscollectionentry.h
+	"bOS.h"
+
+1405259239 source:c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.libraries.bos\collections\boscollectionentry.cpp
+	"bOSCollectionEntry.h"
+
+1489766529 source:c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.libraries.bos\core\bosmutex.cpp
+	"CommonDefines.h"
+	"bOSMutex.h"
+	"bOSSynchronizationException.h"
+
+1489766513 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.libraries.bos\exception\bossynchronizationexception.h
+	"bOS.h"
+	"bOSException.h"
+
+1489766635 source:c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.libraries.bos\core\bossemaphore.cpp
+	"bOS.h"
+	"bOSSemaphore.h"
+	"bOSSynchronizationException.h"
+	"bOSDeadLockException.h"
+	"bOSAlreadyInitializedException.h"
+
+1489766555 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.libraries.bos\core\bossemaphore.h
+	"bOS.h"
+
+1489766555 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.libraries.bos\exception\bosdeadlockexception.h
+	"bOS.h"
+	"bOSException.h"
+
+1489766566 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.libraries.bos\exception\bosalreadyinitializedexception.h
+	"bOS.h"
+	"bOSException.h"
+
+1405259239 source:c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.libraries.bos\core\bossmartlocker.cpp
+	"CommonDefines.h"
+	"bOSSmartLocker.h"
+
+1489744210 source:c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.libraries.bos\core\bosthread.cpp
+	"CommonDefines.h"
+	"bOSThread.h"
+	"bOSRuntimeException.h"
+	"bOSInterruptedException.h"
+	"bOSSynchronizationException.h"
+	"bOSStringUtils.h"
+
+1489766647 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.libraries.bos\exception\bosruntimeexception.h
+	"bOS.h"
+	"bOSException.h"
+
+1489766683 source:c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.libraries.bos\exception\bosexception.cpp
+	"CommonDefines.h"
+	"bOS.h"
+	"bOSException.h"
+
+1489765750 source:c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.libraries.bos\io\bosfile.cpp
+	"CommonDefines.h"
+	"bOS.h"
+	"bOSSystem.h"
+	"bOSFile.h"
+	"bOSFileSystemException.h"
+
+1489766116 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.libraries.bos\io\bosfile.h
+	"bOS.h"
+
+1489766701 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.libraries.bos\exception\bosfilesystemexception.h
+	"bOS.h"
+	"bOSException.h"
+
+1489766783 source:c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.libraries.bos\io\bosfilesystem.cpp
+	"CommonDefines.h"
+	"bOS.h"
+	"bOSStringBuffer.h"
+	"bOSSystem.h"
+	"bOSFileSystem.h"
+	"bOSFileSystemException.h"
+
+1405259240 source:c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.libraries.bos\network\bossocketexception.cpp
+	"bOSSocketException.h"
+
+1405259240 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.libraries.bos\network\bossocketexception.h
+	"bOS.h"
+	"bOSException.h"
+
+1489828325 source:c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.libraries.bos\network\bossockets.cpp
+	"bOSSockets.h"
+	"bOSSocketException.h"
+
+1405259240 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.libraries.bos\network\bossockets.h
+	"bOS.h"
+
+1405259240 source:c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.libraries.bos\sql\bosresultset.cpp
+	"CommonDefines.h"
+	"bOSResultSet.h"
+	"bOSStringUtils.h"
+
+1489765791 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.libraries.bos\sql\bosresultset.h
+	"bOS.h"
+	"bOSResultSetMetaData.h"
+	"bOSResultSetRecord.h"
+	"bOSResultSetField.h"
+
+1489765805 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.libraries.bos\sql\bosresultsetmetadata.h
+	"bOS.h"
+	"bOSResultSetColumn.h"
+
+1489765796 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.libraries.bos\sql\bosresultsetcolumn.h
+	"bOS.h"
+
+1489765811 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.libraries.bos\sql\bosresultsetrecord.h
+	"bOS.h"
+	"bOSResultSetField.h"
+
+1489766783 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.libraries.bos\sql\bosresultsetfield.h
+	"bOS.h"
+	"bOSStringBuffer.h"
+
+1489766783 source:c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.libraries.bos\sql\bosresultsetfield.cpp
+	"CommonDefines.h"
+	"bOSResultSetField.h"
+	"bOSStringUtils.h"
+
+1405259240 source:c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.libraries.bos\sql\bosresultsetmetadata.cpp
+	"CommonDefines.h"
+	"bOSResultSetMetaData.h"
+
+1405259240 source:c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.libraries.bos\sql\bosresultsetrecord.cpp
+	"CommonDefines.h"
+	"bOSResultSetRecord.h"
+
+1489766783 source:c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.libraries.bos\sql\bossqlcommand.cpp
+	"CommonDefines.h"
+	"bOSSQLCommand.h"
+	"bOSStringBuffer.h"
+	"bOSStringUtils.h"
+
+1489766783 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.libraries.bos\sql\bossqlcommand.h
+	"bOS.h"
+	"bOSResultSetField.h"
+	"bOSResultSetRecord.h"
+
+1405259240 source:c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.libraries.bos\sql\bossqlcommands.cpp
+	"CommonDefines.h"
+	"bOSSQLCommands.h"
+
+1489765821 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.libraries.bos\sql\bossqlcommands.h
+	"bOS.h"
+	"bOSSQLCommand.h"
+
+1405259240 source:c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.libraries.bos\sql\bossqlconnection.cpp
+	"CommonDefines.h"
+	"bOSSQLConnection.h"
+	"bOSStringUtils.h"
+
+1489765825 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.libraries.bos\sql\bossqlconnection.h
+	"bOS.h"
+	"bOSSQLCommands.h"
+
+1488904166 source:c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.libraries.bos\sql\bossqlconnectionmanager.cpp
+	"CommonDefines.h"
+	"bOSSQLConnectionManager.h"
+	"bOSSQLException.h"
+	"bOSmySQLConnection.h"
+	"bOSmySQLConnectionData.h"
+	"bOSSQLiteConnection.h"
+	"bOSSQLiteConnectionData.h"
+	"bOSThread.h"
+
+1405259240 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.libraries.bos\sql\bossqlconnectionmanager.h
+	"bOS.h"
+	"bOSMutex.h"
+	"bOSSQLConnection.h"
+	"bOSSQLConnectionPool.h"
+	"bOSSQLConnectionData.h"
+
+1405259240 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.libraries.bos\sql\bossqlconnectionpool.h
+	"bOS.h"
+	"bOSMutex.h"
+	"bOSSQLConnection.h"
+	"bOSSQLException.h"
+
+1489766783 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.libraries.bos\sql\bossqlexception.h
+	"bOS.h"
+	"bOSException.h"
+
+1405259240 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.libraries.bos\sql\bossqlconnectiondata.h
+	"bOS.h"
+
+1489766783 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.libraries.bos\sql\mysql\bosmysqlconnection.h
+	"bOS.h"
+	"bOSSQLConnection.h"
+	"bOSmySQLConnectionData.h"
+	<windows.h>
+	"mysql/mysql.h"
+
+1489767019 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.libraries.bos\sql\mysql\bosmysqlconnectiondata.h
+	"bOS.h"
+	"bOSSQLConnectionData.h"
+
+1293555050 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\include\mysql\mysql.h
+	<standards.h>
+	<sys/types.h>
+	<winsock2.h>
+	"mysql_version.h"
+	"mysql_com.h"
+	"mysql_time.h"
+	"my_list.h"
+	"typelib.h"
+	"my_alloc.h"
+
+1293555050 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\include\mysql\mysql_version.h
+	<custom_conf.h>
+
+1293555050 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\include\mysql\mysql_com.h
+
+1293555050 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\include\mysql\mysql_time.h
+
+1293555050 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\include\mysql\my_list.h
+
+1293555050 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\include\mysql\typelib.h
+	"my_alloc.h"
+
+1293555050 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\include\mysql\my_alloc.h
+
+1483437602 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.libraries.bos\sql\sqlite3\bossqliteconnection.h
+	"bOS.h"
+	"bOSString.h"
+	"bOSSQLConnection.h"
+	"bOSSQLiteConnectionData.h"
+	"CppSQLite3.h"
+
+1405259241 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.libraries.bos\sql\sqlite3\bossqliteconnectiondata.h
+	"bOS.h"
+	"bOSString.h"
+	"bOSSQLConnectionData.h"
+
+1405259242 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.libraries.bos\sql\sqlite3\3rdlibraries\cppsqlite3.h
+	"sqlite3.h"
+	<cstdio>
+	<cstring>
+
+1405259242 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.libraries.bos\sql\sqlite3\3rdlibraries\sqlite3.h
+	<stdarg.h>
+
+1405259240 source:c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.libraries.bos\sql\bossqlconnectionpool.cpp
+	"CommonDefines.h"
+	"bOSSQLConnectionPool.h"
+	"bOSSQLException.h"
+
+1489766783 source:c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.libraries.bos\sql\bossqlfield.cpp
+	"CommonDefines.h"
+	"bOSSQLField.h"
+	"bOSStringUtils.h"
+
+1489766783 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.libraries.bos\sql\bossqlfield.h
+	"bOS.h"
+
+1405259241 source:c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.libraries.bos\sql\bossqlsmartconnection.cpp
+	"CommonDefines.h"
+	"bOSSQLSmartConnection.h"
+	"bOSSQLConnectionManager.h"
+	"bOSSQLConnection.h"
+
+1405259241 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.libraries.bos\sql\bossqlsmartconnection.h
+	"bOS.h"
+
+1405259241 source:c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.libraries.bos\sql\bossqltable.cpp
+	"CommonDefines.h"
+	"bOSSQLTable.h"
+	"bOSStringUtils.h"
+
+1489766783 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.libraries.bos\sql\bossqltable.h
+	"bOS.h"
+	"bOSSqlCommand.h"
+	"bOSSqlCommands.h"
+
+1489766783 source:c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.libraries.bos\sql\mysql\bosmysqlconnection.cpp
+	"CommonDefines.h"
+	"bOSResultSetRecord.h"
+	"bOSResultSetField.h"
+	"bOSSqlException.h"
+	"bOSmySQLConnection.h"
+	"bOSmySQLResultSet.h"
+	"bOSStringUtils.h"
+
+1489765844 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.libraries.bos\sql\mysql\bosmysqlresultset.h
+	"bOS.h"
+	"bOSResultSet.h"
+	"bOSResultSetMetaData.h"
+	"bOSmySQLResultSetMetaData.h"
+	<windows.h>
+	"mySQL/mysql.h"
+
+1489765853 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.libraries.bos\sql\mysql\bosmysqlresultsetmetadata.h
+	"bOS.h"
+	"bOSResultSetMetaData.h"
+
+1489761694 source:c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.libraries.bos\sql\mysql\bosmysqlconnectiondata.cpp
+	"CommonDefines.h"
+	"bOSmySQLConnectionData.h"
+
+1405259241 source:c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.libraries.bos\sql\mysql\bosmysqlresultset.cpp
+	"CommonDefines.h"
+	"bOSResultSetMetaData.h"
+	"bOSSqlException.h"
+	"bOSResultSetColumn.h"
+	"bOSmySQLResultSet.h"
+	"bOSmySQLResultSetMetaData.h"
+	"bOSmySQLResultSetField.h"
+
+1489766783 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.libraries.bos\sql\mysql\bosmysqlresultsetfield.h
+	"bOS.h"
+	"bOSResultSetField.h"
+
+1489766783 source:c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.libraries.bos\sql\mysql\bosmysqlresultsetfield.cpp
+	"CommonDefines.h"
+	"bOSmySQLResultSetField.h"
+	"bOSStringUtils.h"
+
+1405259241 source:c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.libraries.bos\sql\mysql\bosmysqlresultsetmetadata.cpp
+	"CommonDefines.h"
+	"bOSmySQLResultSetMetaData.h"
+	<windows.h>
+	"mySQL/mysql.h"
+
+1405259242 source:c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.libraries.bos\string\bosstring.cpp
+	"CommonDefines.h"
+	"bOSString.h"
+
+1489766783 source:c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.libraries.bos\string\bosstringbuffer.cpp
+	"CommonDefines.h"
+	"bOSStringBuffer.h"
+	"bOSStringUtils.h"
+
+1489829682 source:c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.libraries.bos\string\bosstringutils.cpp
+	"CommonDefines.h"
+	"bOSStringUtils.h"
+	"bOSStringBuffer.h"
+
+1489766783 source:c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.libraries.bos\system\bosprocess.cpp
+	"CommonDefines.h"
+	"bOSProcess.h"
+	"bOSRuntimeException.h"
+
+1489766783 source:c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.libraries.bos\system\bossystem.cpp
+	"CommonDefines.h"
+	"bOSRuntimeException.h"
+	"bOSSystem.h"
+
+1489766783 source:c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.libraries.bos\utils\bosdate.cpp
+	"CommonDefines.h"
+	"bOSDate.h"
+	"bOSStringUtils.h"
+
+1489766783 source:c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.libraries.bos\utils\bosdatetime.cpp
+	"CommonDefines.h"
+	"bOSDateTime.h"
+	"bOSStringUtils.h"
+
+1489766783 source:c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.libraries.bos\utils\bostime.cpp
+	"CommonDefines.h"
+	"bOSTime.h"
+	"bOSStringUtils.h"
+
+1405259242 source:c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.libraries.bos\utils\bostimer.cpp
+	"CommonDefines.h"
+	"bOSTimer.h"
+	"bOSStringUtils.h"
+
+1489766783 source:c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.libraries.bos\utils\bosuniqueid.cpp
+	"CommonDefines.h"
+	"bOSUniqueID.h"
+	"bOSDateTime.h"
+	"bOSStringUtils.h"
+
+1489766783 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.libraries.bos\utils\bosuniqueid.h
+	"bOS.h"
+	"bOSDateTime.h"
+
+1489767108 source:c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.libraries.bos\xml\bosxmlattribute.cpp
+	"CommonDefines.h"
+	"bOS.h"
+	"bOSStringUtils.h"
+	"bOSXMLAttribute.h"
+
+1489766783 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.libraries.bos\xml\bosxmlattribute.h
+	"bOS.h"
+	"bOSCollectionEntry.h"
+
+1489766783 source:c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.libraries.bos\xml\bosxmlhelper.cpp
+	"CommonDefines.h"
+	"bOS.h"
+	"bOSStringBuffer.h"
+	"bOSFilesystem.h"
+	"bOSFileSystemException.h"
+	"bOSXMLHelper.h"
+	"bOSXMLNode.h"
+	"bOSXMLAttribute.h"
+	"bOSXMLException.h"
+	<xercesc/util/PlatformUtils.hpp>
+	<xercesc/parsers/AbstractDOMParser.hpp>
+	<xercesc/parsers/XercesDOMParser.hpp>
+	<xercesc/dom/DOMImplementation.hpp>
+	<xercesc/dom/DOMImplementationLS.hpp>
+	<xercesc/dom/DOMImplementationRegistry.hpp>
+	<xercesc/dom/DOMException.hpp>
+	<xercesc/dom/DOMDocument.hpp>
+	<xercesc/dom/DOMNode.hpp>
+	<xercesc/dom/DOMNamedNodeMap.hpp>
+	<xercesc/dom/DOMNodeList.hpp>
+	<xercesc/dom/DOMError.hpp>
+	<xercesc/dom/DOMLocator.hpp>
+	<xercesc/framework/MemBufInputSource.hpp>
+	<xercesc/sax/HandlerBase.hpp>
+	<xercesc/util/XMLString.hpp>
+
+1483535705 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.libraries.bos\xml\bosxmlhelper.h
+
+1489766783 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.libraries.bos\xml\bosxmlnode.h
+	"bOS.h"
+	"bOSXMLAttribute.h"
+	"bOSCollection.h"
+
+1489766783 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.libraries.bos\xml\bosxmlexception.h
+	"bOSException.h"
+
+1466605358 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\include\xercesc\util\platformutils.hpp
+	<xercesc/util/XercesDefs.hpp>
+	<xercesc/util/XMLException.hpp>
+	<xercesc/util/PanicHandler.hpp>
+	<xercesc/util/XMLFileMgr.hpp>
+	<xercesc/util/XMLMutexMgr.hpp>
+
+1466605358 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\include\xercesc\util\xercesdefs.hpp
+	<xercesc/util/Xerces_autoconf_config.hpp>
+	<xercesc/util/XercesVersion.hpp>
+
+1483537656 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\include\xercesc\util\xerces_autoconf_config.hpp
+	<inttypes.h>
+	<sys/types.h>
+	<wchar.h>
+
+1466605358 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\include\xercesc\util\xercesversion.hpp
+
+1466605358 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\include\xercesc\util\xmlexception.hpp
+	<xercesc/util/XercesDefs.hpp>
+	<xercesc/util/XMemory.hpp>
+	<xercesc/util/XMLExceptMsgs.hpp>
+	<xercesc/util/XMLUni.hpp>
+	<xercesc/framework/XMLErrorReporter.hpp>
+
+1466605358 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\include\xercesc\util\xmemory.hpp
+	<xercesc/util/XercesDefs.hpp>
+	<stdlib.h>
+
+1466605358 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\include\xercesc\util\xmlexceptmsgs.hpp
+	<xercesc/util/XercesDefs.hpp>
+	<xercesc/dom/DOMError.hpp>
+
+1466605359 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\include\xercesc\dom\domerror.hpp
+	<xercesc/util/XercesDefs.hpp>
+
+1466605358 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\include\xercesc\util\xmluni.hpp
+	<xercesc/util/XercesDefs.hpp>
+
+1466605357 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\include\xercesc\framework\xmlerrorreporter.hpp
+	<xercesc/util/XercesDefs.hpp>
+
+1466605358 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\include\xercesc\util\panichandler.hpp
+	<xercesc/util/XMemory.hpp>
+
+1466605358 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\include\xercesc\util\xmlfilemgr.hpp
+	<xercesc/util/XercesDefs.hpp>
+	<xercesc/util/XMemory.hpp>
+
+1466605358 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\include\xercesc\util\xmlmutexmgr.hpp
+	<xercesc/util/XMemory.hpp>
+
+1466605359 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\include\xercesc\parsers\abstractdomparser.hpp
+	<xercesc/dom/DOMDocument.hpp>
+	<xercesc/framework/XMLDocumentHandler.hpp>
+	<xercesc/framework/XMLErrorReporter.hpp>
+	<xercesc/framework/XMLEntityHandler.hpp>
+	<xercesc/util/SecurityManager.hpp>
+	<xercesc/util/ValueStackOf.hpp>
+	<xercesc/validators/DTD/DocTypeHandler.hpp>
+	<xercesc/dom/DOMDocumentType.hpp>
+	<xercesc/validators/DTD/DTDElementDecl.hpp>
+	<xercesc/framework/XMLBufferMgr.hpp>
+	<xercesc/framework/psvi/PSVIHandler.hpp>
+
+1466605359 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\include\xercesc\dom\domdocument.hpp
+	<xercesc/util/XercesDefs.hpp>
+	<xercesc/dom/DOMNode.hpp>
+	<xercesc/dom/DOMDocumentRange.hpp>
+	<xercesc/dom/DOMDocumentTraversal.hpp>
+	<xercesc/dom/DOMXPathEvaluator.hpp>
+
+1466605359 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\include\xercesc\dom\domnode.hpp
+	<xercesc/util/XercesDefs.hpp>
+
+1466605359 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\include\xercesc\dom\domdocumentrange.hpp
+	<xercesc/util/XercesDefs.hpp>
+
+1466605359 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\include\xercesc\dom\domdocumenttraversal.hpp
+	<xercesc/util/XercesDefs.hpp>
+	<xercesc/dom/DOMNodeFilter.hpp>
+
+1466605359 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\include\xercesc\dom\domnodefilter.hpp
+	<xercesc/dom/DOMNode.hpp>
+
+1466605359 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\include\xercesc\dom\domxpathevaluator.hpp
+	<xercesc/util/XercesDefs.hpp>
+	<xercesc/dom/DOMXPathResult.hpp>
+
+1466605359 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\include\xercesc\dom\domxpathresult.hpp
+	<xercesc/util/XercesDefs.hpp>
+
+1466605357 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\include\xercesc\framework\xmldocumenthandler.hpp
+	<xercesc/util/XercesDefs.hpp>
+	<xercesc/util/RefVectorOf.hpp>
+	<xercesc/framework/XMLAttr.hpp>
+
+1466605358 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\include\xercesc\util\refvectorof.hpp
+	<xercesc/util/BaseRefVectorOf.hpp>
+	<xercesc/util/RefVectorOf.c>
+
+1466605358 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\include\xercesc\util\baserefvectorof.hpp
+	<xercesc/util/ArrayIndexOutOfBoundsException.hpp>
+	<xercesc/util/XMLEnumerator.hpp>
+	<xercesc/util/PlatformUtils.hpp>
+	<xercesc/framework/MemoryManager.hpp>
+	<xercesc/util/BaseRefVectorOf.c>
+
+1466605358 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\include\xercesc\util\arrayindexoutofboundsexception.hpp
+	<xercesc/util/XMLException.hpp>
+
+1466605358 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\include\xercesc\util\xmlenumerator.hpp
+	<xercesc/util/XercesDefs.hpp>
+
+1466605357 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\include\xercesc\framework\memorymanager.hpp
+	<xercesc/util/XercesDefs.hpp>
+	<stdlib.h>
+
+1466605358 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\include\xercesc\util\baserefvectorof.c
+	<xercesc/util/BaseRefVectorOf.hpp>
+
+1466605358 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\include\xercesc\util\refvectorof.c
+	<xercesc/util/RefVectorOf.hpp>
+
+1466605357 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\include\xercesc\framework\xmlattr.hpp
+	<xercesc/util/PlatformUtils.hpp>
+	<xercesc/util/QName.hpp>
+	<xercesc/framework/XMLAttDef.hpp>
+	<xercesc/validators/datatype/DatatypeValidator.hpp>
+
+1466605358 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\include\xercesc\util\qname.hpp
+	<xercesc/util/XMLString.hpp>
+	<xercesc/util/XMLUniDefs.hpp>
+	<xercesc/util/XMemory.hpp>
+	<xercesc/util/PlatformUtils.hpp>
+	<xercesc/internal/XSerializable.hpp>
+
+1466605358 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\include\xercesc\util\xmlstring.hpp
+	<xercesc/util/BaseRefVectorOf.hpp>
+	<xercesc/framework/XMLBuffer.hpp>
+	<xercesc/framework/MemoryManager.hpp>
+	<string.h>
+	<assert.h>
+
+1466605357 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\include\xercesc\framework\xmlbuffer.hpp
+	<xercesc/util/XMemory.hpp>
+	<xercesc/util/PlatformUtils.hpp>
+	<xercesc/framework/MemoryManager.hpp>
+	<string.h>
+
+1466605358 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\include\xercesc\util\xmlunidefs.hpp
+	<xercesc/util/XercesDefs.hpp>
+
+1466605357 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\include\xercesc\internal\xserializable.hpp
+	<xercesc/internal/XSerializeEngine.hpp>
+	<xercesc/internal/XProtoType.hpp>
+
+1466605357 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\include\xercesc\internal\xserializeengine.hpp
+	<xercesc/util/RefHashTableOf.hpp>
+	<xercesc/util/ValueVectorOf.hpp>
+	<xercesc/util/XMLExceptMsgs.hpp>
+	<xercesc/internal/XSerializationException.hpp>
+
+1466605358 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\include\xercesc\util\refhashtableof.hpp
+	<xercesc/util/Hashers.hpp>
+	<xercesc/util/IllegalArgumentException.hpp>
+	<xercesc/util/NoSuchElementException.hpp>
+	<xercesc/util/RuntimeException.hpp>
+	<xercesc/util/PlatformUtils.hpp>
+	<xercesc/framework/MemoryManager.hpp>
+	<xercesc/util/RefHashTableOf.c>
+
+1466605358 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\include\xercesc\util\hashers.hpp
+	<xercesc/util/XMLString.hpp>
+
+1466605358 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\include\xercesc\util\illegalargumentexception.hpp
+	<xercesc/util/XercesDefs.hpp>
+	<xercesc/util/XMLException.hpp>
+
+1466605358 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\include\xercesc\util\nosuchelementexception.hpp
+	<xercesc/util/XercesDefs.hpp>
+	<xercesc/util/XMLException.hpp>
+
+1466605358 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\include\xercesc\util\runtimeexception.hpp
+	<xercesc/util/XercesDefs.hpp>
+	<xercesc/util/XMLException.hpp>
+
+1466605358 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\include\xercesc\util\refhashtableof.c
+	<xercesc/util/RefHashTableOf.hpp>
+	<xercesc/util/Janitor.hpp>
+	<xercesc/util/XMLString.hpp>
+	<xercesc/util/NullPointerException.hpp>
+	<new>
+
+1466605358 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\include\xercesc\util\janitor.hpp
+	<xercesc/util/XMemory.hpp>
+	<xercesc/framework/MemoryManager.hpp>
+	<xercesc/util/Janitor.c>
+
+1466605358 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\include\xercesc\util\janitor.c
+	<xercesc/util/Janitor.hpp>
+
+1466605358 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\include\xercesc\util\nullpointerexception.hpp
+	<xercesc/util/XercesDefs.hpp>
+	<xercesc/util/XMLException.hpp>
+
+1466605358 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\include\xercesc\util\valuevectorof.hpp
+	<xercesc/util/ArrayIndexOutOfBoundsException.hpp>
+	<xercesc/util/XMLEnumerator.hpp>
+	<xercesc/util/PlatformUtils.hpp>
+	<xercesc/framework/MemoryManager.hpp>
+	<xercesc/util/ValueVectorOf.c>
+
+1466605358 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\include\xercesc\util\valuevectorof.c
+	<xercesc/util/ValueVectorOf.hpp>
+	<string.h>
+
+1466605357 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\include\xercesc\internal\xserializationexception.hpp
+	<xercesc/util/XercesDefs.hpp>
+	<xercesc/util/XMLException.hpp>
+
+1466605357 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\include\xercesc\internal\xprototype.hpp
+	<xercesc/util/PlatformUtils.hpp>
+
+1466605357 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\include\xercesc\framework\xmlattdef.hpp
+	<xercesc/util/PlatformUtils.hpp>
+	<xercesc/util/XMLString.hpp>
+	<xercesc/util/XMemory.hpp>
+	<xercesc/internal/XSerializable.hpp>
+
+1466605357 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\include\xercesc\validators\datatype\datatypevalidator.hpp
+	<xercesc/util/PlatformUtils.hpp>
+	<xercesc/util/RefHashTableOf.hpp>
+	<xercesc/util/KVStringPair.hpp>
+	<xercesc/util/XMLUniDefs.hpp>
+	<xercesc/util/regx/RegularExpression.hpp>
+	<xercesc/validators/schema/SchemaSymbols.hpp>
+	<xercesc/internal/XSerializable.hpp>
+	<xercesc/framework/psvi/XSSimpleTypeDefinition.hpp>
+	<xercesc/framework/ValidationContext.hpp>
+
+1466605358 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\include\xercesc\util\kvstringpair.hpp
+	<xercesc/util/XMemory.hpp>
+	<xercesc/util/PlatformUtils.hpp>
+	<xercesc/internal/XSerializable.hpp>
+
+1466605358 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\include\xercesc\util\regx\regularexpression.hpp
+	<xercesc/util/RefArrayVectorOf.hpp>
+	<xercesc/util/XMLString.hpp>
+	<xercesc/util/Janitor.hpp>
+	<xercesc/util/regx/Op.hpp>
+	<xercesc/util/regx/TokenFactory.hpp>
+	<xercesc/util/regx/BMPattern.hpp>
+	<xercesc/util/regx/OpFactory.hpp>
+	<xercesc/util/regx/RegxUtil.hpp>
+
+1466605358 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\include\xercesc\util\refarrayvectorof.hpp
+	<xercesc/util/BaseRefVectorOf.hpp>
+	<xercesc/util/RefArrayVectorOf.c>
+
+1466605358 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\include\xercesc\util\refarrayvectorof.c
+	"RefArrayVectorOf.hpp"
+
+1466605358 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\include\xercesc\util\regx\op.hpp
+	<xercesc/util/RefVectorOf.hpp>
+	<xercesc/util/RuntimeException.hpp>
+
+1466605358 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\include\xercesc\util\regx\tokenfactory.hpp
+	<xercesc/util/RefVectorOf.hpp>
+	<xercesc/util/regx/Token.hpp>
+	<xercesc/util/Mutexes.hpp>
+
+1466605358 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\include\xercesc\util\regx\token.hpp
+	<xercesc/util/RuntimeException.hpp>
+	<xercesc/util/PlatformUtils.hpp>
+
+1466605358 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\include\xercesc\util\mutexes.hpp
+	<xercesc/util/XMemory.hpp>
+	<xercesc/util/PlatformUtils.hpp>
+
+1466605358 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\include\xercesc\util\regx\bmpattern.hpp
+	<xercesc/util/XMemory.hpp>
+	<xercesc/util/PlatformUtils.hpp>
+
+1466605358 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\include\xercesc\util\regx\opfactory.hpp
+	<xercesc/util/XMemory.hpp>
+	<xercesc/util/RefVectorOf.hpp>
+
+1466605358 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\include\xercesc\util\regx\regxutil.hpp
+	<xercesc/util/XMLUniDefs.hpp>
+
+1466605356 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\include\xercesc\validators\schema\schemasymbols.hpp
+	<xercesc/util/XercesDefs.hpp>
+
+1466605357 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\include\xercesc\framework\psvi\xssimpletypedefinition.hpp
+	<xercesc/framework/psvi/XSTypeDefinition.hpp>
+
+1466605357 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\include\xercesc\framework\psvi\xstypedefinition.hpp
+	<xercesc/framework/psvi/XSObject.hpp>
+
+1466605357 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\include\xercesc\framework\psvi\xsobject.hpp
+	<xercesc/util/PlatformUtils.hpp>
+	<xercesc/framework/psvi/XSConstants.hpp>
+
+1466605357 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\include\xercesc\framework\psvi\xsconstants.hpp
+	<xercesc/util/RefVectorOf.hpp>
+	<xercesc/util/RefArrayVectorOf.hpp>
+
+1466605357 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\include\xercesc\framework\validationcontext.hpp
+	<xercesc/util/PlatformUtils.hpp>
+	<xercesc/util/RefHashTableOf.hpp>
+	<xercesc/util/NameIdPool.hpp>
+	<xercesc/util/XMemory.hpp>
+
+1466605358 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\include\xercesc\util\nameidpool.hpp
+	<xercesc/util/XMemory.hpp>
+	<xercesc/util/XMLString.hpp>
+	<xercesc/util/PlatformUtils.hpp>
+	<xercesc/util/RefHashTableOf.hpp>
+	<xercesc/util/NameIdPool.c>
+
+1466605358 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\include\xercesc\util\nameidpool.c
+	<xercesc/util/NameIdPool.hpp>
+	<xercesc/util/IllegalArgumentException.hpp>
+	<xercesc/util/NoSuchElementException.hpp>
+	<xercesc/util/RuntimeException.hpp>
+	<new>
+	<assert.h>
+
+1466605357 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\include\xercesc\framework\xmlentityhandler.hpp
+	<xercesc/util/XercesDefs.hpp>
+
+1466605358 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\include\xercesc\util\securitymanager.hpp
+	<xercesc/util/XercesDefs.hpp>
+
+1466605358 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\include\xercesc\util\valuestackof.hpp
+	<xercesc/util/EmptyStackException.hpp>
+	<xercesc/util/ValueVectorOf.hpp>
+	<xercesc/util/ValueStackOf.c>
+
+1466605358 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\include\xercesc\util\emptystackexception.hpp
+	<xercesc/util/XercesDefs.hpp>
+	<xercesc/util/XMLException.hpp>
+
+1466605358 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\include\xercesc\util\valuestackof.c
+	<xercesc/util/ValueStackOf.hpp>
+
+1466605357 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\include\xercesc\validators\dtd\doctypehandler.hpp
+	<xercesc/util/XercesDefs.hpp>
+	<xercesc/framework/XMLNotationDecl.hpp>
+	<xercesc/validators/DTD/DTDAttDef.hpp>
+	<xercesc/validators/DTD/DTDElementDecl.hpp>
+	<xercesc/validators/DTD/DTDEntityDecl.hpp>
+
+1466605357 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\include\xercesc\framework\xmlnotationdecl.hpp
+	<xercesc/util/XMemory.hpp>
+	<xercesc/util/PlatformUtils.hpp>
+	<xercesc/util/XMLString.hpp>
+	<xercesc/internal/XSerializable.hpp>
+
+1466605357 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\include\xercesc\validators\dtd\dtdattdef.hpp
+	<xercesc/framework/XMLAttDef.hpp>
+
+1466605357 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\include\xercesc\validators\dtd\dtdelementdecl.hpp
+	<xercesc/util/RefHashTableOf.hpp>
+	<xercesc/util/QName.hpp>
+	<xercesc/framework/XMLElementDecl.hpp>
+	<xercesc/framework/XMLContentModel.hpp>
+	<xercesc/validators/DTD/DTDAttDef.hpp>
+
+1466605357 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\include\xercesc\framework\xmlelementdecl.hpp
+	<xercesc/framework/XMLAttr.hpp>
+	<xercesc/framework/XMLAttDefList.hpp>
+	<xercesc/util/XMLString.hpp>
+	<xercesc/util/PlatformUtils.hpp>
+	<xercesc/internal/XSerializable.hpp>
+
+1466605357 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\include\xercesc\framework\xmlattdeflist.hpp
+	<xercesc/util/XercesDefs.hpp>
+	<xercesc/util/XMemory.hpp>
+	<xercesc/internal/XSerializable.hpp>
+
+1466605357 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\include\xercesc\framework\xmlcontentmodel.hpp
+	<xercesc/util/XMemory.hpp>
+	<xercesc/util/QName.hpp>
+
+1466605357 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\include\xercesc\validators\dtd\dtdentitydecl.hpp
+	<xercesc/framework/XMLEntityDecl.hpp>
+
+1466605357 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\include\xercesc\framework\xmlentitydecl.hpp
+	<xercesc/util/XMemory.hpp>
+	<xercesc/util/PlatformUtils.hpp>
+	<xercesc/util/XMLString.hpp>
+	<xercesc/internal/XSerializable.hpp>
+
+1466605359 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\include\xercesc\dom\domdocumenttype.hpp
+	<xercesc/util/XercesDefs.hpp>
+	<xercesc/dom/DOMNode.hpp>
+
+1466605357 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\include\xercesc\framework\xmlbuffermgr.hpp
+	<xercesc/framework/XMLBuffer.hpp>
+
+1466605357 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\include\xercesc\framework\psvi\psvihandler.hpp
+
+1466605359 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\include\xercesc\parsers\xercesdomparser.hpp
+	<xercesc/parsers/AbstractDOMParser.hpp>
+	<xercesc/validators/common/Grammar.hpp>
+
+1466605357 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\include\xercesc\validators\common\grammar.hpp
+	<limits.h>
+	<xercesc/framework/XMLElementDecl.hpp>
+	<xercesc/framework/XMLEntityDecl.hpp>
+	<xercesc/framework/XMLNotationDecl.hpp>
+	<xercesc/internal/XSerializable.hpp>
+
+1466605359 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\include\xercesc\dom\domimplementation.hpp
+	<xercesc/dom/DOMImplementationLS.hpp>
+	<xercesc/dom/DOMException.hpp>
+	<xercesc/dom/DOMLSException.hpp>
+	<xercesc/dom/DOMRangeException.hpp>
+	<xercesc/util/PlatformUtils.hpp>
+
+1466605359 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\include\xercesc\dom\domimplementationls.hpp
+	<xercesc/util/PlatformUtils.hpp>
+
+1466605359 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\include\xercesc\dom\domexception.hpp
+	<xercesc/util/XercesDefs.hpp>
+	<xercesc/util/PlatformUtils.hpp>
+
+1466605359 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\include\xercesc\dom\domlsexception.hpp
+	<xercesc/dom/DOMException.hpp>
+
+1466605359 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\include\xercesc\dom\domrangeexception.hpp
+	<xercesc/dom/DOMException.hpp>
+
+1466605359 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\include\xercesc\dom\domimplementationregistry.hpp
+	<xercesc/util/XercesDefs.hpp>
+
+1466605359 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\include\xercesc\dom\domnamednodemap.hpp
+	<xercesc/util/XercesDefs.hpp>
+
+1466605359 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\include\xercesc\dom\domnodelist.hpp
+	<xercesc/util/XercesDefs.hpp>
+
+1466605359 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\include\xercesc\dom\domlocator.hpp
+	<xercesc/util/XercesDefs.hpp>
+
+1466605357 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\include\xercesc\framework\membufinputsource.hpp
+	<xercesc/sax/InputSource.hpp>
+
+1466605357 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\include\xercesc\sax\inputsource.hpp
+	<xercesc/util/PlatformUtils.hpp>
+
+1466605357 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\include\xercesc\sax\handlerbase.hpp
+	<xercesc/sax/DocumentHandler.hpp>
+	<xercesc/sax/DTDHandler.hpp>
+	<xercesc/sax/EntityResolver.hpp>
+	<xercesc/sax/ErrorHandler.hpp>
+	<xercesc/sax/SAXParseException.hpp>
+
+1466605357 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\include\xercesc\sax\documenthandler.hpp
+	<xercesc/util/XercesDefs.hpp>
+
+1466605357 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\include\xercesc\sax\dtdhandler.hpp
+	<xercesc/util/XercesDefs.hpp>
+
+1466605357 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\include\xercesc\sax\entityresolver.hpp
+	<xercesc/util/XercesDefs.hpp>
+
+1466605357 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\include\xercesc\sax\errorhandler.hpp
+	<xercesc/util/XercesDefs.hpp>
+
+1466605357 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\include\xercesc\sax\saxparseexception.hpp
+	<xercesc/sax/SAXException.hpp>
+
+1466605357 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\include\xercesc\sax\saxexception.hpp
+	<xercesc/util/XMLString.hpp>
+	<xercesc/util/XMLUni.hpp>
+	<xercesc/util/XMemory.hpp>
+
+1489767151 source:c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.libraries.bos\xml\bosxmlnode.cpp
+	"CommonDefines.h"
+	"bOS.h"
+	"bOSStringBuffer.h"
+	"bOSStringUtils.h"
+	"bOSXMLNode.h"
+
+1489766783 source:c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.libraries.bos\xml\data\bosxmlobject.cpp
+	"CommonDefines.h"
+	"bOS.h"
+	"bOSCollection.h"
+	"bOSXMLHelper.h"
+	"bOSXMLException.h"
+	"bOSXMLObject.h"
+
+1489766783 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.libraries.bos\xml\data\bosxmlobject.h
+	"bOS.h"
+	"bOSFile.h"
+	"bOSXMLNode.h"
+
+1489765914 source:c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.libraries.bos\xml\data\bosxmlobjectset.cpp
+	"CommonDefines.h"
+	"bOS.h"
+	"bOSXMLNode.h"
+	"bOSXMLException.h"
+	"bOSXMLHelper.h"
+	"bOSXMLObjectSet.h"
+
+1405259243 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.libraries.bos\xml\data\bosxmlobjectset.h
+	"bOS.h"
+	"bOSFile.h"
+	"bOSXMLObject.h"
+	"bOSCollection.h"
+
+1489766783 source:c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.libraries.bos\xml\data\filesystem\bosxmldirectory.cpp
+	"CommonDefines.h"
+	"bOS.h"
+	"bOSStringBuffer.h"
+	"bOSStringUtils.h"
+	"bOSFileSystem.h"
+	"bOSFilesystemException.h"
+	"bOSXMLHelper.h"
+	"bOSXMLNode.h"
+	"bOSXMLFile.h"
+	"bOSXMLDirectory.h"
+
+1489766783 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.libraries.bos\xml\data\filesystem\bosxmlfile.h
+	"bOSXMLObject.h"
+
+1489766783 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.libraries.bos\xml\data\filesystem\bosxmldirectory.h
+	"bOS.h"
+	"bOSMutex.h"
+	"bOSXMLFile.h"
+	"bOSFileSystem.h"
+
+1489765901 source:c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.libraries.bos\xml\data\filesystem\bosxmlfile.cpp
+	"CommonDefines.h"
+	"bOS.h"
+	"bOSStringUtils.h"
+	"bOSStringBuffer.h"
+	"bOSXMLHelper.h"
+	"bOSXMLNode.h"
+	"bOSXMLException.h"
+	"bOSXMLFile.h"
+
+1489766783 source:c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.libraries.bos\xml\xslt\bosxsltmanager.cpp
+	<xalanc/Include/PlatformDefinitions.hpp>
+	<xercesc/util/PlatformUtils.hpp>
+	<xalanc/XalanTransformer/XalanTransformer.hpp>
+	"bOS.h"
+	"bOSXMLHelper.h"
+	"bOSXSLTManager.h"
+	"bOSXSLTException.h"
+	"bOSXSLTException.h"
+
+1489766783 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.libraries.bos\xml\xslt\bosxsltmanager.h
+	"bOS.h"
+
+1489766783 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.libraries.bos\xml\xslt\bosxsltexception.h
+	"bOS.h"
+	"bOSException.h"
+
+1486901744 c:\cygwin\usr\include\process.h
+
+1486901744 c:\cygwin\usr\include\assert.h
+	"_ansi.h"
+
+1486901744 c:\cygwin\usr\include\_ansi.h
+	<newlib.h>
+	<sys/config.h>
+
+1486901744 c:\cygwin\usr\include\newlib.h
+	<_newlib_version.h>
+
+1486901744 c:\cygwin\usr\include\_newlib_version.h
+
+1486901744 c:\cygwin\usr\include\sys\config.h
+	<machine/ieeefp.h>
+	<sys/features.h>
+	<cygwin/config.h>
+
+1486901744 c:\cygwin\usr\include\machine\ieeefp.h
+
+1486901744 c:\cygwin\usr\include\sys\features.h
+	<_newlib_version.h>
+
+1486901745 c:\cygwin\usr\include\cygwin\config.h
+	"../tlsoffsets64.h"
+	"../tlsoffsets.h"
+
+1486901744 c:\cygwin\usr\include\time.h
+	"_ansi.h"
+	<sys/cdefs.h>
+	<sys/reent.h>
+	<stddef.h>
+	<machine/time.h>
+	<sys/types.h>
+	<sys/timespec.h>
+	<sys/_locale.h>
+	<sys/features.h>
+	<cygwin/time.h>
+	<signal.h>
+
+1486901744 c:\cygwin\usr\include\sys\cdefs.h
+	<machine/_default_types.h>
+	<sys/features.h>
+	<stddef.h>
+
+1486901744 c:\cygwin\usr\include\machine\_default_types.h
+	<sys/features.h>
+	<limits.h>
+
+1486901744 c:\cygwin\usr\include\limits.h
+	<features.h>
+	<bits/wordsize.h>
+
+1486901744 c:\cygwin\usr\include\features.h
+	<sys/cdefs.h>
+	<sys/features.h>
+
+1486901745 c:\cygwin\usr\include\bits\wordsize.h
+
+1486901744 c:\cygwin\usr\include\sys\reent.h
+	<_ansi.h>
+	<stddef.h>
+	<sys/_types.h>
+	<sys/types.h>
+	<sys/custom_file.h>
+	<assert.h>
+
+1486901744 c:\cygwin\usr\include\sys\_types.h
+	<newlib.h>
+	<sys/config.h>
+	<machine/_types.h>
+	<sys/lock.h>
+	<stddef.h>
+
+1486901745 c:\cygwin\usr\include\machine\_types.h
+	<machine/_default_types.h>
+
+1486901745 c:\cygwin\usr\include\sys\lock.h
+
+1486901744 c:\cygwin\usr\include\sys\types.h
+	<_ansi.h>
+	<sys/cdefs.h>
+	<machine/_types.h>
+	<stddef.h>
+	<sys/_types.h>
+	<sys/_stdint.h>
+	<machine/endian.h>
+	<sys/select.h>
+	<sys/features.h>
+	<sys/_pthreadtypes.h>
+	<machine/types.h>
+
+1486901744 c:\cygwin\usr\include\sys\_stdint.h
+	<machine/_default_types.h>
+
+1486901744 c:\cygwin\usr\include\machine\endian.h
+	<sys/cdefs.h>
+	<sys/_types.h>
+	<machine/_endian.h>
+
+1486901745 c:\cygwin\usr\include\machine\_endian.h
+	<_ansi.h>
+	<bits/endian.h>
+
+1486901745 c:\cygwin\usr\include\bits\endian.h
+
+1486901744 c:\cygwin\usr\include\sys\select.h
+	<sys/cdefs.h>
+	<sys/_sigset.h>
+	<sys/_timeval.h>
+	<sys/timespec.h>
+
+1486901744 c:\cygwin\usr\include\sys\_sigset.h
+
+1486901744 c:\cygwin\usr\include\sys\_timeval.h
+	<sys/_types.h>
+
+1486901744 c:\cygwin\usr\include\sys\timespec.h
+	<sys/cdefs.h>
+	<sys/_timespec.h>
+
+1486901744 c:\cygwin\usr\include\sys\_timespec.h
+	<sys/_types.h>
+
+1486901745 c:\cygwin\usr\include\sys\_pthreadtypes.h
+
+1486901745 c:\cygwin\usr\include\machine\types.h
+	<endian.h>
+	<bits/wordsize.h>
+	<sys/_timespec.h>
+	<sys/sysmacros.h>
+
+1486901744 c:\cygwin\usr\include\endian.h
+	<sys/config.h>
+	<machine/endian.h>
+	<bits/byteswap.h>
+
+1486901745 c:\cygwin\usr\include\bits\byteswap.h
+
+1486901745 c:\cygwin\usr\include\sys\sysmacros.h
+	<sys/types.h>
+
+1486901744 c:\cygwin\usr\include\sys\custom_file.h
+
+1486901744 c:\cygwin\usr\include\machine\time.h
+	<sys/_timespec.h>
+
+1486901744 c:\cygwin\usr\include\sys\_locale.h
+	<newlib.h>
+	<sys/config.h>
+
+1486901745 c:\cygwin\usr\include\cygwin\time.h
+
+1486901744 c:\cygwin\usr\include\signal.h
+	"_ansi.h"
+	<sys/cdefs.h>
+	<sys/signal.h>
+
+1486901744 c:\cygwin\usr\include\sys\signal.h
+	"_ansi.h"
+	<sys/cdefs.h>
+	<sys/features.h>
+	<sys/types.h>
+	<sys/_sigset.h>
+	<sys/_timespec.h>
+	<cygwin/signal.h>
+	<sys/ucontext.h>
+	<signal.h>
+
+1486901745 c:\cygwin\usr\include\cygwin\signal.h
+	<bits/wordsize.h>
+
+1486901745 c:\cygwin\usr\include\sys\ucontext.h
+	<signal.h>
+
+1486901744 c:\cygwin\usr\include\stdio.h
+	"_ansi.h"
+	<sys/cdefs.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdarg.h>
+	<sys/reent.h>
+	<sys/types.h>
+	<sys/stdio.h>
+
+1486901745 c:\cygwin\usr\include\sys\stdio.h
+	<sys/cdefs.h>
+	<sys/lock.h>
+
+1486901744 c:\cygwin\usr\include\errno.h
+	<sys/errno.h>
+
+1486901744 c:\cygwin\usr\include\sys\errno.h
+	<sys/reent.h>
+
+1486901744 c:\cygwin\usr\include\stdlib.h
+	<machine/ieeefp.h>
+	"_ansi.h"
+	<stddef.h>
+	<sys/reent.h>
+	<sys/cdefs.h>
+	<machine/stdlib.h>
+	<alloca.h>
+	<cygwin/stdlib.h>
+	<sys/_locale.h>
+
+1486901745 c:\cygwin\usr\include\machine\stdlib.h
+
+1486901744 c:\cygwin\usr\include\alloca.h
+	"_ansi.h"
+	<sys/reent.h>
+
+1486901745 c:\cygwin\usr\include\cygwin\stdlib.h
+	<sys/cdefs.h>
+	<cygwin/wait.h>
+
+1486901745 c:\cygwin\usr\include\cygwin\wait.h
+
+1486901744 c:\cygwin\usr\include\sys\timeb.h
+	<_ansi.h>
+	<sys/_types.h>
+
+1486901745 c:\cygwin\usr\include\sys\socket.h
+	<features.h>
+	<cygwin/socket.h>
+	<sys/time.h>
+
+1486901745 c:\cygwin\usr\include\cygwin\socket.h
+	<sys/types.h>
+	<asm/socket.h>
+	<cygwin/sockios.h>
+	<sys/uio.h>
+
+1486901744 c:\cygwin\usr\include\asm\socket.h
+	<cygwin/if.h>
+
+1486901745 c:\cygwin\usr\include\cygwin\if.h
+	<sys/types.h>
+	<cygwin/socket.h>
+
+1486901745 c:\cygwin\usr\include\cygwin\sockios.h
+
+1486901745 c:\cygwin\usr\include\sys\uio.h
+	<stddef.h>
+	<sys/types.h>
+	<sys/cdefs.h>
+
+1486901744 c:\cygwin\usr\include\sys\time.h
+	<_ansi.h>
+	<sys/cdefs.h>
+	<sys/_timeval.h>
+	<sys/types.h>
+	<sys/timespec.h>
+	<sys/select.h>
+	<time.h>
+	<machine/_time.h>
+
+1486901744 c:\cygwin\usr\include\machine\_time.h
+
+1486901745 c:\cygwin\usr\include\netinet\in.h
+	<cygwin/in.h>
+
+1486901745 c:\cygwin\usr\include\cygwin\in.h
+	<cygwin/socket.h>
+	<asm/byteorder.h>
+	<cygwin/in6.h>
+
+1486901744 c:\cygwin\usr\include\asm\byteorder.h
+	<stdint.h>
+	<machine/endian.h>
+
+1486901744 c:\cygwin\usr\include\stdint.h
+	<machine/_default_types.h>
+	<sys/_intsup.h>
+	<sys/_stdint.h>
+
+1486901744 c:\cygwin\usr\include\sys\_intsup.h
+	<sys/features.h>
+	<limits.h>
+
+1486901745 c:\cygwin\usr\include\cygwin\in6.h
+
+1486901744 c:\cygwin\usr\include\unistd.h
+	<sys/unistd.h>
+
+1486901744 c:\cygwin\usr\include\sys\unistd.h
+	<_ansi.h>
+	<sys/cdefs.h>
+	<sys/types.h>
+	<sys/_types.h>
+	<stddef.h>
+	<getopt.h>
+	<sys/features.h>
+
+1486901744 c:\cygwin\usr\include\getopt.h
+
+1486901744 c:\cygwin\usr\include\netdb.h
+	<inttypes.h>
+	<sys/socket.h>
+	<netinet/in.h>
+
+1486901744 c:\cygwin\usr\include\inttypes.h
+	<newlib.h>
+	<sys/config.h>
+	<sys/_intsup.h>
+	<stdint.h>
+	<stddef.h>
+
+1486901744 c:\cygwin\usr\include\fcntl.h
+	<sys/fcntl.h>
+
+1486901744 c:\cygwin\usr\include\sys\fcntl.h
+	<sys/_default_fcntl.h>
+
+1486901744 c:\cygwin\usr\include\sys\_default_fcntl.h
+	<_ansi.h>
+	<sys/cdefs.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<sys/time.h>
+
+1486901744 c:\cygwin\usr\include\sys\stat.h
+	<_ansi.h>
+	<time.h>
+	<sys/cdefs.h>
+	<sys/types.h>
+	<sys/_timespec.h>
+	<cygwin/stat.h>
+
+1486901745 c:\cygwin\usr\include\cygwin\stat.h
+
+1486901745 c:\cygwin\usr\include\sys\ioctl.h
+	<sys/cdefs.h>
+	<sys/termios.h>
+
+1486901745 c:\cygwin\usr\include\sys\termios.h
+	<sys/types.h>
+
+1486901744 c:\cygwin\usr\include\arpa\inet.h
+	<netinet/in.h>
+
+1486901744 c:\cygwin\usr\include\wchar.h
+	<_ansi.h>
+	<sys/reent.h>
+	<stddef.h>
+	<sys/_types.h>
+	<sys/cdefs.h>
+	<sys/features.h>
+	<stdarg.h>
+	<stdarg.h>
+	<wctype.h>
+	<sys/_locale.h>
+
+1486901744 c:\cygwin\usr\include\wctype.h
+	<_ansi.h>
+	<sys/_types.h>
+	<stddef.h>
+	<sys/_locale.h>
+
+1486901744 c:\cygwin\usr\include\string.h
+	"_ansi.h"
+	<sys/reent.h>
+	<sys/cdefs.h>
+	<sys/features.h>
+	<stddef.h>
+	<sys/_locale.h>
+	<string.h>
+	<sys/string.h>
+
+1486901744 c:\cygwin\usr\include\sys\string.h
+
+1478258120 c:\cygwin\usr\include\mysql\mysql.h
+	<standards.h>
+	<sys/types.h>
+	"mysql_version.h"
+	"mysql_com.h"
+	"mysql_time.h"
+	"my_list.h"
+	"typelib.h"
+	"my_alloc.h"
+
+1478769434 c:\cygwin\usr\include\mysql\mysql_version.h
+	<custom_conf.h>
+
+1478258120 c:\cygwin\usr\include\mysql\mysql_com.h
+
+1478258120 c:\cygwin\usr\include\mysql\mysql_time.h
+
+1478258120 c:\cygwin\usr\include\mysql\my_list.h
+
+1478258120 c:\cygwin\usr\include\mysql\typelib.h
+	"my_alloc.h"
+
+1478258120 c:\cygwin\usr\include\mysql\my_alloc.h
+
+1467780487 c:\cygwin\usr\include\xercesc\util\platformutils.hpp
+	<xercesc/util/XercesDefs.hpp>
+	<xercesc/util/XMLException.hpp>
+	<xercesc/util/PanicHandler.hpp>
+	<xercesc/util/XMLFileMgr.hpp>
+	<xercesc/util/XMLMutexMgr.hpp>
+
+1467780487 c:\cygwin\usr\include\xercesc\util\xercesdefs.hpp
+	<xercesc/util/Xerces_autoconf_config.hpp>
+	<xercesc/util/XercesVersion.hpp>
+
+1467780486 c:\cygwin\usr\include\xercesc\util\xerces_autoconf_config.hpp
+	<inttypes.h>
+	<sys/types.h>
+	<wchar.h>
+
+1467780487 c:\cygwin\usr\include\xercesc\util\xercesversion.hpp
+
+1467780491 c:\cygwin\usr\include\xercesc\util\xmlexception.hpp
+	<xercesc/util/XercesDefs.hpp>
+	<xercesc/util/XMemory.hpp>
+	<xercesc/util/XMLExceptMsgs.hpp>
+	<xercesc/util/XMLUni.hpp>
+	<xercesc/framework/XMLErrorReporter.hpp>
+
+1467780487 c:\cygwin\usr\include\xercesc\util\xmemory.hpp
+	<xercesc/util/XercesDefs.hpp>
+	<stdlib.h>
+
+1467780491 c:\cygwin\usr\include\xercesc\util\xmlexceptmsgs.hpp
+	<xercesc/util/XercesDefs.hpp>
+	<xercesc/dom/DOMError.hpp>
+
+1467780487 c:\cygwin\usr\include\xercesc\dom\domerror.hpp
+	<xercesc/util/XercesDefs.hpp>
+
+1467780491 c:\cygwin\usr\include\xercesc\util\xmluni.hpp
+	<xercesc/util/XercesDefs.hpp>
+
+1467780488 c:\cygwin\usr\include\xercesc\framework\xmlerrorreporter.hpp
+	<xercesc/util/XercesDefs.hpp>
+
+1467780487 c:\cygwin\usr\include\xercesc\util\panichandler.hpp
+	<xercesc/util/XMemory.hpp>
+
+1467780491 c:\cygwin\usr\include\xercesc\util\xmlfilemgr.hpp
+	<xercesc/util/XercesDefs.hpp>
+	<xercesc/util/XMemory.hpp>
+
+1467780491 c:\cygwin\usr\include\xercesc\util\xmlmutexmgr.hpp
+	<xercesc/util/XMemory.hpp>
+
+1467780489 c:\cygwin\usr\include\xercesc\parsers\abstractdomparser.hpp
+	<xercesc/dom/DOMDocument.hpp>
+	<xercesc/framework/XMLDocumentHandler.hpp>
+	<xercesc/framework/XMLErrorReporter.hpp>
+	<xercesc/framework/XMLEntityHandler.hpp>
+	<xercesc/util/SecurityManager.hpp>
+	<xercesc/util/ValueStackOf.hpp>
+	<xercesc/validators/DTD/DocTypeHandler.hpp>
+	<xercesc/dom/DOMDocumentType.hpp>
+	<xercesc/validators/DTD/DTDElementDecl.hpp>
+	<xercesc/framework/XMLBufferMgr.hpp>
+	<xercesc/framework/psvi/PSVIHandler.hpp>
+
+1467780487 c:\cygwin\usr\include\xercesc\dom\domdocument.hpp
+	<xercesc/util/XercesDefs.hpp>
+	<xercesc/dom/DOMNode.hpp>
+	<xercesc/dom/DOMDocumentRange.hpp>
+	<xercesc/dom/DOMDocumentTraversal.hpp>
+	<xercesc/dom/DOMXPathEvaluator.hpp>
+
+1467780487 c:\cygwin\usr\include\xercesc\dom\domnode.hpp
+	<xercesc/util/XercesDefs.hpp>
+
+1467780487 c:\cygwin\usr\include\xercesc\dom\domdocumentrange.hpp
+	<xercesc/util/XercesDefs.hpp>
+
+1467780487 c:\cygwin\usr\include\xercesc\dom\domdocumenttraversal.hpp
+	<xercesc/util/XercesDefs.hpp>
+	<xercesc/dom/DOMNodeFilter.hpp>
+
+1467780487 c:\cygwin\usr\include\xercesc\dom\domnodefilter.hpp
+	<xercesc/dom/DOMNode.hpp>
+
+1467780490 c:\cygwin\usr\include\xercesc\dom\domxpathevaluator.hpp
+	<xercesc/util/XercesDefs.hpp>
+	<xercesc/dom/DOMXPathResult.hpp>
+
+1467780490 c:\cygwin\usr\include\xercesc\dom\domxpathresult.hpp
+	<xercesc/util/XercesDefs.hpp>
+
+1467780488 c:\cygwin\usr\include\xercesc\framework\xmldocumenthandler.hpp
+	<xercesc/util/XercesDefs.hpp>
+	<xercesc/util/RefVectorOf.hpp>
+	<xercesc/framework/XMLAttr.hpp>
+
+1467780487 c:\cygwin\usr\include\xercesc\util\refvectorof.hpp
+	<xercesc/util/BaseRefVectorOf.hpp>
+	<xercesc/util/RefVectorOf.c>
+
+1467780486 c:\cygwin\usr\include\xercesc\util\baserefvectorof.hpp
+	<xercesc/util/ArrayIndexOutOfBoundsException.hpp>
+	<xercesc/util/XMLEnumerator.hpp>
+	<xercesc/util/PlatformUtils.hpp>
+	<xercesc/framework/MemoryManager.hpp>
+	<xercesc/util/BaseRefVectorOf.c>
+
+1467780486 c:\cygwin\usr\include\xercesc\util\arrayindexoutofboundsexception.hpp
+	<xercesc/util/XMLException.hpp>
+
+1467780491 c:\cygwin\usr\include\xercesc\util\xmlenumerator.hpp
+	<xercesc/util/XercesDefs.hpp>
+
+1467780488 c:\cygwin\usr\include\xercesc\framework\memorymanager.hpp
+	<xercesc/util/XercesDefs.hpp>
+	<stdlib.h>
+
+1467780486 c:\cygwin\usr\include\xercesc\util\baserefvectorof.c
+	<xercesc/util/BaseRefVectorOf.hpp>
+
+1467780487 c:\cygwin\usr\include\xercesc\util\refvectorof.c
+	<xercesc/util/RefVectorOf.hpp>
+
+1467780488 c:\cygwin\usr\include\xercesc\framework\xmlattr.hpp
+	<xercesc/util/PlatformUtils.hpp>
+	<xercesc/util/QName.hpp>
+	<xercesc/framework/XMLAttDef.hpp>
+	<xercesc/validators/datatype/DatatypeValidator.hpp>
+
+1467780487 c:\cygwin\usr\include\xercesc\util\qname.hpp
+	<xercesc/util/XMLString.hpp>
+	<xercesc/util/XMLUniDefs.hpp>
+	<xercesc/util/XMemory.hpp>
+	<xercesc/util/PlatformUtils.hpp>
+	<xercesc/internal/XSerializable.hpp>
+
+1467780491 c:\cygwin\usr\include\xercesc\util\xmlstring.hpp
+	<xercesc/util/BaseRefVectorOf.hpp>
+	<xercesc/framework/XMLBuffer.hpp>
+	<xercesc/framework/MemoryManager.hpp>
+	<string.h>
+	<assert.h>
+
+1467780488 c:\cygwin\usr\include\xercesc\framework\xmlbuffer.hpp
+	<xercesc/util/XMemory.hpp>
+	<xercesc/util/PlatformUtils.hpp>
+	<xercesc/framework/MemoryManager.hpp>
+	<string.h>
+
+1467780491 c:\cygwin\usr\include\xercesc\util\xmlunidefs.hpp
+	<xercesc/util/XercesDefs.hpp>
+
+1467780490 c:\cygwin\usr\include\xercesc\internal\xserializable.hpp
+	<xercesc/internal/XSerializeEngine.hpp>
+	<xercesc/internal/XProtoType.hpp>
+
+1467780490 c:\cygwin\usr\include\xercesc\internal\xserializeengine.hpp
+	<xercesc/util/RefHashTableOf.hpp>
+	<xercesc/util/ValueVectorOf.hpp>
+	<xercesc/util/XMLExceptMsgs.hpp>
+	<xercesc/internal/XSerializationException.hpp>
+
+1467780487 c:\cygwin\usr\include\xercesc\util\refhashtableof.hpp
+	<xercesc/util/Hashers.hpp>
+	<xercesc/util/IllegalArgumentException.hpp>
+	<xercesc/util/NoSuchElementException.hpp>
+	<xercesc/util/RuntimeException.hpp>
+	<xercesc/util/PlatformUtils.hpp>
+	<xercesc/framework/MemoryManager.hpp>
+	<xercesc/util/RefHashTableOf.c>
+
+1467780486 c:\cygwin\usr\include\xercesc\util\hashers.hpp
+	<xercesc/util/XMLString.hpp>
+
+1467780486 c:\cygwin\usr\include\xercesc\util\illegalargumentexception.hpp
+	<xercesc/util/XercesDefs.hpp>
+	<xercesc/util/XMLException.hpp>
+
+1467780487 c:\cygwin\usr\include\xercesc\util\nosuchelementexception.hpp
+	<xercesc/util/XercesDefs.hpp>
+	<xercesc/util/XMLException.hpp>
+
+1467780487 c:\cygwin\usr\include\xercesc\util\runtimeexception.hpp
+	<xercesc/util/XercesDefs.hpp>
+	<xercesc/util/XMLException.hpp>
+
+1467780487 c:\cygwin\usr\include\xercesc\util\refhashtableof.c
+	<xercesc/util/RefHashTableOf.hpp>
+	<xercesc/util/Janitor.hpp>
+	<xercesc/util/XMLString.hpp>
+	<xercesc/util/NullPointerException.hpp>
+	<new>
+
+1467780486 c:\cygwin\usr\include\xercesc\util\janitor.hpp
+	<xercesc/util/XMemory.hpp>
+	<xercesc/framework/MemoryManager.hpp>
+	<xercesc/util/Janitor.c>
+
+1467780486 c:\cygwin\usr\include\xercesc\util\janitor.c
+	<xercesc/util/Janitor.hpp>
+
+1467780487 c:\cygwin\usr\include\xercesc\util\nullpointerexception.hpp
+	<xercesc/util/XercesDefs.hpp>
+	<xercesc/util/XMLException.hpp>
+
+1467780487 c:\cygwin\usr\include\xercesc\util\valuevectorof.hpp
+	<xercesc/util/ArrayIndexOutOfBoundsException.hpp>
+	<xercesc/util/XMLEnumerator.hpp>
+	<xercesc/util/PlatformUtils.hpp>
+	<xercesc/framework/MemoryManager.hpp>
+	<xercesc/util/ValueVectorOf.c>
+
+1467780487 c:\cygwin\usr\include\xercesc\util\valuevectorof.c
+	<xercesc/util/ValueVectorOf.hpp>
+	<string.h>
+
+1467780490 c:\cygwin\usr\include\xercesc\internal\xserializationexception.hpp
+	<xercesc/util/XercesDefs.hpp>
+	<xercesc/util/XMLException.hpp>
+
+1467780490 c:\cygwin\usr\include\xercesc\internal\xprototype.hpp
+	<xercesc/util/PlatformUtils.hpp>
+
+1467780488 c:\cygwin\usr\include\xercesc\framework\xmlattdef.hpp
+	<xercesc/util/PlatformUtils.hpp>
+	<xercesc/util/XMLString.hpp>
+	<xercesc/util/XMemory.hpp>
+	<xercesc/internal/XSerializable.hpp>
+
+1467780489 c:\cygwin\usr\include\xercesc\validators\datatype\datatypevalidator.hpp
+	<xercesc/util/PlatformUtils.hpp>
+	<xercesc/util/RefHashTableOf.hpp>
+	<xercesc/util/KVStringPair.hpp>
+	<xercesc/util/XMLUniDefs.hpp>
+	<xercesc/util/regx/RegularExpression.hpp>
+	<xercesc/validators/schema/SchemaSymbols.hpp>
+	<xercesc/internal/XSerializable.hpp>
+	<xercesc/framework/psvi/XSSimpleTypeDefinition.hpp>
+	<xercesc/framework/ValidationContext.hpp>
+
+1467780487 c:\cygwin\usr\include\xercesc\util\kvstringpair.hpp
+	<xercesc/util/XMemory.hpp>
+	<xercesc/util/PlatformUtils.hpp>
+	<xercesc/internal/XSerializable.hpp>
+
+1467780491 c:\cygwin\usr\include\xercesc\util\regx\regularexpression.hpp
+	<xercesc/util/RefArrayVectorOf.hpp>
+	<xercesc/util/XMLString.hpp>
+	<xercesc/util/Janitor.hpp>
+	<xercesc/util/regx/Op.hpp>
+	<xercesc/util/regx/TokenFactory.hpp>
+	<xercesc/util/regx/BMPattern.hpp>
+	<xercesc/util/regx/OpFactory.hpp>
+	<xercesc/util/regx/RegxUtil.hpp>
+
+1467780487 c:\cygwin\usr\include\xercesc\util\refarrayvectorof.hpp
+	<xercesc/util/BaseRefVectorOf.hpp>
+	<xercesc/util/RefArrayVectorOf.c>
+
+1467780487 c:\cygwin\usr\include\xercesc\util\refarrayvectorof.c
+	"RefArrayVectorOf.hpp"
+
+1467780491 c:\cygwin\usr\include\xercesc\util\regx\op.hpp
+	<xercesc/util/RefVectorOf.hpp>
+	<xercesc/util/RuntimeException.hpp>
+
+1467780491 c:\cygwin\usr\include\xercesc\util\regx\tokenfactory.hpp
+	<xercesc/util/RefVectorOf.hpp>
+	<xercesc/util/regx/Token.hpp>
+	<xercesc/util/Mutexes.hpp>
+
+1467780491 c:\cygwin\usr\include\xercesc\util\regx\token.hpp
+	<xercesc/util/RuntimeException.hpp>
+	<xercesc/util/PlatformUtils.hpp>
+
+1467780487 c:\cygwin\usr\include\xercesc\util\mutexes.hpp
+	<xercesc/util/XMemory.hpp>
+	<xercesc/util/PlatformUtils.hpp>
+
+1467780491 c:\cygwin\usr\include\xercesc\util\regx\bmpattern.hpp
+	<xercesc/util/XMemory.hpp>
+	<xercesc/util/PlatformUtils.hpp>
+
+1467780491 c:\cygwin\usr\include\xercesc\util\regx\opfactory.hpp
+	<xercesc/util/XMemory.hpp>
+	<xercesc/util/RefVectorOf.hpp>
+
+1467780491 c:\cygwin\usr\include\xercesc\util\regx\regxutil.hpp
+	<xercesc/util/XMLUniDefs.hpp>
+
+1467780491 c:\cygwin\usr\include\xercesc\validators\schema\schemasymbols.hpp
+	<xercesc/util/XercesDefs.hpp>
+
+1467780490 c:\cygwin\usr\include\xercesc\framework\psvi\xssimpletypedefinition.hpp
+	<xercesc/framework/psvi/XSTypeDefinition.hpp>
+
+1467780490 c:\cygwin\usr\include\xercesc\framework\psvi\xstypedefinition.hpp
+	<xercesc/framework/psvi/XSObject.hpp>
+
+1467780490 c:\cygwin\usr\include\xercesc\framework\psvi\xsobject.hpp
+	<xercesc/util/PlatformUtils.hpp>
+	<xercesc/framework/psvi/XSConstants.hpp>
+
+1467780490 c:\cygwin\usr\include\xercesc\framework\psvi\xsconstants.hpp
+	<xercesc/util/RefVectorOf.hpp>
+	<xercesc/util/RefArrayVectorOf.hpp>
+
+1467780488 c:\cygwin\usr\include\xercesc\framework\validationcontext.hpp
+	<xercesc/util/PlatformUtils.hpp>
+	<xercesc/util/RefHashTableOf.hpp>
+	<xercesc/util/NameIdPool.hpp>
+	<xercesc/util/XMemory.hpp>
+
+1467780487 c:\cygwin\usr\include\xercesc\util\nameidpool.hpp
+	<xercesc/util/XMemory.hpp>
+	<xercesc/util/XMLString.hpp>
+	<xercesc/util/PlatformUtils.hpp>
+	<xercesc/util/RefHashTableOf.hpp>
+	<xercesc/util/NameIdPool.c>
+
+1467780487 c:\cygwin\usr\include\xercesc\util\nameidpool.c
+	<xercesc/util/NameIdPool.hpp>
+	<xercesc/util/IllegalArgumentException.hpp>
+	<xercesc/util/NoSuchElementException.hpp>
+	<xercesc/util/RuntimeException.hpp>
+	<new>
+	<assert.h>
+
+1467780488 c:\cygwin\usr\include\xercesc\framework\xmlentityhandler.hpp
+	<xercesc/util/XercesDefs.hpp>
+
+1467780487 c:\cygwin\usr\include\xercesc\util\securitymanager.hpp
+	<xercesc/util/XercesDefs.hpp>
+
+1467780487 c:\cygwin\usr\include\xercesc\util\valuestackof.hpp
+	<xercesc/util/EmptyStackException.hpp>
+	<xercesc/util/ValueVectorOf.hpp>
+	<xercesc/util/ValueStackOf.c>
+
+1467780486 c:\cygwin\usr\include\xercesc\util\emptystackexception.hpp
+	<xercesc/util/XercesDefs.hpp>
+	<xercesc/util/XMLException.hpp>
+
+1467780487 c:\cygwin\usr\include\xercesc\util\valuestackof.c
+	<xercesc/util/ValueStackOf.hpp>
+
+1467780489 c:\cygwin\usr\include\xercesc\validators\dtd\doctypehandler.hpp
+	<xercesc/util/XercesDefs.hpp>
+	<xercesc/framework/XMLNotationDecl.hpp>
+	<xercesc/validators/DTD/DTDAttDef.hpp>
+	<xercesc/validators/DTD/DTDElementDecl.hpp>
+	<xercesc/validators/DTD/DTDEntityDecl.hpp>
+
+1467780488 c:\cygwin\usr\include\xercesc\framework\xmlnotationdecl.hpp
+	<xercesc/util/XMemory.hpp>
+	<xercesc/util/PlatformUtils.hpp>
+	<xercesc/util/XMLString.hpp>
+	<xercesc/internal/XSerializable.hpp>
+
+1467780489 c:\cygwin\usr\include\xercesc\validators\dtd\dtdattdef.hpp
+	<xercesc/framework/XMLAttDef.hpp>
+
+1467780489 c:\cygwin\usr\include\xercesc\validators\dtd\dtdelementdecl.hpp
+	<xercesc/util/RefHashTableOf.hpp>
+	<xercesc/util/QName.hpp>
+	<xercesc/framework/XMLElementDecl.hpp>
+	<xercesc/framework/XMLContentModel.hpp>
+	<xercesc/validators/DTD/DTDAttDef.hpp>
+
+1467780488 c:\cygwin\usr\include\xercesc\framework\xmlelementdecl.hpp
+	<xercesc/framework/XMLAttr.hpp>
+	<xercesc/framework/XMLAttDefList.hpp>
+	<xercesc/util/XMLString.hpp>
+	<xercesc/util/PlatformUtils.hpp>
+	<xercesc/internal/XSerializable.hpp>
+
+1467780488 c:\cygwin\usr\include\xercesc\framework\xmlattdeflist.hpp
+	<xercesc/util/XercesDefs.hpp>
+	<xercesc/util/XMemory.hpp>
+	<xercesc/internal/XSerializable.hpp>
+
+1467780488 c:\cygwin\usr\include\xercesc\framework\xmlcontentmodel.hpp
+	<xercesc/util/XMemory.hpp>
+	<xercesc/util/QName.hpp>
+
+1467780489 c:\cygwin\usr\include\xercesc\validators\dtd\dtdentitydecl.hpp
+	<xercesc/framework/XMLEntityDecl.hpp>
+
+1467780488 c:\cygwin\usr\include\xercesc\framework\xmlentitydecl.hpp
+	<xercesc/util/XMemory.hpp>
+	<xercesc/util/PlatformUtils.hpp>
+	<xercesc/util/XMLString.hpp>
+	<xercesc/internal/XSerializable.hpp>
+
+1467780487 c:\cygwin\usr\include\xercesc\dom\domdocumenttype.hpp
+	<xercesc/util/XercesDefs.hpp>
+	<xercesc/dom/DOMNode.hpp>
+
+1467780488 c:\cygwin\usr\include\xercesc\framework\xmlbuffermgr.hpp
+	<xercesc/framework/XMLBuffer.hpp>
+
+1467780490 c:\cygwin\usr\include\xercesc\framework\psvi\psvihandler.hpp
+
+1467780489 c:\cygwin\usr\include\xercesc\parsers\xercesdomparser.hpp
+	<xercesc/parsers/AbstractDOMParser.hpp>
+	<xercesc/validators/common/Grammar.hpp>
+
+1467780489 c:\cygwin\usr\include\xercesc\validators\common\grammar.hpp
+	<limits.h>
+	<xercesc/framework/XMLElementDecl.hpp>
+	<xercesc/framework/XMLEntityDecl.hpp>
+	<xercesc/framework/XMLNotationDecl.hpp>
+	<xercesc/internal/XSerializable.hpp>
+
+1467780487 c:\cygwin\usr\include\xercesc\dom\domimplementation.hpp
+	<xercesc/dom/DOMImplementationLS.hpp>
+	<xercesc/dom/DOMException.hpp>
+	<xercesc/dom/DOMLSException.hpp>
+	<xercesc/dom/DOMRangeException.hpp>
+	<xercesc/util/PlatformUtils.hpp>
+
+1467780487 c:\cygwin\usr\include\xercesc\dom\domimplementationls.hpp
+	<xercesc/util/PlatformUtils.hpp>
+
+1467780487 c:\cygwin\usr\include\xercesc\dom\domexception.hpp
+	<xercesc/util/XercesDefs.hpp>
+	<xercesc/util/PlatformUtils.hpp>
+
+1467780487 c:\cygwin\usr\include\xercesc\dom\domlsexception.hpp
+	<xercesc/dom/DOMException.hpp>
+
+1467780490 c:\cygwin\usr\include\xercesc\dom\domrangeexception.hpp
+	<xercesc/dom/DOMException.hpp>
+
+1467780487 c:\cygwin\usr\include\xercesc\dom\domimplementationregistry.hpp
+	<xercesc/util/XercesDefs.hpp>
+
+1467780487 c:\cygwin\usr\include\xercesc\dom\domnamednodemap.hpp
+	<xercesc/util/XercesDefs.hpp>
+
+1467780487 c:\cygwin\usr\include\xercesc\dom\domnodelist.hpp
+	<xercesc/util/XercesDefs.hpp>
+
+1467780487 c:\cygwin\usr\include\xercesc\dom\domlocator.hpp
+	<xercesc/util/XercesDefs.hpp>
+
+1467780488 c:\cygwin\usr\include\xercesc\framework\membufinputsource.hpp
+	<xercesc/sax/InputSource.hpp>
+
+1467780488 c:\cygwin\usr\include\xercesc\sax\inputsource.hpp
+	<xercesc/util/PlatformUtils.hpp>
+
+1467780488 c:\cygwin\usr\include\xercesc\sax\handlerbase.hpp
+	<xercesc/sax/DocumentHandler.hpp>
+	<xercesc/sax/DTDHandler.hpp>
+	<xercesc/sax/EntityResolver.hpp>
+	<xercesc/sax/ErrorHandler.hpp>
+	<xercesc/sax/SAXParseException.hpp>
+
+1467780488 c:\cygwin\usr\include\xercesc\sax\documenthandler.hpp
+	<xercesc/util/XercesDefs.hpp>
+
+1467780488 c:\cygwin\usr\include\xercesc\sax\dtdhandler.hpp
+	<xercesc/util/XercesDefs.hpp>
+
+1467780488 c:\cygwin\usr\include\xercesc\sax\entityresolver.hpp
+	<xercesc/util/XercesDefs.hpp>
+
+1467780488 c:\cygwin\usr\include\xercesc\sax\errorhandler.hpp
+	<xercesc/util/XercesDefs.hpp>
+
+1467780488 c:\cygwin\usr\include\xercesc\sax\saxparseexception.hpp
+	<xercesc/sax/SAXException.hpp>
+
+1467780488 c:\cygwin\usr\include\xercesc\sax\saxexception.hpp
+	<xercesc/util/XMLString.hpp>
+	<xercesc/util/XMLUni.hpp>
+	<xercesc/util/XMemory.hpp>
+
+1489745327 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.libraries.bos\bosux.h
+	<unistd.h>
+	<stdio.h>
+	<stdlib.h>
+	<pthread.h>
+	<fcntl.h>
+	<sys/stat.h>
+	<semaphore.h>
+	<dlfcn.h>
+	<string>
+	<vector>
+	<queue>
+	<stack>
+	<list>
+	<map>
+	<fstream>
+	<iostream>
+	<strstream>
+	<assert.h>
+	<time.h>
+	<errno.h>
+	<sys/timeb.h>
+	<algorithm>
+	<typeinfo>
+	<sys/wait.h>
+	<sys/time.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<netdb.h>
+	<fcntl.h>
+	<sys/ioctl.h>
+	<arpa/inet.h>
+	<cstring>
+	<cstdarg>
+	<streambuf>
+	<ostream>
+	<stdexcept>
+	<sstream>
+
+1486901744 c:\cygwin\usr\include\semaphore.h
+	<sys/types.h>
+
+1489766666 c:\users\emaurfa\dropbox\mysoftware\criteria-lin\src\criteria.libraries.bos\exception\bosinterruptedexception.h
+	"bOS.h"
+	"bOSException.h"
+
+1486901744 c:\cygwin\usr\include\pthread.h
+	<sys/types.h>
+	<signal.h>
+	<sched.h>
+	<time.h>
+
+1486901744 c:\cygwin\usr\include\sched.h
+	<sys/types.h>
+	<sys/sched.h>
+
+1486901744 c:\cygwin\usr\include\sys\sched.h
+	<sys/_timespec.h>
+
+1486901744 c:\cygwin\usr\include\dlfcn.h
+
+1486901745 c:\cygwin\usr\include\sys\wait.h
+	<sys/types.h>
+	<sys/resource.h>
+	<cygwin/wait.h>
+
+1486901745 c:\cygwin\usr\include\sys\resource.h
+	<sys/time.h>
+
+1489006043 c:\mingw\include\process.h
+	<_mingw.h>
+	<sys/types.h>
+	"stdint.h"
+
+1489006043 c:\mingw\include\_mingw.h
+	<msvcrtver.h>
+	<w32api.h>
+
+1489006043 c:\mingw\include\msvcrtver.h
+	<_mingw.h>
+
+1489006054 c:\mingw\include\w32api.h
+	<sdkddkver.h>
+
+1489006054 c:\mingw\include\sdkddkver.h
+
+1489006043 c:\mingw\include\sys\types.h
+	<_mingw.h>
+	<stddef.h>
+
+1489006043 c:\mingw\include\stdint.h
+	<_mingw.h>
+	<stddef.h>
+
+1489006054 c:\mingw\include\windows.h
+	<winresrc.h>
+	<stdarg.h>
+	<windef.h>
+	<wincon.h>
+	<winbase.h>
+	<wingdi.h>
+	<winuser.h>
+	<winnls.h>
+	<winver.h>
+	<winnetwk.h>
+	<winreg.h>
+	<winsvc.h>
+	<cderr.h>
+	<dde.h>
+	<ddeml.h>
+	<dlgs.h>
+	<imm.h>
+	<lzexpand.h>
+	<mmsystem.h>
+	<nb30.h>
+	<rpc.h>
+	<shellapi.h>
+	<winperf.h>
+	<commdlg.h>
+	<winspool.h>
+	<winsock2.h>
+	<winsock.h>
+	<ole2.h>
+
+1489006054 c:\mingw\include\winresrc.h
+	<winuser.h>
+	<winnt.h>
+	<winver.h>
+	<dde.h>
+	<dlgs.h>
+	<commctrl.h>
+
+1489006054 c:\mingw\include\winuser.h
+	<dbt.h>
+
+1489006054 c:\mingw\include\dbt.h
+	<windef.h>
+
+1489006054 c:\mingw\include\windef.h
+	<w32api.h>
+	<winnt.h>
+
+1489006054 c:\mingw\include\winnt.h
+	<winerror.h>
+	<string.h>
+	<basetsd.h>
+	<pshpack4.h>
+	<poppack.h>
+
+1489006054 c:\mingw\include\winerror.h
+
+1489006043 c:\mingw\include\string.h
+	<_mingw.h>
+	<stddef.h>
+	<strings.h>
+	"strings.h"
+	"wchar.h"
+
+1489006043 c:\mingw\include\strings.h
+	<_mingw.h>
+	<stddef.h>
+
+1489006043 c:\mingw\include\wchar.h
+	<_mingw.h>
+	<wctype.h>
+	<sys/types.h>
+	"stdio.h"
+	"stdlib.h"
+	"direct.h"
+	"sys/stat.h"
+	"io.h"
+	"time.h"
+	"locale.h"
+	"process.h"
+
+1489006043 c:\mingw\include\wctype.h
+	<_mingw.h>
+	<stddef.h>
+
+1489006043 c:\mingw\include\stdio.h
+	<_mingw.h>
+	<stddef.h>
+	"sys/types.h"
+	"stdarg.h"
+	<locale.h>
+
+1489006043 c:\mingw\include\locale.h
+	<_mingw.h>
+	<stddef.h>
+
+1489006043 c:\mingw\include\stdlib.h
+	<_mingw.h>
+	<stddef.h>
+	<locale.h>
+
+1489006043 c:\mingw\include\direct.h
+	"dos.h"
+
+1489006043 c:\mingw\include\dos.h
+	"io.h"
+
+1489006043 c:\mingw\include\io.h
+	<_mingw.h>
+	<sys/types.h>
+	"stdint.h"
+
+1489006043 c:\mingw\include\sys\stat.h
+	<sys/types.h>
+
+1489006043 c:\mingw\include\time.h
+	<sys/types.h>
+	<_mingw.h>
+	<stddef.h>
+
+1489006054 c:\mingw\include\basetsd.h
+
+1489006054 c:\mingw\include\pshpack4.h
+
+1489006054 c:\mingw\include\poppack.h
+
+1489006054 c:\mingw\include\winver.h
+
+1489006054 c:\mingw\include\dde.h
+
+1489006054 c:\mingw\include\dlgs.h
+
+1489006054 c:\mingw\include\commctrl.h
+	<prsht.h>
+
+1489006054 c:\mingw\include\prsht.h
+
+1489006054 c:\mingw\include\wincon.h
+
+1489006054 c:\mingw\include\winbase.h
+
+1489006054 c:\mingw\include\wingdi.h
+
+1489006054 c:\mingw\include\winnls.h
+
+1489006054 c:\mingw\include\winnetwk.h
+
+1489006054 c:\mingw\include\winreg.h
+
+1489006054 c:\mingw\include\winsvc.h
+
+1489006054 c:\mingw\include\cderr.h
+
+1489006054 c:\mingw\include\ddeml.h
+
+1489006054 c:\mingw\include\imm.h
+
+1489006054 c:\mingw\include\lzexpand.h
+
+1489006054 c:\mingw\include\mmsystem.h
+
+1489006054 c:\mingw\include\nb30.h
+
+1489006054 c:\mingw\include\rpc.h
+	<windows.h>
+	<rpcdce.h>
+	<rpcnsi.h>
+	<rpcnterr.h>
+	<winerror.h>
+	<excpt.h>
+
+1489006054 c:\mingw\include\rpcdce.h
+	<basetyps.h>
+	<rpcdcep.h>
+
+1489006054 c:\mingw\include\basetyps.h
+
+1489006054 c:\mingw\include\rpcdcep.h
+
+1489006054 c:\mingw\include\rpcnsi.h
+
+1489006054 c:\mingw\include\rpcnterr.h
+
+1489006043 c:\mingw\include\excpt.h
+	<_mingw.h>
+	<windef.h>
+
+1489006054 c:\mingw\include\shellapi.h
+	<pshpack2.h>
+	<poppack.h>
+
+1489006054 c:\mingw\include\pshpack2.h
+
+1489006054 c:\mingw\include\winperf.h
+
+1489006054 c:\mingw\include\commdlg.h
+	<unknwn.h>
+	<prsht.h>
+
+1489006054 c:\mingw\include\unknwn.h
+	<windows.h>
+	<objfwd.h>
+	<wtypes.h>
+
+1489006054 c:\mingw\include\objfwd.h
+	<basetyps.h>
+
+1489006054 c:\mingw\include\wtypes.h
+	<rpc.h>
+	<rpcndr.h>
+
+1489006054 c:\mingw\include\rpcndr.h
+	<rpcnsip.h>
+	<objfwd.h>
+
+1489006054 c:\mingw\include\rpcnsip.h
+
+1489006054 c:\mingw\include\winspool.h
+
+1489006054 c:\mingw\include\winsock2.h
+	<windows.h>
+
+1489006054 c:\mingw\include\winsock.h
+	<windows.h>
+	<mswsock.h>
+
+1489006054 c:\mingw\include\mswsock.h
+
+1489006054 c:\mingw\include\ole2.h
+	<winerror.h>
+	<objbase.h>
+	<olectlid.h>
+	<oleauto.h>
+	<oleidl.h>
+
+1489006054 c:\mingw\include\objbase.h
+	<rpc.h>
+	<rpcndr.h>
+	<stdlib.h>
+	<basetyps.h>
+	<wtypes.h>
+	<unknwn.h>
+	<objidl.h>
+	<cguid.h>
+
+1489006054 c:\mingw\include\objidl.h
+	<objfwd.h>
+
+1489006054 c:\mingw\include\cguid.h
+
+1489006054 c:\mingw\include\olectlid.h
+
+1489006054 c:\mingw\include\oleauto.h
+	<oaidl.h>
+
+1489006054 c:\mingw\include\oaidl.h
+	<windows.h>
+	<ole2.h>
+
+1489006054 c:\mingw\include\oleidl.h
+	<objfwd.h>
+
+1489006054 c:\mingw\include\shlobj.h
+	<ole2.h>
+	<shlguid.h>
+	<shellapi.h>
+	<commctrl.h>
+
+1489006054 c:\mingw\include\shlguid.h
+
+1489006043 c:\mingw\include\assert.h
+	<_mingw.h>
+
+1489006043 c:\mingw\include\errno.h
+	<_mingw.h>
+	"ptw32_errno.h"
+
+1471772088 c:\mingw\include\ptw32_errno.h
+	<_ptw32.h>
+	<errno.h>
+	<winsock.h>
+
+1471772088 c:\mingw\include\_ptw32.h
+	"ptw32_errno.h"
+
+1489006043 c:\mingw\include\sys\timeb.h
+	<_mingw.h>
+	<sys/types.h>
+
+1489006043 c:\mingw\include\unistd.h
+	<_mingw.h>
+	"io.h"
+	"process.h"
+	"getopt.h"
+
+1489006043 c:\mingw\include\getopt.h
+	<_mingw.h>
+
+1489006043 c:\mingw\include\fcntl.h
+	<_mingw.h>
+	<io.h>
+
+1471772088 c:\mingw\include\pthread.h
+	<_ptw32.h>
+	<time.h>
+	<sched.h>
+	<sys/types.h>
+
+1471772088 c:\mingw\include\sched.h
+	<_ptw32.h>
+	<time.h>
+	<stddef.h>
+	<stdlib.h>
+
+1471772088 c:\mingw\include\semaphore.h
+	<_ptw32.h>
+
+1489006043 c:\mingw\include\dlfcn.h
+	<_mingw.h>
+
+1489006043 c:\mingw\include\sys\time.h
+	<time.h>
+
+1382816964 c:\mingw\include\xercesc\util\platformutils.hpp
+	<xercesc/util/XercesDefs.hpp>
+	<xercesc/util/XMLException.hpp>
+	<xercesc/util/PanicHandler.hpp>
+	<xercesc/util/XMLFileMgr.hpp>
+	<xercesc/util/XMLMutexMgr.hpp>
+
+1382816964 c:\mingw\include\xercesc\util\xercesdefs.hpp
+	<xercesc/util/Xerces_autoconf_config.hpp>
+	<xercesc/util/XercesVersion.hpp>
+
+1382816983 c:\mingw\include\xercesc\util\xerces_autoconf_config.hpp
+	<inttypes.h>
+	<sys/types.h>
+	<wchar.h>
+
+1489006043 c:\mingw\include\inttypes.h
+	<_mingw.h>
+	<stdint.h>
+	<stddef.h>
+
+1382816964 c:\mingw\include\xercesc\util\xercesversion.hpp
+
+1382816980 c:\mingw\include\xercesc\util\xmlexception.hpp
+	<xercesc/util/XercesDefs.hpp>
+	<xercesc/util/XMemory.hpp>
+	<xercesc/util/XMLExceptMsgs.hpp>
+	<xercesc/util/XMLUni.hpp>
+	<xercesc/framework/XMLErrorReporter.hpp>
+
+1382816964 c:\mingw\include\xercesc\util\xmemory.hpp
+	<xercesc/util/XercesDefs.hpp>
+	<stdlib.h>
+
+1382816980 c:\mingw\include\xercesc\util\xmlexceptmsgs.hpp
+	<xercesc/util/XercesDefs.hpp>
+	<xercesc/dom/DOMError.hpp>
+
+1382816965 c:\mingw\include\xercesc\dom\domerror.hpp
+	<xercesc/util/XercesDefs.hpp>
+
+1382816980 c:\mingw\include\xercesc\util\xmluni.hpp
+	<xercesc/util/XercesDefs.hpp>
+
+1382816970 c:\mingw\include\xercesc\framework\xmlerrorreporter.hpp
+	<xercesc/util/XercesDefs.hpp>
+
+1382816963 c:\mingw\include\xercesc\util\panichandler.hpp
+	<xercesc/util/XMemory.hpp>
+
+1382816980 c:\mingw\include\xercesc\util\xmlfilemgr.hpp
+	<xercesc/util/XercesDefs.hpp>
+	<xercesc/util/XMemory.hpp>
+
+1382816980 c:\mingw\include\xercesc\util\xmlmutexmgr.hpp
+	<xercesc/util/XMemory.hpp>
+
+1382816975 c:\mingw\include\xercesc\parsers\abstractdomparser.hpp
+	<xercesc/dom/DOMDocument.hpp>
+	<xercesc/framework/XMLDocumentHandler.hpp>
+	<xercesc/framework/XMLErrorReporter.hpp>
+	<xercesc/framework/XMLEntityHandler.hpp>
+	<xercesc/util/SecurityManager.hpp>
+	<xercesc/util/ValueStackOf.hpp>
+	<xercesc/validators/DTD/DocTypeHandler.hpp>
+	<xercesc/dom/DOMDocumentType.hpp>
+	<xercesc/validators/DTD/DTDElementDecl.hpp>
+	<xercesc/framework/XMLBufferMgr.hpp>
+	<xercesc/framework/psvi/PSVIHandler.hpp>
+
+1382816965 c:\mingw\include\xercesc\dom\domdocument.hpp
+	<xercesc/util/XercesDefs.hpp>
+	<xercesc/dom/DOMNode.hpp>
+	<xercesc/dom/DOMDocumentRange.hpp>
+	<xercesc/dom/DOMDocumentTraversal.hpp>
+	<xercesc/dom/DOMXPathEvaluator.hpp>
+
+1382816965 c:\mingw\include\xercesc\dom\domnode.hpp
+	<xercesc/util/XercesDefs.hpp>
+
+1382816965 c:\mingw\include\xercesc\dom\domdocumentrange.hpp
+	<xercesc/util/XercesDefs.hpp>
+
+1382816965 c:\mingw\include\xercesc\dom\domdocumenttraversal.hpp
+	<xercesc/util/XercesDefs.hpp>
+	<xercesc/dom/DOMNodeFilter.hpp>
+
+1382816965 c:\mingw\include\xercesc\dom\domnodefilter.hpp
+	<xercesc/dom/DOMNode.hpp>
+
+1382816978 c:\mingw\include\xercesc\dom\domxpathevaluator.hpp
+	<xercesc/util/XercesDefs.hpp>
+	<xercesc/dom/DOMXPathResult.hpp>
+
+1382816978 c:\mingw\include\xercesc\dom\domxpathresult.hpp
+	<xercesc/util/XercesDefs.hpp>
+
+1382816969 c:\mingw\include\xercesc\framework\xmldocumenthandler.hpp
+	<xercesc/util/XercesDefs.hpp>
+	<xercesc/util/RefVectorOf.hpp>
+	<xercesc/framework/XMLAttr.hpp>
+
+1382816964 c:\mingw\include\xercesc\util\refvectorof.hpp
+	<xercesc/util/BaseRefVectorOf.hpp>
+	<xercesc/util/RefVectorOf.c>
+
+1382816963 c:\mingw\include\xercesc\util\baserefvectorof.hpp
+	<xercesc/util/ArrayIndexOutOfBoundsException.hpp>
+	<xercesc/util/XMLEnumerator.hpp>
+	<xercesc/util/PlatformUtils.hpp>
+	<xercesc/framework/MemoryManager.hpp>
+	<xercesc/util/BaseRefVectorOf.c>
+
+1382816963 c:\mingw\include\xercesc\util\arrayindexoutofboundsexception.hpp
+	<xercesc/util/XMLException.hpp>
+
+1382816980 c:\mingw\include\xercesc\util\xmlenumerator.hpp
+	<xercesc/util/XercesDefs.hpp>
+
+1382816969 c:\mingw\include\xercesc\framework\memorymanager.hpp
+	<xercesc/util/XercesDefs.hpp>
+	<stdlib.h>
+
+1382816963 c:\mingw\include\xercesc\util\baserefvectorof.c
+	<xercesc/util/BaseRefVectorOf.hpp>
+
+1382816964 c:\mingw\include\xercesc\util\refvectorof.c
+	<xercesc/util/RefVectorOf.hpp>
+
+1382816969 c:\mingw\include\xercesc\framework\xmlattr.hpp
+	<xercesc/util/PlatformUtils.hpp>
+	<xercesc/util/QName.hpp>
+	<xercesc/framework/XMLAttDef.hpp>
+	<xercesc/validators/datatype/DatatypeValidator.hpp>
+
+1382816964 c:\mingw\include\xercesc\util\qname.hpp
+	<xercesc/util/XMLString.hpp>
+	<xercesc/util/XMLUniDefs.hpp>
+	<xercesc/util/XMemory.hpp>
+	<xercesc/util/PlatformUtils.hpp>
+	<xercesc/internal/XSerializable.hpp>
+
+1382816980 c:\mingw\include\xercesc\util\xmlstring.hpp
+	<xercesc/util/BaseRefVectorOf.hpp>
+	<xercesc/framework/XMLBuffer.hpp>
+	<xercesc/framework/MemoryManager.hpp>
+	<string.h>
+	<assert.h>
+
+1382816969 c:\mingw\include\xercesc\framework\xmlbuffer.hpp
+	<xercesc/util/XMemory.hpp>
+	<xercesc/util/PlatformUtils.hpp>
+	<xercesc/framework/MemoryManager.hpp>
+	<string.h>
+
+1382816980 c:\mingw\include\xercesc\util\xmlunidefs.hpp
+	<xercesc/util/XercesDefs.hpp>
+
+1382816976 c:\mingw\include\xercesc\internal\xserializable.hpp
+	<xercesc/internal/XSerializeEngine.hpp>
+	<xercesc/internal/XProtoType.hpp>
+
+1382816976 c:\mingw\include\xercesc\internal\xserializeengine.hpp
+	<xercesc/util/RefHashTableOf.hpp>
+	<xercesc/util/ValueVectorOf.hpp>
+	<xercesc/util/XMLExceptMsgs.hpp>
+	<xercesc/internal/XSerializationException.hpp>
+
+1382816964 c:\mingw\include\xercesc\util\refhashtableof.hpp
+	<xercesc/util/Hashers.hpp>
+	<xercesc/util/IllegalArgumentException.hpp>
+	<xercesc/util/NoSuchElementException.hpp>
+	<xercesc/util/RuntimeException.hpp>
+	<xercesc/util/PlatformUtils.hpp>
+	<xercesc/framework/MemoryManager.hpp>
+	<xercesc/util/RefHashTableOf.c>
+
+1382816963 c:\mingw\include\xercesc\util\hashers.hpp
+	<xercesc/util/XMLString.hpp>
+
+1382816963 c:\mingw\include\xercesc\util\illegalargumentexception.hpp
+	<xercesc/util/XercesDefs.hpp>
+	<xercesc/util/XMLException.hpp>
+
+1382816963 c:\mingw\include\xercesc\util\nosuchelementexception.hpp
+	<xercesc/util/XercesDefs.hpp>
+	<xercesc/util/XMLException.hpp>
+
+1382816964 c:\mingw\include\xercesc\util\runtimeexception.hpp
+	<xercesc/util/XercesDefs.hpp>
+	<xercesc/util/XMLException.hpp>
+
+1382816964 c:\mingw\include\xercesc\util\refhashtableof.c
+	<xercesc/util/RefHashTableOf.hpp>
+	<xercesc/util/Janitor.hpp>
+	<xercesc/util/XMLString.hpp>
+	<xercesc/util/NullPointerException.hpp>
+	<new>
+
+1382816963 c:\mingw\include\xercesc\util\janitor.hpp
+	<xercesc/util/XMemory.hpp>
+	<xercesc/framework/MemoryManager.hpp>
+	<xercesc/util/Janitor.c>
+
+1382816963 c:\mingw\include\xercesc\util\janitor.c
+	<xercesc/util/Janitor.hpp>
+
+1382816963 c:\mingw\include\xercesc\util\nullpointerexception.hpp
+	<xercesc/util/XercesDefs.hpp>
+	<xercesc/util/XMLException.hpp>
+
+1382816964 c:\mingw\include\xercesc\util\valuevectorof.hpp
+	<xercesc/util/ArrayIndexOutOfBoundsException.hpp>
+	<xercesc/util/XMLEnumerator.hpp>
+	<xercesc/util/PlatformUtils.hpp>
+	<xercesc/framework/MemoryManager.hpp>
+	<xercesc/util/ValueVectorOf.c>
+
+1382816964 c:\mingw\include\xercesc\util\valuevectorof.c
+	<xercesc/util/ValueVectorOf.hpp>
+	<string.h>
+
+1382816976 c:\mingw\include\xercesc\internal\xserializationexception.hpp
+	<xercesc/util/XercesDefs.hpp>
+	<xercesc/util/XMLException.hpp>
+
+1382816976 c:\mingw\include\xercesc\internal\xprototype.hpp
+	<xercesc/util/PlatformUtils.hpp>
+
+1382816969 c:\mingw\include\xercesc\framework\xmlattdef.hpp
+	<xercesc/util/PlatformUtils.hpp>
+	<xercesc/util/XMLString.hpp>
+	<xercesc/util/XMemory.hpp>
+	<xercesc/internal/XSerializable.hpp>
+
+1382816972 c:\mingw\include\xercesc\validators\datatype\datatypevalidator.hpp
+	<xercesc/util/PlatformUtils.hpp>
+	<xercesc/util/RefHashTableOf.hpp>
+	<xercesc/util/KVStringPair.hpp>
+	<xercesc/util/XMLUniDefs.hpp>
+	<xercesc/util/regx/RegularExpression.hpp>
+	<xercesc/validators/schema/SchemaSymbols.hpp>
+	<xercesc/internal/XSerializable.hpp>
+	<xercesc/framework/psvi/XSSimpleTypeDefinition.hpp>
+	<xercesc/framework/ValidationContext.hpp>
+
+1382816963 c:\mingw\include\xercesc\util\kvstringpair.hpp
+	<xercesc/util/XMemory.hpp>
+	<xercesc/util/PlatformUtils.hpp>
+	<xercesc/internal/XSerializable.hpp>
+
+1382816982 c:\mingw\include\xercesc\util\regx\regularexpression.hpp
+	<xercesc/util/RefArrayVectorOf.hpp>
+	<xercesc/util/XMLString.hpp>
+	<xercesc/util/Janitor.hpp>
+	<xercesc/util/regx/Op.hpp>
+	<xercesc/util/regx/TokenFactory.hpp>
+	<xercesc/util/regx/BMPattern.hpp>
+	<xercesc/util/regx/OpFactory.hpp>
+	<xercesc/util/regx/RegxUtil.hpp>
+
+1382816964 c:\mingw\include\xercesc\util\refarrayvectorof.hpp
+	<xercesc/util/BaseRefVectorOf.hpp>
+	<xercesc/util/RefArrayVectorOf.c>
+
+1382816964 c:\mingw\include\xercesc\util\refarrayvectorof.c
+	"RefArrayVectorOf.hpp"
+
+1382816982 c:\mingw\include\xercesc\util\regx\op.hpp
+	<xercesc/util/RefVectorOf.hpp>
+	<xercesc/util/RuntimeException.hpp>
+
+1382816982 c:\mingw\include\xercesc\util\regx\tokenfactory.hpp
+	<xercesc/util/RefVectorOf.hpp>
+	<xercesc/util/regx/Token.hpp>
+	<xercesc/util/Mutexes.hpp>
+
+1382816982 c:\mingw\include\xercesc\util\regx\token.hpp
+	<xercesc/util/RuntimeException.hpp>
+	<xercesc/util/PlatformUtils.hpp>
+
+1382816963 c:\mingw\include\xercesc\util\mutexes.hpp
+	<xercesc/util/XMemory.hpp>
+	<xercesc/util/PlatformUtils.hpp>
+
+1382816982 c:\mingw\include\xercesc\util\regx\bmpattern.hpp
+	<xercesc/util/XMemory.hpp>
+	<xercesc/util/PlatformUtils.hpp>
+
+1382816982 c:\mingw\include\xercesc\util\regx\opfactory.hpp
+	<xercesc/util/XMemory.hpp>
+	<xercesc/util/RefVectorOf.hpp>
+
+1382816982 c:\mingw\include\xercesc\util\regx\regxutil.hpp
+	<xercesc/util/XMLUniDefs.hpp>
+
+1382816981 c:\mingw\include\xercesc\validators\schema\schemasymbols.hpp
+	<xercesc/util/XercesDefs.hpp>
+
+1382816979 c:\mingw\include\xercesc\framework\psvi\xssimpletypedefinition.hpp
+	<xercesc/framework/psvi/XSTypeDefinition.hpp>
+
+1382816979 c:\mingw\include\xercesc\framework\psvi\xstypedefinition.hpp
+	<xercesc/framework/psvi/XSObject.hpp>
+
+1382816979 c:\mingw\include\xercesc\framework\psvi\xsobject.hpp
+	<xercesc/util/PlatformUtils.hpp>
+	<xercesc/framework/psvi/XSConstants.hpp>
+
+1382816979 c:\mingw\include\xercesc\framework\psvi\xsconstants.hpp
+	<xercesc/util/RefVectorOf.hpp>
+	<xercesc/util/RefArrayVectorOf.hpp>
+
+1382816969 c:\mingw\include\xercesc\framework\validationcontext.hpp
+	<xercesc/util/PlatformUtils.hpp>
+	<xercesc/util/RefHashTableOf.hpp>
+	<xercesc/util/NameIdPool.hpp>
+	<xercesc/util/XMemory.hpp>
+
+1382816963 c:\mingw\include\xercesc\util\nameidpool.hpp
+	<xercesc/util/XMemory.hpp>
+	<xercesc/util/XMLString.hpp>
+	<xercesc/util/PlatformUtils.hpp>
+	<xercesc/util/RefHashTableOf.hpp>
+	<xercesc/util/NameIdPool.c>
+
+1382816963 c:\mingw\include\xercesc\util\nameidpool.c
+	<xercesc/util/NameIdPool.hpp>
+	<xercesc/util/IllegalArgumentException.hpp>
+	<xercesc/util/NoSuchElementException.hpp>
+	<xercesc/util/RuntimeException.hpp>
+	<new>
+	<assert.h>
+
+1382816970 c:\mingw\include\xercesc\framework\xmlentityhandler.hpp
+	<xercesc/util/XercesDefs.hpp>
+
+1382816964 c:\mingw\include\xercesc\util\securitymanager.hpp
+	<xercesc/util/XercesDefs.hpp>
+
+1382816964 c:\mingw\include\xercesc\util\valuestackof.hpp
+	<xercesc/util/EmptyStackException.hpp>
+	<xercesc/util/ValueVectorOf.hpp>
+	<xercesc/util/ValueStackOf.c>
+
+1382816963 c:\mingw\include\xercesc\util\emptystackexception.hpp
+	<xercesc/util/XercesDefs.hpp>
+	<xercesc/util/XMLException.hpp>
+
+1382816964 c:\mingw\include\xercesc\util\valuestackof.c
+	<xercesc/util/ValueStackOf.hpp>
+
+1382816974 c:\mingw\include\xercesc\validators\dtd\doctypehandler.hpp
+	<xercesc/util/XercesDefs.hpp>
+	<xercesc/framework/XMLNotationDecl.hpp>
+	<xercesc/validators/DTD/DTDAttDef.hpp>
+	<xercesc/validators/DTD/DTDElementDecl.hpp>
+	<xercesc/validators/DTD/DTDEntityDecl.hpp>
+
+1382816970 c:\mingw\include\xercesc\framework\xmlnotationdecl.hpp
+	<xercesc/util/XMemory.hpp>
+	<xercesc/util/PlatformUtils.hpp>
+	<xercesc/util/XMLString.hpp>
+	<xercesc/internal/XSerializable.hpp>
+
+1382816974 c:\mingw\include\xercesc\validators\dtd\dtdattdef.hpp
+	<xercesc/framework/XMLAttDef.hpp>
+
+1382816974 c:\mingw\include\xercesc\validators\dtd\dtdelementdecl.hpp
+	<xercesc/util/RefHashTableOf.hpp>
+	<xercesc/util/QName.hpp>
+	<xercesc/framework/XMLElementDecl.hpp>
+	<xercesc/framework/XMLContentModel.hpp>
+	<xercesc/validators/DTD/DTDAttDef.hpp>
+
+1382816969 c:\mingw\include\xercesc\framework\xmlelementdecl.hpp
+	<xercesc/framework/XMLAttr.hpp>
+	<xercesc/framework/XMLAttDefList.hpp>
+	<xercesc/util/XMLString.hpp>
+	<xercesc/util/PlatformUtils.hpp>
+	<xercesc/internal/XSerializable.hpp>
+
+1382816969 c:\mingw\include\xercesc\framework\xmlattdeflist.hpp
+	<xercesc/util/XercesDefs.hpp>
+	<xercesc/util/XMemory.hpp>
+	<xercesc/internal/XSerializable.hpp>
+
+1382816969 c:\mingw\include\xercesc\framework\xmlcontentmodel.hpp
+	<xercesc/util/XMemory.hpp>
+	<xercesc/util/QName.hpp>
+
+1382816974 c:\mingw\include\xercesc\validators\dtd\dtdentitydecl.hpp
+	<xercesc/framework/XMLEntityDecl.hpp>
+
+1382816969 c:\mingw\include\xercesc\framework\xmlentitydecl.hpp
+	<xercesc/util/XMemory.hpp>
+	<xercesc/util/PlatformUtils.hpp>
+	<xercesc/util/XMLString.hpp>
+	<xercesc/internal/XSerializable.hpp>
+
+1382816965 c:\mingw\include\xercesc\dom\domdocumenttype.hpp
+	<xercesc/util/XercesDefs.hpp>
+	<xercesc/dom/DOMNode.hpp>
+
+1382816969 c:\mingw\include\xercesc\framework\xmlbuffermgr.hpp
+	<xercesc/framework/XMLBuffer.hpp>
+
+1382816979 c:\mingw\include\xercesc\framework\psvi\psvihandler.hpp
+
+1382816975 c:\mingw\include\xercesc\parsers\xercesdomparser.hpp
+	<xercesc/parsers/AbstractDOMParser.hpp>
+	<xercesc/validators/common/Grammar.hpp>
+
+1382816971 c:\mingw\include\xercesc\validators\common\grammar.hpp
+	<limits.h>
+	<xercesc/framework/XMLElementDecl.hpp>
+	<xercesc/framework/XMLEntityDecl.hpp>
+	<xercesc/framework/XMLNotationDecl.hpp>
+	<xercesc/internal/XSerializable.hpp>
+
+1489006043 c:\mingw\include\limits.h
+	<_mingw.h>
+
+1382816965 c:\mingw\include\xercesc\dom\domimplementation.hpp
+	<xercesc/dom/DOMImplementationLS.hpp>
+	<xercesc/dom/DOMException.hpp>
+	<xercesc/dom/DOMLSException.hpp>
+	<xercesc/dom/DOMRangeException.hpp>
+	<xercesc/util/PlatformUtils.hpp>
+
+1382816965 c:\mingw\include\xercesc\dom\domimplementationls.hpp
+	<xercesc/util/PlatformUtils.hpp>
+
+1382816965 c:\mingw\include\xercesc\dom\domexception.hpp
+	<xercesc/util/XercesDefs.hpp>
+	<xercesc/util/PlatformUtils.hpp>
+
+1382816965 c:\mingw\include\xercesc\dom\domlsexception.hpp
+	<xercesc/dom/DOMException.hpp>
+
+1382816978 c:\mingw\include\xercesc\dom\domrangeexception.hpp
+	<xercesc/dom/DOMException.hpp>
+
+1382816965 c:\mingw\include\xercesc\dom\domimplementationregistry.hpp
+	<xercesc/util/XercesDefs.hpp>
+
+1382816965 c:\mingw\include\xercesc\dom\domnamednodemap.hpp
+	<xercesc/util/XercesDefs.hpp>
+
+1382816965 c:\mingw\include\xercesc\dom\domnodelist.hpp
+	<xercesc/util/XercesDefs.hpp>
+
+1382816965 c:\mingw\include\xercesc\dom\domlocator.hpp
+	<xercesc/util/XercesDefs.hpp>
+
+1382816969 c:\mingw\include\xercesc\framework\membufinputsource.hpp
+	<xercesc/sax/InputSource.hpp>
+
+1382816968 c:\mingw\include\xercesc\sax\inputsource.hpp
+	<xercesc/util/PlatformUtils.hpp>
+
+1382816968 c:\mingw\include\xercesc\sax\handlerbase.hpp
+	<xercesc/sax/DocumentHandler.hpp>
+	<xercesc/sax/DTDHandler.hpp>
+	<xercesc/sax/EntityResolver.hpp>
+	<xercesc/sax/ErrorHandler.hpp>
+	<xercesc/sax/SAXParseException.hpp>
+
+1382816967 c:\mingw\include\xercesc\sax\documenthandler.hpp
+	<xercesc/util/XercesDefs.hpp>
+
+1382816967 c:\mingw\include\xercesc\sax\dtdhandler.hpp
+	<xercesc/util/XercesDefs.hpp>
+
+1382816967 c:\mingw\include\xercesc\sax\entityresolver.hpp
+	<xercesc/util/XercesDefs.hpp>
+
+1382816967 c:\mingw\include\xercesc\sax\errorhandler.hpp
+	<xercesc/util/XercesDefs.hpp>
+
+1382816968 c:\mingw\include\xercesc\sax\saxparseexception.hpp
+	<xercesc/sax/SAXException.hpp>
+
+1382816968 c:\mingw\include\xercesc\sax\saxexception.hpp
+	<xercesc/util/XMLString.hpp>
+	<xercesc/util/XMLUni.hpp>
+	<xercesc/util/XMemory.hpp>
+

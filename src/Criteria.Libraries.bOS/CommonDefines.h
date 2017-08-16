@@ -1,0 +1,4 @@
+#ifndef _BOS_COMMON_DEFINES_H_
+#define _BOS_COMMON_DEFINES_H_
+
+#endif //_BOS_COMMON_DEFINES_H_
