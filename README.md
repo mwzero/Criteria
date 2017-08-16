@@ -1,2 +1,2 @@
 # Criteria
-##A light but smart business process engine
+## A light but smart business process engine
