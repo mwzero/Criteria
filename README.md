@@ -1,2 +1,1 @@
-# Criteria
-## A light but smart business process engine
+# Criteria: a c/c++ Business Process Management engine
