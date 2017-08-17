@@ -1,1 +1,1 @@
-# Criteria: a c/c++ Business Process Management engine
+# Criteria: a C/C++ Business Process Management engine
